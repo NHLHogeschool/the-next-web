@@ -8,13 +8,13 @@ De minorwijzer geeft een overzicht van de structuur en inhoud van de minor, van 
 Veel afgestudeerde cmd-ers komen in het werkveld terecht als interaction designer,webvormgever of programmeur. In deze minor wordt aandacht besteed aan deze drie aspecten van het werkgebied. Daarnaast is er veel aandacht voor de aanpak van een opdracht. Hoe werk je vanuit een vaak een onduidelijk probleem, naar een werkende oplossing. 
 
 ## Communicatie
-De minor the next web heeft een aantal communicatiekanalen. Wijzigingen op het progamma worden doorgegeven via de mailing list. Voor deze mailing lijst moet je aangemeld zijn. Meld je aan op: http://eepurl.com/1tImP.
-Daarnaast is er de de website van de minor www.thenextweb.eu. De website verzamelt de informatie die via andere kanalen is verspreid. College materiaal zal hierop verschijnen. 
+De minor the next web heeft een aantal communicatiekanalen. Wijzigingen op het progamma worden doorgegeven via de mailing list. Voor deze mailing lijst moet je aangemeld zijn. [Meld je hier aan](http://eepurl.com/1tImP).
+Daarnaast is er de de website van de minor <http://www.thenextweb.eu>. De website verzamelt de informatie die via andere kanalen is verspreid. College materiaal zal hierop verschijnen. 
 
-Naast deze kanalen is de minor ook actief op twitter en op facebook. Op twitter onder het account @minorthenextweb, facebook als de groep https://www.facebook.com/groups/mtwncmd/. De informatie op deze kanalen is bedoeld als achtergrondmateriaal. Je hoeft deze kanalen niet actief te volgen, er zullen geen belangrijke organisatorische mededelingen worden gedaan.
+Naast deze kanalen is de minor ook actief op twitter en op facebook. Op twitter onder het account [@minorthenextweb](http://twitter.com/minorthenextweb), facebook als de groep [mtnwcmd](https://www.facebook.com/groups/mtwncmd/). De informatie op deze kanalen is bedoeld als achtergrondmateriaal. Je hoeft deze kanalen niet actief te volgen, er zullen geen belangrijke organisatorische mededelingen worden gedaan.
 
 ## Rooster
-Het rooster van de minor is te vinden op de www.thenextweb.eu. De complete planning vind je op https://www.google.com/calendar/embed?src=mo7vph6l2neh6m3bcju1ncon4k@group.calendar.google.com&ctz=Europe/Amsterdam.
+Het rooster van de minor is te vinden op de <http://www.thenextweb.eu>. [De complete planning vind je hier](https://www.google.com/calendar/embed?src=mo7vph6l2neh6m3bcju1ncon4k@group.calendar.google.com&ctz=Europe/Amsterdam).
 
 ## Docenten
 
@@ -27,15 +27,18 @@ Rol: In de minor verantwoordelijk voor de organisatie, app lessen, design scienc
 Achtergrond: HBO Informatica aan de NHL Hogeschool, Master applied communication science Universiteit Twente.
 
 **Jan-Wessel Hovingh**
+
 Aanwezig: Dinsdag, woensdag en donderdag
 Expertise: Vormgeving, omgang met klanten
 
 **Dirk Sierd de Vries**
+
 Aanwezig op: Dinsdag, Woensdag, Vrijdag
 Expertise: Ruby on Rails, JavaScript (jQuery, Backbone.js), php
 Achtergrond: CMD Leeuwarden
 
 **Sjef Smeets**
+
 Aanwezig: Maandag t/m donderdag
 Expertise: Interaction Design, Research, Functional Design, Usability, Experience Design
 Rol: Interaction design 
@@ -43,7 +46,7 @@ Rol: Interaction design
 **Guido Swildens**
 
 ## Huisregels
-Elke werkdag kan worden gebruikt om lessen/ consults en tutorgesprekken te plannen. Binnen deze dagen ben je inzetbaar. Vakanties/ afwezigheid buiten de daarvoor bestemde periodes overleg je met je groep **en** de minoreigenaar. Je zult een hele goede reden moeten hebben.Lessen starten op de aangegeven tijd, ben je te laat dan kom je niet meer binnen. Je gaat niet eerder weg dan dat de les is afgelopen.
+Elke werkdag kan worden gebruikt om lessen/ consults en tutorgesprekken te plannen. Binnen deze dagen ben je inzetbaar. Vakanties/ afwezigheid buiten de daarvoor bestemde periodes overleg je met je groep **en** de minoreigenaar. Je zult een hele goede reden moeten hebben. Lessen starten op de aangegeven tijd, ben je te laat dan kom je niet meer binnen. Je gaat niet eerder weg dan dat de les is afgelopen.
 
 # Inhoud
 
@@ -61,10 +64,11 @@ Elke week start met een weekopening. Elke weekopening heeft dezelfde structuur. 
 Om je te helpen om te werken aan je kennis op een bepaald vakgebied zijn er community bijeenkomsten. Deze bijeenkomsten kun je gebruiken om te overleggen met een docent en met medestudenten over het onderwerp.
 
 Er zijn communities voor:
-- Design research (door Raymond)
-- Design (Jan Wessel)
-- Production (Dirk Sierd)
-- Scrum (Guido)
+
+* Design research (door Raymond)
+* Design (Jan Wessel)
+* Production (Dirk Sierd)
+* Scrum (Guido)
 
 ## Design research
 Als je een project start, dan is er vaak nog veel onduidelijk. De opdrachtgever geeft je een probleem, maar weet vaak niet goed naar welke oplossing hij op zoek is. Daarnaast is het niet duidelijk welke oplossing zou kunnen werken. 
@@ -92,7 +96,7 @@ Je pakt de opdracht aan met je team. Hiervoor heb je een goed team nodig. Bij al
 
 ## Beoordeling
 De beoordeling van alle competenties wordt gedaan door vakdocenten. Bij elke competentie die je wilt laten beoordelen maak je een *verantwoording*. In deze verantwoording geef je puntsgewijs aan waarom je de competentie hebt behaald. Hierbij maak je gebruik van de behaviours van de competentie. 
-Gebruik hiervoor de aanwijzingen op de cmd website: Het profiel is te vinden op http://www.cmd-leeuwarden.nl/Algemeen/Competentieprofiel. Gebruik ook de niveaubeschrijvingen: http://www.cmd-leeuwarden.nl/Algemeen/CMD+documenten?folderid=1092
+Gebruik hiervoor de aanwijzingen op de cmd website: [Het profiel is hier te vinden](http://www.cmd-leeuwarden.nl/Algemeen/Competentieprofiel). Gebruik ook de niveaubeschrijvingen, [die vind je hier](http://www.cmd-leeuwarden.nl/Algemeen/CMD+documenten?folderid=1092).
 
 Belangrijk bij de beoordeling zijn twee zaken. Ten eerste moet is het belangrijk om dat je laat zien dat je een goed *proces* hebt gevolgd. Laat zien dat je geëxperimenteerd hebt, laat tussenproducten zien e.d. Ten tweede is het eindniveau van belang. Je zult ook een minimaal eindniveau moet halen voor een competentie. 
 
@@ -114,7 +118,7 @@ CMD is een vraaggestuurde,  competentiegerichte opleiding. Je leert (binnen gren
 Elke student heeft een mentor, met de mentor bespreek je je plannen voor de periode. Gebruik je mentor om je te adviseren over hetgeen je kunt leren, en vraag feedback op je plannen. 
 
 ## BOKS
-In de body of skills and knowledge op de cmd website kun je vinden welke literatuur de opleiding aanraad om een je een bepaald onderwerp eigen te maken. http://www.cmd-leeuwarden.nl/Algemeen/Body+of+Knowledge+and+Skills
+In de [Body Of Knowledge and Skills](http://www.cmd-leeuwarden.nl/Algemeen/Body+of+Knowledge+and+Skills) kun je vinden welke literatuur de opleiding aanraad om een je een bepaald onderwerp eigen te maken. 
 
 # Beoordelingsvoorwaarden per competentie
 
