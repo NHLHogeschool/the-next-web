@@ -18,7 +18,7 @@ Het rooster van de minor is te vinden op de www.thenextweb.eu. De complete plann
 
 ## Docenten
 
-** Raymond van Dongelen **
+**Raymond van Dongelen**
 
 Aanwezig: op maandag t/m donderdag. Dinsdag en donderdag tot 14.45. 
 Expertise: Design science, Informatica voornamelijk toegespitst op Apps. 
@@ -26,17 +26,17 @@ Rol: In de minor verantwoordelijk voor de organisatie, app lessen, design scienc
 
 Achtergrond: HBO Informatica aan de NHL Hogeschool, Master applied communication science Universiteit Twente.
 
-** Jan Wessel Hovingh **
+**Jan-Wessel Hovingh**
 
-** Dirk Sierd de Vries *
+**Dirk Sierd de Vries**
 
-** Sjef Smeets **
+**Sjef Smeets**
 
 Aanwezig: Maandag t/m donderdag
 Expertise: Interaction Design, Research, Functional Design, Usability, Experience Design
 Rol: Interaction design 
 
-** Guido Swildens **
+**Guido Swildens**
 
 ## Huisregels
 Elke werkdag kan worden gebruikt om lessen/ consults en tutorgesprekken te plannen. Binnen deze dagen ben je inzetbaar. Vakanties/ afwezigheid buiten de daarvoor bestemde periodes overleg je met je groep **en** de minoreigenaar. Je zult een hele goede reden moeten hebben.Lessen starten op de aangegeven tijd, ben je te laat dan kom je niet meer binnen. Je gaat niet eerder weg dan dat de les is afgelopen.
