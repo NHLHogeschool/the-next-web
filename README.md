@@ -27,15 +27,19 @@ Rol: In de minor verantwoordelijk voor de organisatie, app lessen, design scienc
 Achtergrond: HBO Informatica aan de NHL Hogeschool, Master applied communication science Universiteit Twente.
 
 **Jan-Wessel Hovingh**
+
 Aanwezig: Dinsdag, woensdag en donderdag
 Expertise: Vormgeving, omgang met klanten
+Achtergrond: Academie Minerva Hanze Hogeschool
 
 **Dirk Sierd de Vries**
+
 Aanwezig op: Dinsdag, Woensdag, Vrijdag
 Expertise: Ruby on Rails, JavaScript (jQuery, Backbone.js), php
 Achtergrond: CMD Leeuwarden
 
 **Sjef Smeets**
+
 Aanwezig: Maandag t/m donderdag
 Expertise: Interaction Design, Research, Functional Design, Usability, Experience Design
 Rol: Interaction design 
