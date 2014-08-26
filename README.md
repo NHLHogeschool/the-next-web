@@ -120,7 +120,7 @@ Elke student heeft een mentor, met de mentor bespreek je je plannen voor de peri
 ## BOKS
 In de [Body Of Knowledge and Skills](http://www.cmd-leeuwarden.nl/Algemeen/Body+of+Knowledge+and+Skills) kun je vinden welke literatuur de opleiding aanraad om een je een bepaald onderwerp eigen te maken. 
 
-# Beoordelingsvoorwaarden per competentie
+# Beoordelings-voorwaarden per competentie
 
 # Growth & Reflection
 Growth & Reflection wordt aan het eind van het semester beoordeeld door je mentor. Hierin spelen een aantal zaken een rol:
