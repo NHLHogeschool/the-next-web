@@ -226,10 +226,32 @@ Hoe weet bijvoorbeeld of hetgeen waar je mee bezig bent van voldoende niveau is?
 
 ## Globale planning
 
-| Kalender week | Projectweek | Sprint  | Opzet          |
-| ------------- |:-----------:| -------:|:--------------:|
-| 36            | 0           |         | Inspiratieweek |
-|
+| Kalender week | Projectweek | Sprint  | Opzet            |
+| ------------- |:-----------:| -------:|:----------------:|
+| 36            | -1          | nvt     | Inspiratieweek   |
+| 37            | 0           | nvt     | Kickoff          |
+| 38            | 1           | 1       |                  |
+| 39            | 2           | 1       |                  |
+| 40            | 3           | 2       |                  |
+| 41            | 4           | 2       |                  |
+| 42            |             |         | Herfstvakantie   |
+| 43            | 5           | 0       |                  |
+| 44            | 6           | 0       |                  |
+| 45            | 7           | 0       |                  |
+| 46            | 8           | 0       |                  |
+| 47            | 9           | 0       |                  |
+| 48            | 10          | 0       |                  |
+| 49            | 11          | 0       |                  |
+| 50            | 12          | 0       |                  |
+| 51            | 13          | 0       |                  |
+| 52            |             |         | Kerstvakantie    |
+| 1             |             |         | Kerstvakantie    |
+| 2             | 14          |         |                  |
+| 3             | 14          |         |                  |
+| 4             | 14          |         |                  |
+| 5             | 14          |         |                  |
+| 6             |             |         | Start semester 2 |
+
 
 
 ## Mentor
