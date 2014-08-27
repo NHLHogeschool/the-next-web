@@ -263,9 +263,10 @@ Design gap:
 * Meerdere iteraties die meer inzicht geven over probleem en oplossing.
 
 Een professionele organisatie:
-** Duidelijk zichtbaar dat er goed gepland wordt.
-** Inzichtelijk dat er gestructureerd gereflecteerd en geleerd wordt
-** Inzichtelijk dat bekend is welk werk en nog ligt.
+
+* Duidelijk zichtbaar dat er goed gepland wordt.
+* Inzichtelijk dat er gestructureerd gereflecteerd en geleerd wordt
+* Inzichtelijk dat bekend is welk werk en nog ligt.
 
 # Je leertraject
 
