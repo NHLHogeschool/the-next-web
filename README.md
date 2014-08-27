@@ -44,7 +44,7 @@ Het rooster van de minor is te vinden op de <http://www.thenextweb.eu>.
 **Raymond van Dongelen**
 
 Aanwezig: op maandag t/m donderdag. Dinsdag en donderdag tot 14.45.  
-Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/412)
+Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/412).
 Expertise: Design science, Informatica voornamelijk toegespitst op Apps.  
 Rol: In de minor verantwoordelijk voor de organisatie, app lessen, design science.  
 Consults:[Afspraak maken](http://www.cmd-leeuwarden.nl/subscriptions/times/1606/).
