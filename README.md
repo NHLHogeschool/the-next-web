@@ -44,8 +44,11 @@ Het rooster van de minor is te vinden op de <http://www.thenextweb.eu>.
 **Raymond van Dongelen**
 
 Aanwezig: op maandag t/m donderdag. Dinsdag en donderdag tot 14.45.  
+Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/412)
 Expertise: Design science, Informatica voornamelijk toegespitst op Apps.  
 Rol: In de minor verantwoordelijk voor de organisatie, app lessen, design science.  
+Consults:[Afspraak maken](http://www.cmd-leeuwarden.nl/subscriptions/times/1606/).
+
 Achtergrond: HBO Informatica aan de NHL Hogeschool,
 Master applied communication science Universiteit Twente.
 
@@ -219,8 +222,8 @@ om de volgende minor een eigen opdracht te mogen doen.
 
 ## Globale planning
 
-| Kalender week | Projectweek | Sprint  | Opzet             |
-| ------------- |:-----------:| -------:|:------------------:|
+| Kalender week | Projectweek | Sprint  | Opzet              |
+| ------------- |:-----------:| -------:|--------------------|
 | 36            | -1          | nvt     | Inspiratieweek     |
 | 37            | 0           | nvt     | Kickoff            |
 | 38            | 1           | 1       |                    |
@@ -240,7 +243,7 @@ om de volgende minor een eigen opdracht te mogen doen.
 | 52            |             |         | Kerstvakantie      |
 | 1             |             |         | Kerstvakantie      |
 | 2             | 14          | 7       |                    |
-| 3             | 15          |         | Deadline 2         |
+| 3             | 15          |         | Deadline 2, presentatie|
 | 4             |             |         | Assessment         |
 | 5             |             |         | Assessment         |
 | 6             |             |         | Start semester 2   |
@@ -252,7 +255,7 @@ om de volgende minor een eigen opdracht te mogen doen.
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor
   ogen. Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd.
 * Deadline 2:  Inleveren materiaal donderdag 15 januari voor 23.59
-
+* Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct.
 
 Je bent vrij in de keuze voor het materiaal dat je aanlevert bij de assessments. Bij het eerste assessment zijn er wel zaken die we graag willen zien.
 
@@ -267,6 +270,9 @@ Een professionele organisatie:
 * Duidelijk zichtbaar dat er goed gepland wordt.
 * Inzichtelijk dat er gestructureerd gereflecteerd en geleerd wordt
 * Inzichtelijk dat bekend is welk werk en nog ligt.
+
+
+Presentaties: Beide presentaties zijn verplicht. Bij afwezigheid wordt het assessment geannuleerd.
 
 # Je leertraject
 
@@ -305,3 +311,4 @@ Hierin spelen een aantal zaken een rol:
 * Refelectieverslag
 
 De beoordeling vindt plaats in de vorm van een assessment. 
+Expert niveau wordt niet binnen de minor beoordeeld.
