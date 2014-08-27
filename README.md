@@ -236,7 +236,7 @@ Hoe weet bijvoorbeeld of hetgeen waar je mee bezig bent van voldoende niveau is?
 | 41            | 4           | 2       | Presentatie concept|
 | 42            |             |         | Herfstvakantie     |
 | 43            | 5           | 3       |                    |
-| 44            | 6           | 3       | Donderdag deadline |
+| 44            | 6           | 3       | Deadline 1         |
 | 45            | 7           | 4       | Peerassessments    |
 | 46            | 8           | 4       |                    |
 | 47            | 9           | 5       |                    |
@@ -247,9 +247,9 @@ Hoe weet bijvoorbeeld of hetgeen waar je mee bezig bent van voldoende niveau is?
 | 52            |             |         | Kerstvakantie      |
 | 1             |             |         | Kerstvakantie      |
 | 2             | 14          | 7       |                    |
-| 3             | 15          |         |                    |
-| 4             | 16          |         |                    |
-| 5             | 14          |         |                    |
+| 3             | 15          |         | Deadline 2         |
+| 4             |             |         | Assessment         |
+| 5             |             |         | Assessment         |
 | 6             |             |         | Start semester 2   |
 
 
@@ -258,7 +258,21 @@ Hoe weet bijvoorbeeld of hetgeen waar je mee bezig bent van voldoende niveau is?
 * Deadline 1: Inleveren materiaal donderdag 16 oktober voor 9.00 
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor
   ogen. Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd.
-* Deadline 2  
+* Deadline 2:  Inleveren materiaal donderdag 15 januari voor 23.59
+
+
+Je bent vrij in de keuze voor het materiaal dat je aanlevert bij de assessments. Bij het eerste assessment zijn er wel zaken die we graag willen zien.
+
+Design gap:
+
+* Huidige situatie 
+* Gewenste (middelen vrije) situatie
+* Meerdere iteraties die meer inzicht geven over probleem en oplossing.
+
+Een professionele organisatie:
+** Duidelijk zichtbaar dat er goed gepland wordt.
+** Inzichtelijk dat er gestructureerd gereflecteerd en geleerd wordt
+** Inzichtelijk dat bekend is welk werk en nog ligt.
 
 ## Mentor
 
