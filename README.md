@@ -78,6 +78,7 @@ Expertise: Interaction Design, Research, Functional Design, Usability, Experienc
 Rol: Interaction design 
 
 **Guido Swildens**
+Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/19).
 
 ## Huisregels
 
