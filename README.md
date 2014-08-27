@@ -224,6 +224,14 @@ Je leert (binnen grenzen), wat jij wilt leren.
 Dit geeft veel vrijheid, maar ook veel verantwoordelijkheid.
 Hoe weet bijvoorbeeld of hetgeen waar je mee bezig bent van voldoende niveau is?  
 
+## Globale planning
+
+| Kalender week | Projectweek | Sprint  | Opzet          |
+| ------------- |:-----------:| -------:|:--------------:|
+| 36            | 0           |         | Inspiratieweek |
+|
+
+
 ## Mentor
 
 Elke student heeft een mentor, met de mentor bespreek je je plannen voor de periode.
