@@ -217,13 +217,6 @@ Als je een eigen opdracht wilt doen, dan moet je dit tijdig bespreken met Raymon
 In de praktijk betekent dit dat je voor de laatste maand van de minor toestemming moet hebben,
 om de volgende minor een eigen opdracht te mogen doen.
 
-# Je leertraject
-
-CMD is een vraaggestuurde, competentiegerichte opleiding.
-Je leert (binnen grenzen), wat jij wilt leren.
-Dit geeft veel vrijheid, maar ook veel verantwoordelijkheid.
-Hoe weet bijvoorbeeld of hetgeen waar je mee bezig bent van voldoende niveau is?  
-
 ## Globale planning
 
 | Kalender week | Projectweek | Sprint  | Opzet             |
@@ -274,9 +267,22 @@ Een professionele organisatie:
 ** Inzichtelijk dat er gestructureerd gereflecteerd en geleerd wordt
 ** Inzichtelijk dat bekend is welk werk en nog ligt.
 
+# Je leertraject
+
+CMD is een vraaggestuurde, competentiegerichte opleiding.
+Je leert (binnen grenzen), wat jij wilt leren.
+Dit geeft veel vrijheid, maar ook veel verantwoordelijkheid.
+Hoe weet bijvoorbeeld of hetgeen waar je mee bezig bent van voldoende niveau is?  
+In de beoordeling wordt gekeken naar het bewijsmateriaal dat *jij* geeft voor *jouw leerdoelen* in *jouw* situatie. 
+
+## Pop
+Om er voor te zorgen dat je de periode goed plant, maak je een persoonlijk ontwikkelingsplan. Dit pop is je middel om er achter te komen hoe je aan je ec’s gaat komen. Je bespreekt hierin het bewijsmateriaal dat je wilt gaan vergaren voor de competenties waarin je je wilt verbeteren. Bouw door op feedback die je in de vorige jaren van je studie hebt gekregen. 
+Je pop bespreek je met je mentor, doel is om zekerheid over je aanpak te krijgen.  
+Voordat je een assessment in gaat maak je een verantwoordingsdocument voor de competentie die je laat beoordelen. Hierin beschrijf je waarom je nu competent bent. Het pop speelt geen rol in reguliere assessments. 
+
 ## Mentor
 
-Elke student heeft een mentor, met de mentor bespreek je je plannen voor de periode.
+Elke student heeft een mentor, met de mentor bespreek je je plannen voor de periode. Je mentor is meestal ook je tutor.
 Gebruik je mentor om je te adviseren over hetgeen je kunt leren, en vraag feedback op je plannen. 
 
 ## BOKS
@@ -284,6 +290,10 @@ Gebruik je mentor om je te adviseren over hetgeen je kunt leren, en vraag feedba
 In de [Body Of Knowledge and Skills](http://www.cmd-leeuwarden.nl/Algemeen/Body+of+Knowledge+and+Skills) kun je vinden welke literatuur de opleiding aanraad om je een bepaald onderwerp eigen te maken. 
 
 # Beoordelings-voorwaarden per competentie
+
+## Teamwork
+
+Teamwork wordt aan het eind van de periode beoordeeld. Binnen de minor wordt expert niveau niet beoordeeld. De professionaliteit van de interne organisatie van het team worden ook meegenomen in de competentie. Een schriftelijk verantwoording is essentieel.
 
 ## Growth & Reflection
 
