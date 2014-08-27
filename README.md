@@ -45,9 +45,10 @@ Het rooster van de minor is te vinden op de <http://www.thenextweb.eu>.
 
 Aanwezig: op maandag t/m donderdag. Dinsdag en donderdag tot 14.45.  
 Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/412).
+
 Expertise: Design science, Informatica voornamelijk toegespitst op Apps.  
 Rol: In de minor verantwoordelijk voor de organisatie, app lessen, design science.  
-Consults:[Afspraak maken](http://www.cmd-leeuwarden.nl/subscriptions/times/1606/).
+Consults: Afspraken kan via de cmd website. [Afspraak maken](http://www.cmd-leeuwarden.nl/subscriptions/times/1606/).
 
 Achtergrond: HBO Informatica aan de NHL Hogeschool,
 Master applied communication science Universiteit Twente.
@@ -55,6 +56,7 @@ Master applied communication science Universiteit Twente.
 **Jan-Wessel Hovingh**
 
 Aanwezig: Dinsdag, woensdag en donderdag  
+Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/2920).
 
 Expertise: Vormgeving, omgang met klanten
 Achtergrond: Academie Minerva Hanze Hogeschool
@@ -62,12 +64,16 @@ Achtergrond: Academie Minerva Hanze Hogeschool
 **Dirk Sierd de Vries**
 
 Aanwezig op: Dinsdag, Woensdag, Vrijdag  
+Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/112).
+
 Expertise: Ruby on Rails, JavaScript (jQuery, Backbone.js), php  
 Achtergrond: CMD Leeuwarden
 
 **Sjef Smeets**
 
 Aanwezig: Maandag t/m donderdag
+Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/549).
+
 Expertise: Interaction Design, Research, Functional Design, Usability, Experience Design
 Rol: Interaction design 
 
