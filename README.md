@@ -48,9 +48,9 @@ Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/412).
 
 Expertise: Design science, Informatica voornamelijk toegespitst op Apps.  
 Rol: In de minor verantwoordelijk voor de organisatie, app lessen, design science.  
-Consults: Afspraken kan via de cmd website. [Afspraak maken](http://www.cmd-leeuwarden.nl/subscriptions/times/1606/).
+Consults: Afspraken kan via de [CMD-website](http://www.cmd-leeuwarden.nl/subscriptions/times/1606/).
 
-Achtergrond: HBO Informatica aan de NHL Hogeschool,
+Achtergrond: HBO Informatica aan de NHL Hogeschool,  
 Master applied communication science Universiteit Twente.
 
 **Jan-Wessel Hovingh**
@@ -58,7 +58,7 @@ Master applied communication science Universiteit Twente.
 Aanwezig: Dinsdag, woensdag en donderdag  
 Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/2920).
 
-Expertise: Vormgeving, omgang met klanten
+Expertise: Vormgeving, omgang met klanten  
 Achtergrond: Academie Minerva Hanze Hogeschool
 
 **Dirk Sierd de Vries**
@@ -71,22 +71,24 @@ Achtergrond: CMD Leeuwarden
 
 **Sjef Smeets**
 
-Aanwezig: Maandag t/m donderdag
+Aanwezig: Maandag t/m donderdag  
 Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/549).
 
-Expertise: Interaction Design, Research, Functional Design, Usability, Experience Design
-Rol: Interaction design 
+Expertise: Interaction Design, Research, Functional Design, Usability, Experience Design  
+Rol: Interaction design
 
 **Guido Swildens**
+
 Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/19).
 
 **Amerins Schuilenburg**
-Aanwezig: maandag t/m vrijdag
+
+Aanwezig: maandag t/m vrijdag  
 Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/3376)
 
-Afspraken: digitaal per week, via cmd-leeuwarden.nl.
+Afspraken: digitaal per week, via <http://cmd-leeuwarden.nl>.
 
-Expertise: Persoonlijke en Professionele Ontwikkeling, Multidisciplinary Teamwork, Communication, Sharing, Growth & Reflection
+Expertise: Persoonlijke en Professionele Ontwikkeling, Multidisciplinary Teamwork, Communication, Sharing, Growth & Reflection  
 Achtergrond: Media en Entertainment Management, Managementvaardigheden, eigen bedrijf in (klant)communicatie, commercieel consultant
 
 ## Huisregels
@@ -102,7 +104,7 @@ Achtergrond: Media en Entertainment Management, Managementvaardigheden, eigen be
 
 ## Inleiding
 
-In dit hoofstuk vind je meer informatie over de inhoud van de minor
+In dit hoofstuk vind je meer informatie over de inhoud van de minor.
 
 ## Vaste lessen
 
