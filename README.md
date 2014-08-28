@@ -85,6 +85,7 @@ Aanwezig: maandag t/m vrijdag
 Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/3376)
 
 Afspraken: digitaal per week, via cmd-leeuwarden.nl.
+
 Expertise: Persoonlijke en Professionele Ontwikkeling, Multidisciplinary Teamwork, Communication, Sharing, Growth & Reflection
 Achtergrond: Media en Entertainment Management, Managementvaardigheden, eigen bedrijf in (klant)communicatie, commercieel consultant
 
