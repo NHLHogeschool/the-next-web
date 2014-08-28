@@ -229,35 +229,35 @@ om de volgende minor een eigen opdracht te mogen doen.
 
 ## Globale planning
 
-| Kalender week | Projectweek | Sprint  | Opzet              |
-| ------------- |:-----------:| -------:|--------------------|
-| 36            | -1          | nvt     | Inspiratieweek     |
-| 37            | 0           | nvt     | Kickoff            |
-| 38            | 1           | 1       |                    |
-| 39            | 2           | 1       |                    |
-| 40            | 3           | 2       |                    |
-| 41            | 4           | 2       | Presentatie concept|
-| 42            |             |         | Herfstvakantie     |
-| 43            | 5           | 3       |                    |
-| 44            | 6           | 3       | Deadline 1         |
-| 45            | 7           | 4       | Peerassessments    |
-| 46            | 8           | 4       |                    |
-| 47            | 9           | 5       |                    |
-| 48            | 10          | 5       |                    |
-| 49            | 11          | 6       |                    |
-| 50            | 12          | 6       |                    |
-| 51            | 13          | 7       |                    |
-| 52            |             |         | Kerstvakantie      |
-| 1             |             |         | Kerstvakantie      |
-| 2             | 14          | 7       |                    |
+| Kalender week | Projectweek | Sprint  | Opzet                |
+| ------------- |:-----------:| -------:|----------------------|
+| 36            | -1          | nvt     | Inspiratieweek       |
+| 37            | 0           | nvt     | Kickoff              |
+| 38            | 1           | 1       | di, wo Scrum bootcamp|
+| 39            | 2           | 1       |                      |
+| 40            | 3           | 2       |                      |
+| 41            | 4           | 2       | Presentatie concept  |
+| 42            |             |         | Herfstvakantie       |
+| 43            | 5           | 3       |                      |
+| 44            | 6           | 3       | Deadline 1           |
+| 45            | 7           | 4       | Peerassessments      |
+| 46            | 8           | 4       |                      |
+| 47            | 9           | 5       |                      |
+| 48            | 10          | 5       |                      |
+| 49            | 11          | 6       |                      |
+| 50            | 12          | 6       |                      |
+| 51            | 13          | 7       |                      |
+| 52            |             |         | Kerstvakantie        |
+| 1             |             |         | Kerstvakantie        |
+| 2             | 14          | 7       |                      |
 | 3             | 15          |         | Deadline 2, presentatie|
-| 4             |             |         | Assessment         |
-| 5             |             |         | Assessment         |
-| 6             |             |         | Start semester 2   |
+| 4             |             |         | Assessment           |
+| 5             |             |         | Assessment           |
+| 6             |             |         | Start semester 2     |
 
 
 ## Mijlpalen
-
+* Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen.
 * Deadline 1: Inleveren materiaal donderdag 16 oktober voor 9.00 
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor
   ogen. Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd.
