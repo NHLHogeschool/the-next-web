@@ -23,6 +23,8 @@ Voel je vrij om een van deze activiteiten op te pakken (overleg met PPO voor evt
 * Conferentie organiseren
 * Leeuwarden.rb organiseren
 * (Apple|Google|Facebook)? Keynote Parties
+* Samen werken aan eigen projecten [@jordiwippert][jordiwippert]
 
-[sandertuin]: http://twitter.com/sandertuin
-[dirksierd]: http://twitter.com/dirksierd
+[jordiwippert]: https://twitter.com/Jordi94NL
+[sandertuin]: https://twitter.com/sandertuin
+[dirksierd]: https://twitter.com/dirksierd
