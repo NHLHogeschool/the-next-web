@@ -12,6 +12,7 @@ Voel je vrij om een van deze activiteiten op te pakken (overleg met PPO voor evt
 * Getting (started|mesmerized) with Vim - @dirksierd
 * Groningen.rb bezoeken - @sandertuin
 
+* Github for dummies
 * Sprekers bij de community-activiteiten op vrijdag (Pull Request welkom)
   * @markijbema
   * Concept7
