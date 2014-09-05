@@ -7,7 +7,7 @@ Dit is een concept-document over de community voor programmeurs.
 Al deze activiteiten zijn in principe onder voorbehoud.
 Voel je vrij om een van deze activiteiten op te pakken (overleg met PPO voor evt. Sharing).
 
-* HTML / CSS-superconsult - [@sandertuin][sandertuin] & [@dirksierd][dirksierd]
+* HTML / CSS-superconsult - [@sandertuin][sandertuin] / [@dirksierd][dirksierd]
 * Javascript-colleges - [@sandertuin][sandertuin]
 * Getting (started|mesmerized) with Vim - [@dirksierd][dirksierd]
 * Groningen.rb bezoeken - [@sandertuin][sandertuin]
