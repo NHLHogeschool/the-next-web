@@ -1,7 +1,6 @@
 # Inspiration
 
-Hier plaatsen we linkjes die nuttig zijn om te volgen.  
-Eigenlijk is dit onze Body of Knowledge and Skills (BOKS).
+Hier plaatsen we linkjes die nuttig zijn om te volgen.
 
 ## Debugging
 
