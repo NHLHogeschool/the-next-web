@@ -7,10 +7,10 @@ Dit is een concept-document over de community voor programmeurs.
 Al deze activiteiten zijn in principe onder voorbehoud.
 Voel je vrij om een van deze activiteiten op te pakken (overleg met PPO voor evt. Sharing).
 
-* HTML / CSS-superconsult - @sandertuin & @dirksierd
-* Javascript-colleges - @sandertuin
-* Getting (started|mesmerized) with Vim - @dirksierd
-* Groningen.rb bezoeken - @sandertuin
+* HTML / CSS-superconsult - [@sandertuin][sandertuin] & [@dirksierd][dirksierd]
+* Javascript-colleges - [@sandertuin][sandertuin]
+* Getting (started|mesmerized) with Vim - [@dirksierd][dirksierd]
+* Groningen.rb bezoeken - [@sandertuin][sandertuin]
 
 * Github for dummies
 * Sprekers bij de community-activiteiten op vrijdag (Pull Request welkom)
@@ -23,3 +23,6 @@ Voel je vrij om een van deze activiteiten op te pakken (overleg met PPO voor evt
 * Conferentie organiseren
 * Leeuwarden.rb organiseren
 * (Apple|Google|Facebook)? Keynote Parties
+
+[sandertuin]: http://twitter.com/sandertuin
+[dirksierd]: http://twitter.com/dirksierd
