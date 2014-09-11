@@ -269,7 +269,7 @@ om de volgende minor een eigen opdracht te mogen doen.
 
 ## Mijlpalen
 * Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen.
-* Deadline 1: Inleveren materiaal donderdag 16 oktober voor 9.00 
+* Deadline 1: Inleveren materiaal donderdag 30 oktober voor 9.00 
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor
   ogen. Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd.
 * Deadline 2:  Inleveren materiaal donderdag 15 januari voor 23.59
