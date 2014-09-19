@@ -7,9 +7,9 @@ Wie vult het volgende blokje in?
 
 **Coördinatie Programming-Community:**  
 *Niels van Dijk*  
-Telefoonnummer: *0642457029*;  
-E-mailadres: *<mailto:niels@nielsvandijkje.nl>*;  
-Twitter-account: [@nielsvandijkje][nielsvandijkje].
+Telefoonnummer: *+316-42457029*
+E-mailadres: *<mailto:niels@nielsvandijkje.nl>* 
+Twitter-account: [@nielsvandijkje][nielsvandijkje]
 
 ## Activiteiten
 
@@ -39,3 +39,4 @@ Voel je vrij om een van deze activiteiten op te pakken (overleg met PPO voor evt
 [sandertuin]: https://twitter.com/sandertuin
 [dirksierd]: https://twitter.com/dirksierd
 [hendrikpetertje]: https://twitter.com/hendrikpetertje
+[nielsvandijkje]: https://twitter.com/nielsvandijkje
