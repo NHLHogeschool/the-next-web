@@ -6,10 +6,10 @@ Eigenlijk heb ik iemand nodig die dit kan coördineren, iemand die ik verantwoor
 Wie vult het volgende blokje in?
 
 **Coördinatie Programming-Community:**  
-*Naam*  
-Telefoonnummer: *Telefoonnummer*;  
-E-mailadres: *Emailadres*;  
-Twitter-account: *Twitter*.
+*Niels van Dijk*  
+Telefoonnummer: *0642457029*;  
+E-mailadres: *<mailto:niels@nielsvandijkje.nl>*;  
+Twitter-account: [@nielsvandijkje][nielsvandijkje].
 
 ## Activiteiten
 
@@ -21,9 +21,6 @@ Voel je vrij om een van deze activiteiten op te pakken (overleg met PPO voor evt
 * Getting (started|mesmerized) with Vim - [@dirksierd][dirksierd]
 * Groningen.rb bezoeken - [@sandertuin][sandertuin]
 * Git masterclass (cherrypicking, feature branch, deploy, etc.) - [@HendrikPetertje][hendrikpetertje]
-* TDD [@dirksierd][dirksierd]
-* Chef en deployment [@dirksierd][dirksierd]
-* Weekendje weg, samen programmeren! - [@alserdap][alserdap]
 
 * Github for dummies
 * Sprekers bij de community-activiteiten op vrijdag (Pull Request welkom)
