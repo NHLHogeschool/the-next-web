@@ -7,8 +7,8 @@ Wie vult het volgende blokje in?
 
 **Coördinatie Programming-Community:**  
 *Niels van Dijk*  
-Telefoonnummer: *+316-42457029*;
-E-mailadres: *<mailto:niels@nielsvandijkje.nl>*;
+Telefoonnummer: *+316-42457029*  
+E-mailadres: *<mailto:niels@nielsvandijkje.nl>*  
 Twitter-account: [@nielsvandijkje][nielsvandijkje].
 
 ## Activiteiten
