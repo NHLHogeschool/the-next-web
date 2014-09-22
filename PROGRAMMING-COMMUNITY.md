@@ -20,8 +20,7 @@ Voel je vrij om een van deze activiteiten op te pakken (overleg met PPO voor evt
 * Javascript-colleges - [@sandertuin][sandertuin]
 * Getting (started|mesmerized) with Vim - [@dirksierd][dirksierd]
 * Groningen.rb bezoeken - [@sandertuin][sandertuin]
-* Git masterclass (cherrypicking, feature branch, deploy, etc.) - [@HendrikPetertje][hendrikpetertje]
-
+* Git masterclass (cherrypicking, feature branch, deploy, etc.) - [@HendrikPetertje][hendrikpetertje]* 
 * Github for dummies
 * Sprekers bij de community-activiteiten op vrijdag (Pull Request welkom)
   * @markijbema
