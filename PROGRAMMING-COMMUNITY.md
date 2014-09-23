@@ -2,10 +2,10 @@
 
 Dit is een concept-document over de community voor programmeurs.
 
-**Coördinatie Programming-Community:**
-*Niels van Dijk*
-Telefoonnummer: *+316-42457029*
-E-mailadres: *<mailto:niels@nielsvandijkje.nl>*
+**Coördinatie Programming-Community:**  
+*Niels van Dijk*  
+Telefoonnummer: *+316-42457029*  
+E-mailadres: *<mailto:niels@nielsvandijkje.nl>*  
 Twitter-account: [@nielsvandijkje][nielsvandijkje].
 
 ## Activiteiten
