@@ -2,9 +2,6 @@
 
 Dit is een concept-document over de community voor programmeurs.
 
-Eigenlijk heb ik iemand nodig die dit kan coördineren, iemand die ik verantwoordelijk kan maken voor de organisatie.
-Wie vult het volgende blokje in?
-
 **Coördinatie Programming-Community:**  
 *Niels van Dijk*  
 Telefoonnummer: *+316-42457029*  
