@@ -6,7 +6,9 @@ Dit is een concept-document over de community voor programmeurs.
 *Niels van Dijk*   
 Telefoonnummer: *+316-42457029*   
 E-mailadres: *<mailto:niels@nielsvandijkje.nl>*   
-Twitter-account: [@nielsvandijkje][nielsvandijkje].
+Twitter-account: [@nielsvandijkje][nielsvandijkje].  
+Ook voor het aanvragen voor een account voor de Next Web Developer account bij Apple.  
+Stuur mij dan een mail + je naam en ik voeg je toe!
 
 ## Activiteiten
 
