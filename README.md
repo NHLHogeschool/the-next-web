@@ -292,6 +292,9 @@ Een professionele organisatie:
 
 Presentaties: Beide presentaties zijn verplicht. Bij afwezigheid wordt het assessment geannuleerd.
 
+## Wijze van aanleveren
+Het materiaal lever je als groep aan in een zip bestand. Dit zip bestand verstuur je naar Raymond van Dongelen via wetransfer. In het hoofdstuk inlevervoorwaarden wordt de structuur van de zip file besproken. 
+
 # Je leertraject
 
 CMD is een vraaggestuurde, competentiegerichte opleiding.
