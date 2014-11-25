@@ -77,10 +77,6 @@ Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/549).
 Expertise: Interaction Design, Research, Functional Design, Usability, Experience Design  
 Rol: Interaction design
 
-**Guido Swildens**
-
-Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/19).
-
 **Amerins Schuilenburg**
 
 Aanwezig: maandag t/m vrijdag  
@@ -192,6 +188,11 @@ Het teamproces heeft ook een harde kant: wordt er gestructureerd gepland,
 wat staat er allemaal in product backlog, hoe is de werkverdeling geweest,
 wordt er gereflecteerd op het handelen, wordt er iets met de reflectie gedaan?
 
+
+## Peerreview
+
+Je team wordt bij de start van het semester gekoppeld aan een ander team. Dit andere team kun je inzetten om tussentijds feedback te krijgen op je werk. De feedback die je gegeven hebt neem je schriftelijk mee, en kun je inzetten voor de competentie sharing. 
+
 ## Beoordeling
 
 De beoordeling van alle competenties wordt gedaan door vakdocenten.
@@ -269,6 +270,7 @@ om de volgende minor een eigen opdracht te mogen doen.
 
 ## Mijlpalen
 * Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen.
+* Leerdoelen review: Je leerdoelen voor de komende periode worden doorgenomen met een peer. 
 * Deadline 1: Inleveren materiaal donderdag 30 oktober voor 9.00 
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor
   ogen. Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd.
@@ -321,7 +323,20 @@ In de [Body Of Knowledge and Skills](http://www.cmd-leeuwarden.nl/Algemeen/Body+
 
 ## Teamwork
 
-Teamwork wordt aan het eind van de periode beoordeeld. Binnen de minor wordt expert niveau niet beoordeeld. De professionaliteit van de interne organisatie van het team worden ook meegenomen in de competentie. Een schriftelijk verantwoording is essentieel.
+Teamwork wordt aan het eind van de periode beoordeeld. Binnen de minor wordt expert niveau niet beoordeeld. De professionaliteit van de interne organisatie van het team worden ook meegenomen in de competentie. Een schriftelijk verantwoording is essentieel. 
+Denk bij teamwork aan de volgende zaken:
+
+* Er is gedurende het project zichtbaar welke taken er verricht moeten worden
+* De expertise van het team is benut
+* Er is een gestructureerde aanpak van de werkweken, in sprints/ daily standups/ retrospectives.
+* Van dit alles is schriftelijk bewijsmateriaal.
+
+## Sharing
+
+Er zijn een aantal manieren om binnen de minor te werken aan de competentie sharing: 
+
+* Je kunt werken aan je online reputatie op platformen als GitHub en Stackoverflow. Als je op deze platformen een bepaalde reputatie hebt behaald, dan kun heb je aangetoond dat je goed kunt samenwerken. 
+* Je kunt je peerteam op een professionele manier reviewen. Je gebruikt hier een gestructureerde aanpak voor, en geeft gestructureerd en schriftelijk feedback.
 
 ## Growth & Reflection
 
@@ -333,3 +348,5 @@ Hierin spelen een aantal zaken een rol:
 
 De beoordeling vindt plaats in de vorm van een assessment. 
 Expert niveau wordt niet binnen de minor beoordeeld.
+
+
