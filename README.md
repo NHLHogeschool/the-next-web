@@ -104,6 +104,9 @@ In dit hoofstuk vind je meer informatie over de inhoud van de minor.
 
 ## Vaste lessen
 
+**Productowner overleg**
+De productowners van alle teams komen op maandagochtend bijeen om te overleggen over de dagelijkse gang van zaken in de minor. Hierbij is de minorcoördinator aanwezig.
+
 **Weekopening** 
 
 Elke week start met een weekopening. Elke weekopening heeft dezelfde structuur.
@@ -121,7 +124,6 @@ Er zijn communities voor:
 * Design research (door Raymond)
 * Design (Jan Wessel)
 * Production (Dirk Sierd)
-* Scrum (Guido)
 
 ## Design research
 
@@ -222,6 +224,18 @@ Later in de minor zal er over de procedure van de beoordeling meer informatie wo
 * Er moet (uiteraard) overeenstemming zijn tussen de beoordelende docent en student
   over de voorwaarden waaraan het traject moet voldoen.
 
+
+## Toetsvormen
+Binnen de minor worden de volgende toetsvormen toegepast: 
+
+* Integrale assessment
+* Individueel assessment
+* Reflectie (zelf assessment)
+* Peer assessment
+* Groeiportfolio
+
+Deze vormen worden in detail beschreven in het toetsplan CMD.
+
 # Opdrachten 
 
 ## Aanbod
@@ -299,11 +313,15 @@ Het materiaal lever je als groep aan in een zip bestand. Dit zip bestand verstuu
 
 # Je leertraject
 
-CMD is een vraaggestuurde, competentiegerichte opleiding.
-Je leert (binnen grenzen), wat jij wilt leren.
-Dit geeft veel vrijheid, maar ook veel verantwoordelijkheid.
-Hoe weet bijvoorbeeld of hetgeen waar je mee bezig bent van voldoende niveau is?  
+CMD is een vraaggestuurde, competentiegerichte opleiding. Je leert (binnen grenzen) wat jij wilt leren. Dit geeft veel vrijheid, maar ook veel verantwoordelijkheid.
+Hoe weet je of hetgeen waar je mee bezig bent van voldoende niveau is?  
 In de beoordeling wordt gekeken naar het bewijsmateriaal dat *jij* geeft voor *jouw leerdoelen* in *jouw* situatie. 
+
+## PDCA
+Het leertraject is vormgeven rondom de PDCA cyclus. 
+Je start met een *plan*, in de context van cmd een pop. Met dit plan ga je aan de slag "*do*". gedurende dit traject stel je je pop bij, en maak je concreet wat je geleerd hebt "*check*". Aan het eind van het traject reflecteer je, en stel je je handelen bij "*act*".	
+
+De beoordeling binnen de minor is gebaseerd op het toetsplan van CMD. 
 
 ## Pop
 Om er voor te zorgen dat je de periode goed plant, maak je een persoonlijk ontwikkelingsplan. Dit pop is je middel om er achter te komen hoe je aan je ec’s gaat komen. Je bespreekt hierin het bewijsmateriaal dat je wilt gaan vergaren voor de competenties waarin je je wilt verbeteren. Bouw door op feedback die je in de vorige jaren van je studie hebt gekregen. 
@@ -318,6 +336,70 @@ Gebruik je mentor om je te adviseren over hetgeen je kunt leren, en vraag feedba
 ## BOKS
 
 In de [Body Of Knowledge and Skills](http://www.cmd-leeuwarden.nl/Algemeen/Body+of+Knowledge+and+Skills) kun je vinden welke literatuur de opleiding aanraad om je een bepaald onderwerp eigen te maken. 
+
+## Verantwoordingsdocumenten
+Aan het begin van de minor maak je in overleg met je mentor een inventarisatie van welke kennis en vaardigheden je van plan bent om te ontwikkelen. De punten verwerk je in je persoonlijk ontwikkelingsplan (POP). Input voor dit plan is de feedback/ feedforward die je bij vorige assessments hebt gekregen. 
+Hoe verder je komt in de minor, hoe concreter je kunt zijn over wat de leeropbrengst van de minor is geweest.  Aan het einde van de minor kun je daardoor een heldere rekening presenteren aan je beoordelaars waaruit blijkt op welke gebieden je welke kennis hebt verworven en waaraan dit te zien is. 
+Om een heldere *rekening* te maken is het verstandig om tijdens de minor te werken aan een timeline. De timeline bevat de stappen die je gezet hebt om iets te leren. De timeline maakt onderdeel uit van het groeiportfolio, de rekening bestaat uit een heldere koppeling tussen de behaviours/ leerdoelen en bewijsmateriaal. 
+ 
+Aan de hand van de rekening krijg je feedback en feedforward van je beoordelaars.
+Dit vormt weer de basis voor je plannen voor de volgende periode.
+
+## Documenten
+
+Het groeiportfolio:
+
+* Relevante feedback op de competenties waarop je je op wilt ontwikkelen
+* De timeline
+* Reflectie 
+* De rekening
+
+Reflectie:
+
+* Een reflectie op de afgelopen periode
+
+De rekening bestaat uit de volgende zaken:
+
+* De competentie waaraan je hebt gewerkt
+* Aantal ec + niveau
+* Een indicatie van de tijdsinvestering
+* Leerdoelen + behaviours waar je aan gewerkt hebt
+* Per leerdoel een zakelijk uitleg waarom je het leerdoel gehaald hebt. Dit kan een verwijzing naar een specifiek stuk documentatie zijn, een beoordeling van een docent. 
+
+## Voorbeeld
+Stel je wilt beter worden in het doen van literatuuronderzoek. In het begin van de periode kun je hier een aantal doelen bij bedenken:
+
+* Ik wil minimaal 10 externe bronnen doornemen
+* Ik vat deze stukken samen
+* Ik selecteer de bronnen op basis van een onderzoeksvraag
+
+Deze doelen staan in je pop, en bespreek je met je mentor. Met hem bespreek je ook het niveau en het aantal ec dat je hiervoor kunt opnemen.
+
+In je timeline beschrijf je hoe je hier aangewerkt hebt. Bijvoorbeeld welke websites je hebt gelezen, welke boeken je hebt geraadpleegd en wanneer. 
+
+In de rekening beschrijf je de resultaten. Dit doe je heel concreet: 
+
+* Ik heb 10 externe documenten doorgenomen: resultaten zijn te vinden in ..
+* Samenvattingen van de stukken zijn te vinden op ..
+* Onderzoeksvraag is deze, en die is goed omdat ...
+
+
+## Assessment dag
+Bij elk assessment wordt je beoordeeld aan de hand van je eigen leerdoelen. Bij het assessment zijn twee docenten betrokken, en bij voorkeur één externe beoordelaar. De rekeningen vormen de belangrijkste input voor het assessment.
+Een assessment duurt anderhalf uur, aansluitend aan het assessment krijg je feedback van je beoordelaars. Deze feedback ontvang je binnen twee weken ook schriftelijk via de cmd website. De ec's die zijn verkregen worden binnen twee weken verwerkt in Educator.  
+
+De beoordeling wordt gedaan door de tutor en een tweede beoordelaar. 
+
+De schriftelijke feedback en feedforward gebruik je in het volgende semester voor je nieuwe leerdoelen. 
+
+## Procedure
+Het assessment start met het vaststellen van te te beoordelen competenties. Het te beoordeelen team neemt de leiding om uit te leggen waarom teamleden competent zijn. Centraal staat het geven van een toelichting van het competent zijn op de opgenomen competenties. 
+
+* Vaststellen competenties 5 min
+* Team licht het bewijsmateriaal toe 55 min
+* Overleg beoordelaars 15 min
+* Toelichting beoordeling + feedback 15 min
+
 
 # Beoordelings-voorwaarden per competentie
 
