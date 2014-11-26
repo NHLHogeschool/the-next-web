@@ -253,6 +253,22 @@ Als je een eigen opdracht wilt doen, dan moet je dit tijdig bespreken met Raymon
 In de praktijk betekent dit dat je voor de laatste maand van de minor toestemming moet hebben,
 om de volgende minor een eigen opdracht te mogen doen.
 
+## Sollicitatie procedure opdrachten
+Als je in deze periode productowner wilt zijn, dan kun je dit in de eerste week aangeven. 
+In de tweede week komen de productowners bijeen, en worden de opdrachten verdeeld. 
+
+Wie geen productowner wil zijn selecteert uit de verschillende opdrachten zijn top drie. Per opdracht geef je een motivatie aan.
+
+De motivaties worden door de productowners doorgenomen, en zij kiezen met wie ze het gesprek willen aangaan. De sollicitatie gesprekken hebben een lengte van maximaal 10 minuten.
+Van belang bij de teamsamenstelling zijn:
+
+* Goede mix ervaren en onervaren studenten
+* De aangegeven voorkeuren moeten zoveel mogelijk worden gehanteerd
+* Max 6 mensen per team
+
+Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is ondersteunend, de productowners zijn als groep verantwoordelijk voor het samenstellen van de groepen.
+
+
 ## Globale planning
 
 | Kalender week | Projectweek | Sprint  | Opzet                |
