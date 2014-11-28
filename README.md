@@ -273,39 +273,40 @@ Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is on
 
 | Kalender week | Projectweek | Sprint  | Opzet                |
 | ------------- |:-----------:| -------:|----------------------|
-| 36            | -1          | nvt     | Inspiratieweek       |
-| 37            | 0           | nvt     | Kickoff              |
-| 38            | 1           | 1       | di, wo Scrum bootcamp|
-| 39            | 2           | 1       |                      |
-| 40            | 3           | 2       |                      |
-| 41            | 4           | 2       | Presentatie concept  |
-| 42            |             |         | Herfstvakantie       |
-| 43            | 5           | 3       |                      |
-| 44            | 6           | 3       | Deadline 1           |
-| 45            | 7           | 4       | Peerassessments      |
-| 46            | 8           | 4       |                      |
-| 47            | 9           | 5       |                      |
-| 48            | 10          | 5       |                      |
-| 49            | 11          | 6       |                      |
-| 50            | 12          | 6       |                      |
-| 51            | 13          | 7       |                      |
-| 52            |             |         | Kerstvakantie        |
-| 1             |             |         | Kerstvakantie        |
-| 2             | 14          | 7       |                      |
-| 3             | 15          |         | Deadline 2, presentatie|
-| 4             |             |         | Assessment           |
-| 5             |             |         | Assessment           |
-| 6             |             |         | Start semester 2     |
+| 6             | -1          | nvt     | Inspiratieweek       |
+| 7             | 0           | nvt     | Kickoff              |
+| 8             | 1           | 0       | di, wo Scrum bootcamp|
+| 9             |             |         | Voorjaarsvakantie    |
+| 10            | 2           | 0       |                      |
+| 11            | 3           | 1       |                      |
+| 12            | 4           | 1       | Presentatie concept  |
+| 13            | 5           | 2       |                      |
+| 14            | 6           | 2       | Deadline 1           |
+| 15            | 7           | 3       | Peerassessments      |
+| 16            | 8           | 3       | Peerassessments      |
+| 17            | 9           | 4       |                      |
+| 18            | 10          | 4       |                      |
+| 19            |             |         | Meivakantie          |
+| 20            | 11          | 5       |                      |
+| 21            | 12          | 5       |                      |
+| 22            | 13          | 6       |                      |
+| 23            | 14          | 6       |                      |
+| 24            | 15          | 7       |                      |
+| 25            | 16          | 7       | Deadline 2, presentatie|
+| 26            | 17          |         | Assessment           |
+| 27            | 18          |         | Assessment           |
+| 28            |             |         | Evaluatiebijeenkomst |
 
 
 ## Mijlpalen
 * Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen.
-* Leerdoelen review: Je leerdoelen voor de komende periode worden doorgenomen met een peer. 
-* Deadline 1: Inleveren materiaal donderdag 30 oktober voor 9.00 
+* Leerdoelen review: Je 
+leerdoelen voor de komende periode worden doorgenomen met een peer. 
+* Deadline 1: Inleveren materiaal donderdag 2 maart uiterlijk 23.59
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor
   ogen. Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd.
-* Deadline 2:  Inleveren materiaal donderdag 15 januari voor 23.59
-* Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct.
+* Deadline 2:  Inleveren materiaal donderdag 18 juni uiterlijk 23.59
+* Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct. 
 
 Je bent vrij in de keuze voor het materiaal dat je aanlevert bij de assessments. Bij het eerste assessment zijn er wel zaken die we graag willen zien.
 
