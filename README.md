@@ -154,7 +154,7 @@ de sessie die op donderdag worden gegeven zijn bedoeld voor gevorderde programme
 ## Design
 
 Je wilt een mooie site maken. Of een app. Of beide. Hij moet het doen op een Android en een iPhone.
-iPhone 5? Die ook. En met touch-screen functionaliteit.
+iPhone 6? Die ook. En met touch-screen functionaliteit.
 Maar hij moet het ook goed doen op een gewone computermonitor.
 Dat betekent dat je rekening moet houden met duizenden devices en duizenden resoluties tussen 240x180 en 2560x1600 pixels.
 We need a responsive designer.
