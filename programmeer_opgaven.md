@@ -4,7 +4,10 @@
 
 Oefenen met functies:
 
-# Fizzbuzz
+
+## Les 1
+
+## Fizzbuzz
 Dit zou als een test kunnen worden gebruikt, als je dit niet binnen 5 minuten kunt oplossen in een programmeertaal naar keuze, dan niet geschikt voor app programmeren. 
 
 

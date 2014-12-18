@@ -77,7 +77,7 @@ Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/549).
 Expertise: Interaction Design, Research, Functional Design, Usability, Experience Design  
 Rol: Interaction design
 
-**Amerins Schuilenburg**
+**Amarins Schuilenburg**
 
 Aanwezig: maandag t/m vrijdag  
 Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/3376)
@@ -124,6 +124,7 @@ Er zijn communities voor:
 * Design research (door Raymond)
 * Design (Jan Wessel)
 * Production (Dirk Sierd)
+* Intervisie projectmanagement (Amarins)
 
 ## Design research
 
@@ -170,13 +171,14 @@ Wat wordt als 'mooi' of 'prettig' ervaren, en waarom?
 Je leert designtools gebruiken en weloverwogen keuzes te maken op met van kennis van kleur, beeld en typografie.
 Pittig? Ja. Hard werken? Ja. Maar wel gaaf.
 
-## Scrum
+## Intervisie projectmanagement
 
-Het aanpakken van een project is moeilijk. Je team is nieuw, de opdrachtgever is nieuw.
-Je kent het probleem niet, het domein niet. Maar toch wordt je gevraagd naar welke oplossing haalbaar is.
-Om hier grip op te krijgen maken we gebruik van scrum.
-In de vierde week van de minor zal er bootcamp scrum worden georganiseerd.
-Na deze bootcamp heb je voldoende kennis om scrum toe te passen in je project.
+Ben je Scrum Master of Product Owner? Iedere twee weken komen jullie bijeen om te bespreken hoe het met de competentie Projectmanagement gaat. Jullie wisselen informatie, ervaringen en tips aan elkaar uit. Hierbij is de docent Projectmanagement aanwezig.
+
+## Scrum
+Het aanpakken van een project is moeilijk. Je team is nieuw, de opdrachtgever is nieuw. Je kent het probleem niet, het domein niet. Maar toch wordt je gevraagd naar welke oplossing haalbaar is. Om hier grip op te krijgen maken we gebruik van de werkmethode scrum. In de derde week van de minor zal er een bootcamp scrum worden georganiseerd. Na deze bootcamp heb je voldoende kennis om scrum toe te passen in je project. Scrum valt onder de competentie Projectmanagement.
+
+# Werkwijze binnen de minor
 
 ## Teamwork
 
@@ -429,6 +431,12 @@ Denk bij teamwork aan de volgende zaken:
 * De expertise van het team is benut
 * Er is een gestructureerde aanpak van de werkweken, in sprints/ daily standups/ retrospectives.
 * Van dit alles is schriftelijk bewijsmateriaal.
+
+## Projectmanagement
+
+Neem je Projectmanagement EC’s op dit semester? Dan ga je aan de hand van de werkmethode scrum operationeel leidinggeven aan een projectteam en contact onderhouden met opdrachtgever en belanghebbenden. Voor projectmanagement op gevorderd niveau is het belangrijk dat je verdieping zoekt en niet meer op basisniveau ‘doet'. Je gaat aan de hand van situaties bewust keuzes maken, middelen inzetten of zaken aanpassen. 
+De tweedeling Leiderschap en Administratieve Organisatie is binnen Projectmanagement erg belangrijk. Je werkt aan een goede relatie tussen Scrum Master en Product Owner. Als laatste zet je het scrumproces bewust in en let hierbij op drie elementen: rollen, middelen, meetings.
+Je inzet binnen de intervisiegroep wordt meegenomen in de beoordeling.
 
 ## Sharing
 
