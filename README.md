@@ -447,4 +447,34 @@ Hierin spelen een aantal zaken een rol:
 De beoordeling vindt plaats in de vorm van een assessment. 
 Expert niveau wordt niet binnen de minor beoordeeld.
 
+# Inlevervoorwaarden
 
+Dit document beschrijft de inlevervoorwaarden van "the next web", materiaal aangeleverd bij peer- en eindassessment dient aan deze eisen te voldoen. Voldoet het materiaal niet aan de voorwaarden, dan wordt het niet beoordeeld.
+Het materiaal wordt ingeleverd in een zip bestand. Het zipbestand bevat de groepsnaam inclusief code. Dus bijvoorbeeld "NW1 mijn groepsnaam.zip"
+
+Dit bestand bevat de volgende indeling:
+
+* Een readme bestand
+* Een link naar een screencast die de mogelijkheden van je eindproduct demonstreert. De screencast heeft een lengte van maximaal 1 minuut. Zet de screencast op vimeo of youtube.
+* Het projectplan
+* Een competentie-matrix
+* Een map met daarin per groepslid per competentie het bewijsmateriaal. De map bevat het studentennummer en naam.
+* 1234 Jan Jansen, binnen deze map het groeiportfolio 
+* De ingeleverde zip file heeft een grootte van maximaal 100 mb
+* Video materiaal altijd op vimeo of youtube
+
+Dit geheel wordt digitaal ingeleverd bij de minor via dongelen@nhl.nl via wetransfer.com
+Documenten bevat in ieder geval:
+
+* Een voorblad met daarop de namen van de groepsleden, groepsnaam, groepscode en
+tutor
+* Een schutblad
+* Samenvatting
+* Voorwoord
+* Inhoudsopgave met hoofdstukindeling en paginanummers
+* Inleiding
+* Bronnenlijst volgens de APA-norm
+* Het taalgebruik is op HBO niveau
+
+Aandachtspunten: 
+Het rapport is volgens de APA norm geschreven. In de teksten een verwijzing naar de bron, in de voetnoot van de pagina de uitgebreide bron en achterin het rapport een volledige bronnenlijst. De verschillende onderdelen van het projectrapport dienen een heldere samenhang te hebben. Zorg dat de conclusies van de research als kader dienen voor de conceptingsfase, en de conceptuele uitwerkingen weer aansluiten bij de Designfase.
