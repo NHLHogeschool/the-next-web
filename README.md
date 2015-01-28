@@ -77,7 +77,7 @@ Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/549).
 Expertise: Interaction Design, Research, Functional Design, Usability, Experience Design  
 Rol: Interaction design
 
-**Amerins Schuilenburg**
+**Amarins Schuilenburg**
 
 Aanwezig: maandag t/m vrijdag  
 Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/3376)
@@ -124,6 +124,7 @@ Er zijn communities voor:
 * Design research (door Raymond)
 * Design (Jan Wessel)
 * Production (Dirk Sierd)
+* Intervisie projectmanagement (Amarins)
 
 ## Design research
 
@@ -154,7 +155,7 @@ de sessie die op donderdag worden gegeven zijn bedoeld voor gevorderde programme
 ## Design
 
 Je wilt een mooie site maken. Of een app. Of beide. Hij moet het doen op een Android en een iPhone.
-iPhone 5? Die ook. En met touch-screen functionaliteit.
+iPhone 6? Die ook. En met touch-screen functionaliteit.
 Maar hij moet het ook goed doen op een gewone computermonitor.
 Dat betekent dat je rekening moet houden met duizenden devices en duizenden resoluties tussen 240x180 en 2560x1600 pixels.
 We need a responsive designer.
@@ -170,13 +171,14 @@ Wat wordt als 'mooi' of 'prettig' ervaren, en waarom?
 Je leert designtools gebruiken en weloverwogen keuzes te maken op met van kennis van kleur, beeld en typografie.
 Pittig? Ja. Hard werken? Ja. Maar wel gaaf.
 
-## Scrum
+## Intervisie projectmanagement
 
-Het aanpakken van een project is moeilijk. Je team is nieuw, de opdrachtgever is nieuw.
-Je kent het probleem niet, het domein niet. Maar toch wordt je gevraagd naar welke oplossing haalbaar is.
-Om hier grip op te krijgen maken we gebruik van scrum.
-In de vierde week van de minor zal er bootcamp scrum worden georganiseerd.
-Na deze bootcamp heb je voldoende kennis om scrum toe te passen in je project.
+Ben je Scrum Master of Product Owner? Iedere twee weken komen jullie bijeen om te bespreken hoe het met de competentie Projectmanagement gaat. Jullie wisselen informatie, ervaringen en tips aan elkaar uit. Hierbij is de docent Projectmanagement aanwezig.
+
+## Scrum
+Het aanpakken van een project is moeilijk. Je team is nieuw, de opdrachtgever is nieuw. Je kent het probleem niet, het domein niet. Maar toch wordt je gevraagd naar welke oplossing haalbaar is. Om hier grip op te krijgen maken we gebruik van de werkmethode scrum. In de derde week van de minor zal er een bootcamp scrum worden georganiseerd. Na deze bootcamp heb je voldoende kennis om scrum toe te passen in je project. Scrum valt onder de competentie Projectmanagement.
+
+# Werkwijze binnen de minor
 
 ## Teamwork
 
@@ -273,39 +275,40 @@ Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is on
 
 | Kalender week | Projectweek | Sprint  | Opzet                |
 | ------------- |:-----------:| -------:|----------------------|
-| 36            | -1          | nvt     | Inspiratieweek       |
-| 37            | 0           | nvt     | Kickoff              |
-| 38            | 1           | 1       | di, wo Scrum bootcamp|
-| 39            | 2           | 1       |                      |
-| 40            | 3           | 2       |                      |
-| 41            | 4           | 2       | Presentatie concept  |
-| 42            |             |         | Herfstvakantie       |
-| 43            | 5           | 3       |                      |
-| 44            | 6           | 3       | Deadline 1           |
-| 45            | 7           | 4       | Peerassessments      |
-| 46            | 8           | 4       |                      |
-| 47            | 9           | 5       |                      |
-| 48            | 10          | 5       |                      |
-| 49            | 11          | 6       |                      |
-| 50            | 12          | 6       |                      |
-| 51            | 13          | 7       |                      |
-| 52            |             |         | Kerstvakantie        |
-| 1             |             |         | Kerstvakantie        |
-| 2             | 14          | 7       |                      |
-| 3             | 15          |         | Deadline 2, presentatie|
-| 4             |             |         | Assessment           |
-| 5             |             |         | Assessment           |
-| 6             |             |         | Start semester 2     |
+| 6             | -1          | nvt     | Inspiratieweek       |
+| 7             | 0           | nvt     | Kickoff              |
+| 8             | 1           | 0       | di, wo Scrum bootcamp|
+| 9             |             |         | Voorjaarsvakantie    |
+| 10            | 2           | 0       |                      |
+| 11            | 3           | 1       |                      |
+| 12            | 4           | 1       | Presentatie concept  |
+| 13            | 5           | 2       |                      |
+| 14            | 6           | 2       | Deadline 1           |
+| 15            | 7           | 3       | Peerassessments      |
+| 16            | 8           | 3       | Peerassessments      |
+| 17            | 9           | 4       |                      |
+| 18            | 10          | 4       |                      |
+| 19            |             |         | Meivakantie          |
+| 20            | 11          | 5       |                      |
+| 21            | 12          | 5       |                      |
+| 22            | 13          | 6       |                      |
+| 23            | 14          | 6       |                      |
+| 24            | 15          | 7       |                      |
+| 25            | 16          | 7       | Deadline 2, presentatie|
+| 26            | 17          |         | Assessment           |
+| 27            | 18          |         | Assessment           |
+| 28            |             |         | Evaluatiebijeenkomst |
 
 
 ## Mijlpalen
 * Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen.
-* Leerdoelen review: Je leerdoelen voor de komende periode worden doorgenomen met een peer. 
-* Deadline 1: Inleveren materiaal donderdag 30 oktober voor 9.00 
+* Leerdoelen review: Je 
+leerdoelen voor de komende periode worden doorgenomen met een peer. 
+* Deadline 1: Inleveren materiaal donderdag 2 maart uiterlijk 23.59
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor
   ogen. Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd.
-* Deadline 2:  Inleveren materiaal donderdag 15 januari voor 23.59
-* Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct.
+* Deadline 2:  Inleveren materiaal donderdag 18 juni uiterlijk 23.59
+* Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct. 
 
 Je bent vrij in de keuze voor het materiaal dat je aanlevert bij de assessments. Bij het eerste assessment zijn er wel zaken die we graag willen zien.
 
@@ -429,6 +432,12 @@ Denk bij teamwork aan de volgende zaken:
 * Er is een gestructureerde aanpak van de werkweken, in sprints/ daily standups/ retrospectives.
 * Van dit alles is schriftelijk bewijsmateriaal.
 
+## Projectmanagement
+
+Neem je Projectmanagement EC’s op dit semester? Dan ga je aan de hand van de werkmethode scrum operationeel leidinggeven aan een projectteam en contact onderhouden met opdrachtgever en belanghebbenden. Voor projectmanagement op gevorderd niveau is het belangrijk dat je verdieping zoekt en niet meer op basisniveau ‘doet'. Je gaat aan de hand van situaties bewust keuzes maken, middelen inzetten of zaken aanpassen. 
+De tweedeling Leiderschap en Administratieve Organisatie is binnen Projectmanagement erg belangrijk. Je werkt aan een goede relatie tussen Scrum Master en Product Owner. Als laatste zet je het scrumproces bewust in en let hierbij op drie elementen: rollen, middelen, meetings.
+Je inzet binnen de intervisiegroep wordt meegenomen in de beoordeling.
+
 ## Sharing
 
 Er zijn een aantal manieren om binnen de minor te werken aan de competentie sharing: 
@@ -461,6 +470,7 @@ Dit bestand bevat de volgende indeling:
 * Een map met daarin per groepslid per competentie het bewijsmateriaal. De map bevat het studentennummer en naam.
 * 1234 Jan Jansen, binnen deze map het groeiportfolio 
 * De ingeleverde zip file heeft een grootte van maximaal 100 mb
+* De basistekst van het projectplan exclusief bijlagen is maximaal 50 pagina's
 * Video materiaal altijd op vimeo of youtube
 
 Dit geheel wordt digitaal ingeleverd bij de minor via dongelen@nhl.nl via wetransfer.com
