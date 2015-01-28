@@ -451,7 +451,7 @@ Growth & Reflection wordt aan het eind van het semester beoordeeld door je mento
 Hierin spelen een aantal zaken een rol:
 
 * Gemaakte plannen (pops)
-* Refelectieverslag
+* Reflectieverslag
 
 De beoordeling vindt plaats in de vorm van een assessment. 
 Expert niveau wordt niet binnen de minor beoordeeld.
