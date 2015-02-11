@@ -304,7 +304,7 @@ Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is on
 * Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen.
 * Leerdoelen review: Je 
 leerdoelen voor de komende periode worden doorgenomen met een peer. 
-* Deadline 1: Inleveren materiaal donderdag 2 maart uiterlijk 23.59
+* Deadline 1: Inleveren materiaal donderdag 2 april uiterlijk 23.59
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor
   ogen. Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd.
 * Deadline 2:  Inleveren materiaal donderdag 18 juni uiterlijk 23.59
