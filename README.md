@@ -9,34 +9,33 @@ In the next web staan vernieuwende webprojecten en apps centraal.
 Er wordt meestal gewerkt op basis van opdrachten uit het bedrijfsleven.
 Deze opdrachten worden binnengehaald door het kenniscentrum van cmd. 
 
-De minorwijzer geeft een overzicht van de structuur en inhoud van de minor, van de deadlines en de oplevervoorwaarden.
+Deze minorwijzer geeft een overzicht van de structuur en inhoud van de minor, van de deadlines en de oplevervoorwaarden.
 
 ## Doel van de minor
 
-Veel afgestudeerde cmd-ers komen in het werkveld terecht als interaction designer,webvormgever of programmeur.
+Veel afgestudeerde cmd-ers komen in het werkveld terecht als interaction designer, webvormgever of programmeur.
 In deze minor wordt aandacht besteed aan deze drie aspecten van het werkgebied.
-Daarnaast is er veel aandacht voor de aanpak van een opdracht.
-Hoe werk je vanuit een vaak een onduidelijk probleem, naar een werkende oplossing. 
+Daarnaast is er veel aandacht voor de aanpak van een opdracht: Hoe werk je vanuit een vaak een onduidelijk probleem, naar een werkende oplossing. 
 
 ## Communicatie
 
 De minor the next web heeft een aantal communicatiekanalen.
 Wijzigingen op het progamma worden doorgegeven via de mailing list.
-Voor deze mailing lijst moet je aangemeld zijn. [Meld je hier aan](http://eepurl.com/1tImP).
+Voor deze mailing lijst moet je aangemeld zijn. [Meld je hier aan](https://eepurl.com/1tImP).
 
-Daarnaast is er de de website van de minor <http://www.thenextweb.eu>.
+Daarnaast is er de de website van de minor <https://www.thenextweb.eu>.
 De website verzamelt de informatie die via andere kanalen is verspreid.
 College materiaal zal hierop verschijnen. 
 
 Naast deze kanalen is de minor ook actief op twitter en op facebook.
-Op twitter onder het account [@minorthenextweb](http://twitter.com/minorthenextweb),
+Op twitter onder het account [@minorthenextweb](https://twitter.com/minorthenextweb),
 facebook als de groep [mtnwcmd](https://www.facebook.com/groups/mtwncmd/).
 De informatie op deze kanalen is bedoeld als achtergrondmateriaal.
 Je hoeft deze kanalen niet actief te volgen, er zullen geen belangrijke organisatorische mededelingen worden gedaan.
 
 ## Rooster
 
-Het rooster van de minor is te vinden op de <http://www.thenextweb.eu>.
+Het rooster van de minor is te vinden op de <https://www.thenextweb.eu>.
 [De complete planning vind je hier](https://www.google.com/calendar/embed?src=mo7vph6l2neh6m3bcju1ncon4k@group.calendar.google.com&ctz=Europe/Amsterdam).
 
 ## Docenten
@@ -44,11 +43,11 @@ Het rooster van de minor is te vinden op de <http://www.thenextweb.eu>.
 **Raymond van Dongelen**
 
 Aanwezig: op maandag t/m donderdag. Dinsdag en donderdag tot 14.45.  
-Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/412).
+Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/412).
 
 Expertise: Design science, Informatica voornamelijk toegespitst op Apps.  
 Rol: In de minor verantwoordelijk voor de organisatie, app lessen, design science.  
-Consults: Afspraken kan via de [CMD-website](http://www.cmd-leeuwarden.nl/subscriptions/times/1606/).
+Consults: Afspraken kan via de [CMD-website](https://www.mijncmd.nl/subscriptions/times/1798/).
 
 Achtergrond: HBO Informatica aan de NHL Hogeschool,  
 Master applied communication science Universiteit Twente.
@@ -56,7 +55,7 @@ Master applied communication science Universiteit Twente.
 **Jan-Wessel Hovingh**
 
 Aanwezig: Dinsdag, woensdag en donderdag  
-Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/2920).
+Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/2920).
 
 Expertise: Vormgeving, omgang met klanten  
 Achtergrond: Academie Minerva Hanze Hogeschool
@@ -64,7 +63,7 @@ Achtergrond: Academie Minerva Hanze Hogeschool
 **Sjef Smeets**
 
 Aanwezig: Maandag t/m donderdag  
-Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/549).
+Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/549).
 
 Expertise: Interaction Design, Research, Functional Design, Usability, Experience Design  
 Rol: Interaction design
@@ -72,9 +71,9 @@ Rol: Interaction design
 **Amarins Schuilenburg**
 
 Aanwezig: maandag t/m vrijdag  
-Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/3376)
+Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/3376)
 
-Afspraken: digitaal per week, via <http://cmd-leeuwarden.nl>.
+Afspraken: mondeling aangeven tijdens intervisie.
 
 Expertise: Persoonlijke en Professionele Ontwikkeling, Multidisciplinary Teamwork, Communication, Sharing, Growth & Reflection  
 Achtergrond: Media en Entertainment Management, Managementvaardigheden, eigen bedrijf in (klant)communicatie, commercieel consultant
@@ -115,7 +114,7 @@ Er zijn communities voor:
 
 * Design research (door Raymond)
 * Design (Jan Wessel)
-* Production (Dirk Sierd)
+* Production 
 * Intervisie projectmanagement (Amarins)
 
 ## Design research
@@ -196,21 +195,16 @@ Bij elke competentie die je wilt laten beoordelen maak je een *verantwoording*.
 In deze verantwoording geef je puntsgewijs aan waarom je de competentie hebt behaald.
 Hierbij maak je gebruik van de behaviours van de competentie. 
 
-Gebruik hiervoor de aanwijzingen op de cmd website: [Het profiel is hier te vinden](http://www.cmd-leeuwarden.nl/Algemeen/Competentieprofiel).
-Gebruik ook de niveaubeschrijvingen, [die vind je hier](http://www.cmd-leeuwarden.nl/Algemeen/CMD+documenten?folderid=1092).
+Gebruik hiervoor de aanwijzingen op de cmd website: [Het profiel is hier te vinden](https://www.mijncmd.nl/Algemeen/Competentieprofiel).
+Gebruik ook de niveaubeschrijvingen, [die vind je hier](https://www.mijncmd.nl/Algemeen/CMD+documenten?folderid=1092).
 
 Belangrijk bij de beoordeling zijn twee zaken.
 Ten eerste moet is het belangrijk om dat je laat zien dat je een goed *proces* hebt gevolgd.
-Laat zien dat je geëxperimenteerd hebt, laat tussenproducten zien e.d. Ten tweede is het eindniveau van belang.
-Je zult ook een minimaal eindniveau moet halen voor een competentie. 
-
-Later in de minor zal er over de procedure van de beoordeling meer informatie worden verspreidt. 
+Laat zien dat je geëxperimenteerd hebt, laat tussenproducten zien e.d. Ten tweede is het eindniveau van belang. Je zult ook een minimaal eindniveau moet halen voor een competentie. 
 
 ## Randvoorwaaden beoordeling
 
-* Individuele beoordeling vindt in principe alleen plaats als er materiaal is ingeleverd *en*
-  als er overeenstemming is over de beoordelingscritieria.
-* Materiaal voor een individueel assessment moet minimaal 48 uur van te voren aangeleverd worden.
+* Zorg ervoor dat er overeenstemming is met de beoordelende docent(en) over de criteria van de beoordeling, leg deze criteria helder vast in je pop
 * Het gaat hier minimaal om het gedeelte van je pop waarin de competentie staat beschreven +
   het werk dat beoordeeld moet worden.
 * Slordig geschreven documenten kunnen leiden tot annulering van de beoordeling. 
@@ -345,7 +339,7 @@ Gebruik je mentor om je te adviseren over hetgeen je kunt leren, en vraag feedba
 
 ## BOKS
 
-In de [Body Of Knowledge and Skills](http://www.cmd-leeuwarden.nl/Algemeen/Body+of+Knowledge+and+Skills) kun je vinden welke literatuur de opleiding aanraad om je een bepaald onderwerp eigen te maken. 
+In de [Body Of Knowledge and Skills](https://www.mijncmd.nl/Algemeen/Body+of+Knowledge+and+Skills) kun je vinden welke literatuur de opleiding aanraad om je een bepaald onderwerp eigen te maken. 
 
 ## Verantwoordingsdocumenten
 Aan het begin van de minor maak je in overleg met je mentor een inventarisatie van welke kennis en vaardigheden je van plan bent om te ontwikkelen. De punten verwerk je in je persoonlijk ontwikkelingsplan (POP). Input voor dit plan is de feedback/ feedforward die je bij vorige assessments hebt gekregen. 
@@ -374,7 +368,8 @@ De rekening bestaat uit de volgende zaken:
 * Aantal ec + niveau
 * Een indicatie van de tijdsinvestering
 * Leerdoelen + behaviours waar je aan gewerkt hebt
-* Per leerdoel een zakelijk uitleg waarom je het leerdoel gehaald hebt. Dit kan een verwijzing naar een specifiek stuk documentatie zijn, een beoordeling van een docent. 
+* Per leerdoel een zakelijk uitleg waarom je het leerdoel behaald/ niet behaald hebt. Dit kan een verwijzing naar een specifiek stuk documentatie zijn, een verwijzing naar een specifieke functie in je code. 
+* Voor programmeerdoelen is het zeer verstandig om gebruik te maken van versiebeheer (zoals github). Geef de beoordelende docenten toegang. 
 
 ## Voorbeeld
 Stel je wilt beter worden in het doen van literatuuronderzoek. In het begin van de periode kun je hier een aantal doelen bij bedenken:
@@ -393,20 +388,20 @@ In de rekening beschrijf je de resultaten. Dit doe je heel concreet:
 * Samenvattingen van de stukken zijn te vinden op ..
 * Onderzoeksvraag is deze, en die is goed omdat ...
 
+Bij code kun je verwijzen naar specifieke commits die aantonen dat je iets geleerd hebt.
 
 ## Assessment dag
-Bij elk assessment wordt je beoordeeld aan de hand van je eigen leerdoelen. Bij het assessment zijn twee docenten betrokken, en bij voorkeur één externe beoordelaar. De rekeningen vormen de belangrijkste input voor het assessment.
-Een assessment duurt anderhalf uur, aansluitend aan het assessment krijg je feedback van je beoordelaars. Deze feedback ontvang je binnen twee weken ook schriftelijk via de cmd website. De ec's die zijn verkregen worden binnen twee weken verwerkt in Educator.  
-
-De beoordeling wordt gedaan door de tutor en een tweede beoordelaar. 
+Bij elk assessment wordt je beoordeeld aan de hand van je eigen leerdoelen. Bij het assessment zijn drie docenten betrokken. De rekeningen vormen de belangrijkste input voor het assessment.
+Een assessment heeft een doorlooptijd van twee uur. Aansluitend aan het assessment krijg je feedback van je beoordelaars. Deze feedback ontvang je binnen twee weken ook schriftelijk via de cmd website. De ec's die zijn verkregen worden binnen twee weken verwerkt in Educator.  
 
 De schriftelijke feedback en feedforward gebruik je in het volgende semester voor je nieuwe leerdoelen. 
 
 ## Procedure
 Het assessment start met het vaststellen van te te beoordelen competenties. Het te beoordeelen team neemt de leiding om uit te leggen waarom teamleden competent zijn. Centraal staat het geven van een toelichting van het competent zijn op de opgenomen competenties. 
 
-* Vaststellen competenties 5 min
-* Team licht het bewijsmateriaal toe 55 min
+* Presentatie door je team van de aanpak van het project 30 min
+* Individueel assessment ronde 1 (30 min)
+* Individueel assessment ronde 2 (30 min)
 * Overleg beoordelaars 15 min
 * Toelichting beoordeling + feedback 15 min
 
