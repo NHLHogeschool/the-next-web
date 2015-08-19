@@ -61,14 +61,6 @@ Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/2920).
 Expertise: Vormgeving, omgang met klanten  
 Achtergrond: Academie Minerva Hanze Hogeschool
 
-**Dirk Sierd de Vries**
-
-Aanwezig op: Dinsdag, Woensdag, Vrijdag  
-Plaatje + verhaaltje: [cmd site](http://www.cmd-leeuwarden.nl/users/112).
-
-Expertise: Ruby on Rails, JavaScript (jQuery, Backbone.js), php  
-Achtergrond: CMD Leeuwarden
-
 **Sjef Smeets**
 
 Aanwezig: Maandag t/m donderdag  
@@ -275,39 +267,38 @@ Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is on
 
 | Kalender week | Projectweek | Sprint  | Opzet                |
 | ------------- |:-----------:| -------:|----------------------|
-| 6             | -1          | nvt     | Inspiratieweek       |
-| 7             | 0           | nvt     | Kickoff              |
-| 8             | 1           | 0       | di, wo Scrum bootcamp|
-| 9             |             |         | Voorjaarsvakantie    |
-| 10            | 2           | 0       |                      |
-| 11            | 3           | 1       |                      |
-| 12            | 4           | 1       | Presentatie concept  |
-| 13            | 5           | 2       |                      |
-| 14            | 6           | 2       | Deadline 1           |
-| 15            | 7           | 3       | Peerassessments      |
-| 16            | 8           | 3       | Peerassessments      |
-| 17            | 9           | 4       |                      |
-| 18            | 10          | 4       |                      |
-| 19            |             |         | Meivakantie          |
-| 20            | 11          | 5       |                      |
-| 21            | 12          | 5       |                      |
-| 22            | 13          | 6       |                      |
-| 23            | 14          | 6       |                      |
-| 24            | 15          | 7       |                      |
-| 25            | 16          | 7       | Deadline 2, presentatie|
-| 26            | 17          |         | Assessment           |
-| 27            | 18          |         | Assessment           |
-| 28            |             |         | Evaluatiebijeenkomst |
+| 36            | -1          | nvt     | Inspiratieweek       |
+| 37            | 0           | nvt     | Kickoff              |
+| 38            | 1           | 0       |                      |
+| 39            | 2           |         |                      |
+| 40            | 3           | 0       |                      |
+| 41            | 4           | 1       |                      |
+| 42            | 5           | 1       |  Deadline 1          |
+| 43            |             | 2       |  Herfstvakantie      |
+| 44            | 6           | 2       |  Peerassessments     |
+| 45            | 7           | 3       | Peerassessments      |
+| 46            | 8           | 3       |                      |
+| 47            | 9           | 4       |                      |
+| 48            | 10          | 4       |                      |
+| 49            | 11          |         |                      |
+| 50            | 12          | 5       |                      |
+| 51            |             | 5       |  Kerstvakantie       |
+| 52            |             | 6       |  Kerstvakantie       |
+| 1             | 13          | 6       |                      |
+| 2             | 14          | 7       |Deadline 2, assessment|
+| 3             | 15          | 7       | Assessment           |
+| 4             | 16          |         | Assessment           |
+| 5             |             |         | Start semester 2     |
 
 
 ## Mijlpalen
 * Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen.
 * Leerdoelen review: Je 
 leerdoelen voor de komende periode worden doorgenomen met een peer. 
-* Deadline 1: Inleveren materiaal donderdag 2 april uiterlijk 23.59
+* Deadline 1: Inleveren materiaal donderdag 15 oktober uiterlijk 23.59
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor
   ogen. Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd.
-* Deadline 2:  Inleveren materiaal donderdag 18 juni uiterlijk 23.59
+* Deadline 2:  Inleveren materiaal maandag 11 januari uiterlijk 6.02
 * Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct. 
 
 Je bent vrij in de keuze voor het materiaal dat je aanlevert bij de assessments. Bij het eerste assessment zijn er wel zaken die we graag willen zien.
