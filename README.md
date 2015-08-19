@@ -270,23 +270,23 @@ Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is on
 | 36            | -1          | nvt     | Inspiratieweek       |
 | 37            | 0           | nvt     | Kickoff              |
 | 38            | 1           | 0       |                      |
-| 39            | 2           |         |                      |
-| 40            | 3           | 0       |                      |
+| 39            | 2           | 0       |                      |
+| 40            | 3           | 1       |                      |
 | 41            | 4           | 1       |                      |
-| 42            | 5           | 1       |  Deadline 1          |
-| 43            |             | 2       |  Herfstvakantie      |
+| 42            | 5           | 2       |  Deadline 1          |
+| 43            |             |         |  Herfstvakantie      |
 | 44            | 6           | 2       |  Peerassessments     |
 | 45            | 7           | 3       | Peerassessments      |
 | 46            | 8           | 3       |                      |
 | 47            | 9           | 4       |                      |
 | 48            | 10          | 4       |                      |
-| 49            | 11          |         |                      |
+| 49            | 11          | 5       |                      |
 | 50            | 12          | 5       |                      |
-| 51            |             | 5       |  Kerstvakantie       |
-| 52            |             | 6       |  Kerstvakantie       |
+| 51            |             |         |  Kerstvakantie       |
+| 52            |             |         |  Kerstvakantie       |
 | 1             | 13          | 6       |                      |
-| 2             | 14          | 7       |Deadline 2, assessment|
-| 3             | 15          | 7       | Assessment           |
+| 2             | 14          | 6       |Deadline 2, assessment|
+| 3             | 15          |         | Assessment           |
 | 4             | 16          |         | Assessment           |
 | 5             |             |         | Start semester 2     |
 
