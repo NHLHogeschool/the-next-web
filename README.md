@@ -60,6 +60,7 @@ Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/2920).
 Expertise: Vormgeving, omgang met klanten  
 Achtergrond: Academie Minerva Hanze Hogeschool
 
+Afspraken maken via de mijncmd.
 **Sjef Smeets**
 
 Aanwezig: Maandag t/m donderdag  
