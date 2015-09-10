@@ -452,12 +452,12 @@ Dit bestand bevat de volgende indeling:
 
 * Een readme bestand
 * Een link naar een screencast die de mogelijkheden van je eindproduct demonstreert. De screencast heeft een lengte van maximaal 1 minuut. Zet de screencast op vimeo of youtube.
-* Het projectplan
+* Het projectrapport
 * Een competentie-matrix
 * Een map met daarin per groepslid per competentie het bewijsmateriaal. De map bevat het studentennummer en naam.
 * 1234 Jan Jansen, binnen deze map het groeiportfolio 
 * De ingeleverde zip file heeft een grootte van maximaal 100 mb
-* De basistekst van het projectplan exclusief bijlagen is maximaal 50 pagina's
+* De basistekst van het projectrapport exclusief bijlagen is maximaal 50 pagina's
 * Video materiaal altijd op vimeo of youtube
 
 Dit geheel wordt digitaal ingeleverd bij de minor via dongelen@nhl.nl via wetransfer.com
