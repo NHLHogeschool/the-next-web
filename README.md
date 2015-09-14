@@ -277,12 +277,13 @@ Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is on
 | 48            | 10          | 4       |                      |
 | 49            | 11          | 5       |                      |
 | 50            | 12          | 5       |                      |
-| 51            |             |         |  Kerstvakantie       |
+| 51            | 13          | 6       |                      |
 | 52            |             |         |  Kerstvakantie       |
-| 1             | 13          | 6       |                      |
-| 2             | 14          | 6       |Deadline 2, assessment|
-| 3             | 15          |         | Assessment           |
-| 4             | 16          |         | Assessment           |
+| 53            |             |         |  Kerstvakantie       |
+| 1             | 14          | 6       |                      |
+| 2             | 15          |         |Deadline 2, assessment|
+| 3             | 16          |         | Assessment           |
+| 4             | 17          |         | Assessment           |
 | 5             |             |         | Start semester 2     |
 
 
