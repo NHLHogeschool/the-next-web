@@ -8,6 +8,10 @@ end
 # Optellen van waarden in Array, functie
 
 def optellen (de_array)
+	# begin met niets
+	# Tel steeds één getal er bij op
+	# KLaar
+
 	resultaat = 0
 	for getal in de_array
 		resultaat += getal

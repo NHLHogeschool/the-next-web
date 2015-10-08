@@ -33,3 +33,65 @@ end
 
 klanten = Klanten.new
 klanten.rijkste_klant.print 
+
+
+class Dier 
+	def plant_voort
+	end
+end
+
+class Vogel < Dier 
+end
+
+class Parkiet < Vogel
+end
+
+class Zoogdier < Dier
+end
+
+class Mens < Zoogdier
+end
+
+class Aap < Zoogdier
+end
+
+class Docent < Mens 
+end
+
+
+
+
+
+
+# $ rails g controller Pages
+# controllers > application_controller.rb
+
+class ApplicationController < HenkController
+  def is_ingelogd?
+  	true
+  end
+end
+
+
+class PagesController < ApplicationController
+	def index
+		if is_ingelogd?
+			puts 'wow je bent ingelogd!'
+		end
+	end
+end
+
+class TodoController < ApplicationController
+end
+
+
+
+
+
+
+
+
+
+
+
+
