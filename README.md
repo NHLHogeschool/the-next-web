@@ -58,7 +58,7 @@ Aanwezig: Dinsdag, woensdag en donderdag
 Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/2920).
 
 Expertise: Vormgeving, omgang met klanten  
-Achtergrond: Academie Minerva Hanze Hogeschool
+Achtergrond: Academie Minerva Hanze Hogeschool, Master design Willem de Kooning Academy.
 
 Afspraken maken via de mijncmd.
 **Sjef Smeets**
@@ -76,8 +76,8 @@ Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/3376)
 
 Afspraken: mondeling aangeven tijdens intervisie.
 
-Expertise: Persoonlijke en Professionele Ontwikkeling, Multidisciplinary Teamwork, Communication, Sharing, Growth & Reflection  
-Achtergrond: Media en Entertainment Management, Managementvaardigheden, eigen bedrijf in (klant)communicatie, commercieel consultant
+Expertise: Projectmanagement, Scrum
+Achtergrond: Media en Entertainment Management, Certified scrum master, Managementvaardigheden, eigen bedrijf in (klant)communicatie, commercieel consultant
 
 ## Huisregels
 
@@ -115,7 +115,7 @@ Er zijn communities voor:
 
 * Design research (door Raymond)
 * Design (Jan Wessel)
-* Production 
+* Production (door Raymond)
 * Intervisie projectmanagement (Amarins)
 
 ## Design research
@@ -293,7 +293,7 @@ leerdoelen voor de komende periode worden doorgenomen met een peer.
 * Deadline 1: Inleveren materiaal dinsdag 29 maart uiterlijk 23.23
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor
   ogen. Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd.
-* Deadline 2:  Inleveren materiaal 15 juni uiterlijk 6.02
+* Deadline 2:  Inleveren materiaal 15 juni uiterlijk 7.59 (ochtend)
 * Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct. 
 
 Je bent vrij in de keuze voor het materiaal dat je aanlevert bij de assessments. Bij het eerste assessment zijn er wel zaken die we graag willen zien.
