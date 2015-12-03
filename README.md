@@ -262,38 +262,38 @@ Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is on
 
 | Kalender week | Projectweek | Sprint  | Opzet                |
 | ------------- |:-----------:| -------:|----------------------|
-| 36            | -1          | nvt     | Inspiratieweek       |
-| 37            | 0           | nvt     | Kickoff              |
-| 38            | 1           | 0       |                      |
-| 39            | 2           | 0       |                      |
-| 40            | 3           | 1       |                      |
-| 41            | 4           | 1       |                      |
-| 42            | 5           | 2       |  Deadline 1          |
-| 43            |             |         |  Herfstvakantie      |
-| 44            | 6           | 2       |  Peerassessments     |
-| 45            | 7           | 3       | Peerassessments      |
-| 46            | 8           | 3       |                      |
-| 47            | 9           | 4       |                      |
-| 48            | 10          | 4       |                      |
-| 49            | 11          | 5       |                      |
-| 50            | 12          | 5       |                      |
-| 51            |             |         |  Kerstvakantie       |
-| 52            |             |         |  Kerstvakantie       |
-| 1             | 13          | 6       |                      |
-| 2             | 14          | 6       |Deadline 2, assessment|
-| 3             | 15          |         | Assessment           |
-| 4             | 16          |         | Assessment           |
-| 5             |             |         | Start semester 2     |
+| 5             | -1          | nvt     | Kickoff              |
+| 6             | 0           | 0       | Briefing             |
+| 7             | 1           | 0       |                      |
+| 8             | 2           | 1       |                      |
+| 9             |             |         |   Voorjaarsvakantie  |
+| 10            | 3           | 1       |                      |
+| 11            | 4           | 2       |                      |
+| 12            | 5           | 2       |                      |
+| 13            | 6           | 3       |  Deadline 1          |
+| 14            | 7           | 3       |  Assessments         |
+| 15            | 8           | 4       |  Assessments         |
+| 16            | 9           | 4       |                      |
+| 17            | 10          | 5       |                      |
+| 18            |             |         | Meivakantie          |
+| 19            | 11          | 5       |                      |
+| 20            | 12          | 6       |                      |
+| 21            | 13          | 6       |                      |
+| 22            | 14          | 7       |                      |
+| 23            | 15          | 7       |                      |
+| 24            | 16          |         | Deadline 2           |
+| 25            | 17          |         | Assessment           |
+| 26            |             |         | Assessment           |
 
 
 ## Mijlpalen
 * Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen.
 * Leerdoelen review: Je 
 leerdoelen voor de komende periode worden doorgenomen met een peer. 
-* Deadline 1: Inleveren materiaal donderdag 15 oktober uiterlijk 23.59
+* Deadline 1: Inleveren materiaal dinsdag 29 maart uiterlijk 23.23
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor
   ogen. Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd.
-* Deadline 2:  Inleveren materiaal maandag 11 januari uiterlijk 6.02
+* Deadline 2:  Inleveren materiaal 15 juni uiterlijk 6.02
 * Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct. 
 
 Je bent vrij in de keuze voor het materiaal dat je aanlevert bij de assessments. Bij het eerste assessment zijn er wel zaken die we graag willen zien.
