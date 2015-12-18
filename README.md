@@ -20,8 +20,10 @@ Daarnaast is er veel aandacht voor de aanpak van een opdracht: Hoe werk je vanui
 ## Communicatie
 
 De minor the next web heeft een aantal communicatiekanalen.
-Wijzigingen op het progamma worden doorgegeven via de mailing list.
-Voor deze mailing lijst moet je aangemeld zijn. [Meld je hier aan](https://eepurl.com/1tImP).
+Het belangrijkste kanaal is de mailinglist. Alle grote mededelingen worden hierop gedaan.
+Voor deze mailing lijst * moet * je aangemeld zijn. [Meld je hier aan](https://eepurl.com/1tImP).
+
+Naast de mailinglist maken we gebruik van Slack. Slack gebruiken we voor één op één communicatie, verder is het een efficient kanaal voor het stellen van korte vragen aan docenten en medestudenten. Dit kanaal is ook verplicht. In de introweek helpen we je om je aan te melden.
 
 Daarnaast is er de de website van de minor <https://www.thenextweb.eu>.
 De website verzamelt de informatie die via andere kanalen is verspreid.
@@ -71,7 +73,7 @@ Rol: Interaction design
 
 **Amarins Schuilenburg**
 
-Aanwezig: maandag t/m vrijdag  
+Aanwezig: maandag t/m donderdag  
 Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/3376)
 
 Afspraken: mondeling aangeven tijdens intervisie.
