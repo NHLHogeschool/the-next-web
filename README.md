@@ -69,6 +69,7 @@ Achtergrond: HBO Informatica aan de NHL Hogeschool,
 Master applied communication science Universiteit Twente.
 
 Afspraken maken via de mijncmd.
+
 **Sjef Smeets**
 
 Aanwezig: Maandag t/m donderdag  
