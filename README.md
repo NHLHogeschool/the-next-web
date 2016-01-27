@@ -6,7 +6,7 @@ Binnen de opleiding Communication & Multimedia Design werken we met een aantal m
 waaronder de minor “The Next Web”.
 
 In The Next Web staan vernieuwende webprojecten en apps centraal, waarbij we proberen om mens en techniek zo nauw mogelijk op elkaar aan te laten sluiten. We vinden het belangrijk dat multimedia-ontwerpers begrijpen voor wie ze producten maken en waarom.
-Opdrachten komen uit het bedrijfsleven, de nonprofitsector of de overheid en lopen via het Kenniscentrum van CMD. Daarnaast gaan we partnerschappen aan met bedrijven om samen tot nieuwe inzichten en kennis te komen en een uitwisseling van kennis, ervaring en talent te komen.
+Opdrachten komen uit het bedrijfsleven, de nonprofitsector of de overheid en lopen via het Kenniscentrum van CMD. Daarnaast gaan we partnerschappen aan met bedrijven om samen tot nieuwe inzichten en uitwisseling van kennis, ervaring en talent te komen.
 
 Deze minorwijzer geeft een overzicht van de structuur en inhoud van de minor, van de deadlines en de oplevervoorwaarden.
 
@@ -21,7 +21,7 @@ De minor the next web heeft een aantal communicatiekanalen.
 Het belangrijkste kanaal is de mailinglist. Alle grote mededelingen worden hierop gedaan.
 Voor deze mailing lijst * moet * je aangemeld zijn. [Meld je hier aan](https://eepurl.com/1tImP).
 
-Voor de dagelijkse directe communicatie hebben we een eigen [Slack Team] (https://mtnw-cmd.slack.com
+Voor de dagelijkse directe communicatie hebben we een eigen [Slack Team](https://mtnw-cmd.slack.com
 ) Zorg dat je daar lid van bent. Tijdens de introweek kunnen we je helpen om dat voor elkaar te krijgen.
 
 Daarnaast is er de de website van de minor <https://www.thenextweb.eu>.
