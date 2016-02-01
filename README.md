@@ -5,23 +5,24 @@
 Binnen de opleiding Communication & Multimedia Design werken we met een aantal minoren,
 waaronder de minor “The Next Web”.
 
-In the next web staan vernieuwende webprojecten en apps centraal.
-Er wordt meestal gewerkt op basis van opdrachten uit het bedrijfsleven.
-Deze opdrachten worden binnengehaald door het kenniscentrum van cmd. 
+In The Next Web staan vernieuwende webprojecten en apps centraal, waarbij we proberen om mens en techniek zo nauw mogelijk op elkaar aan te laten sluiten. We vinden het belangrijk dat multimedia-ontwerpers begrijpen voor wie ze producten maken en waarom.
+Opdrachten komen uit het bedrijfsleven, de nonprofitsector of de overheid en lopen via het Kenniscentrum van CMD. Daarnaast gaan we partnerschappen aan met bedrijven om samen tot nieuwe inzichten en uitwisseling van kennis, ervaring en talent te komen.
 
 Deze minorwijzer geeft een overzicht van de structuur en inhoud van de minor, van de deadlines en de oplevervoorwaarden.
 
 ## Doel van de minor
 
-Veel afgestudeerde cmd-ers komen in het werkveld terecht als interaction designer, webvormgever of programmeur.
-In deze minor wordt aandacht besteed aan deze drie aspecten van het werkgebied.
-Daarnaast is er veel aandacht voor de aanpak van een opdracht: Hoe werk je vanuit een vaak een onduidelijk probleem, naar een werkende oplossing. 
+Veel afgestudeerde cmd-ers komen in het werkveld terecht als interaction/user experience designer, webvormgever, adviseur of programmeur.
+In deze minor wordt aandacht besteed aan al deze aspecten van het werkgebied. Daarnaast is er veel aandacht voor de aanpak van een opdracht: Hoe werk je vanuit een vaak een onduidelijk probleem, naar een werkende oplossing en hoe hou je rekening met alle belangrijke en relevante variabelen.
 
 ## Communicatie
 
 De minor the next web heeft een aantal communicatiekanalen.
-Wijzigingen op het progamma worden doorgegeven via de mailing list.
-Voor deze mailing lijst moet je aangemeld zijn. [Meld je hier aan](https://eepurl.com/1tImP).
+Het belangrijkste kanaal is de mailinglist. Alle grote mededelingen worden hierop gedaan.
+Voor deze mailing lijst * moet * je aangemeld zijn. [Meld je hier aan](https://eepurl.com/1tImP).
+
+Voor de dagelijkse directe communicatie hebben we een eigen [Slack Team](https://mtnw-cmd.slack.com
+) Zorg dat je daar lid van bent. Tijdens de introweek kunnen we je helpen om dat voor elkaar te krijgen.
 
 Daarnaast is er de de website van de minor <https://www.thenextweb.eu>.
 De website verzamelt de informatie die via andere kanalen is verspreid.
@@ -33,34 +34,42 @@ facebook als de groep [mtnwcmd](https://www.facebook.com/groups/mtwncmd/).
 De informatie op deze kanalen is bedoeld als achtergrondmateriaal.
 Je hoeft deze kanalen niet actief te volgen, er zullen geen belangrijke organisatorische mededelingen worden gedaan.
 
-## Rooster
+## Rooster / Planning
 
 Het rooster van de minor is te vinden op de <https://www.thenextweb.eu>.
-[De complete planning vind je hier](https://www.google.com/calendar/embed?src=mo7vph6l2neh6m3bcju1ncon4k@group.calendar.google.com&ctz=Europe/Amsterdam).
+[De complete planning vind je op Google Calendar](https://www.google.com/calendar/embed?src=mo7vph6l2neh6m3bcju1ncon4k@group.calendar.google.com&ctz=Europe/Amsterdam).
+Voeg deze Calendar toe aan je eigen agenda.
 
 ## Docenten
 
+**Jan-Wessel Hovingh**
+
+Aanwezig: Maandag t/m Donderdag  
+Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/2920).
+
+Expertise: Interactieontwerp, User Experience Design, Grafische Vormgeving, Design Research, Klanten
+Rol: Minorcoördinatie, regelneef, flapdrol, docent design & user experience
+Achtergrond: Communicatie Vormgeving Academie Minerva Groningen, Master Design Willem de Kooning Academy Rotterdam.
+18 jaar ervaring als (interactie) ontwerper & vormgever, zowel freelance als in dienstverband.
+
+Afspraken via MijnCMD
+[Consults](https://www.mijncmd.nl/subscriptions/1870)
+[Mentorgesprekken](https://www.mijncmd.nl/subscriptions/1828)
+
 **Raymond van Dongelen**
 
-Aanwezig: op maandag t/m donderdag. Dinsdag en donderdag tot 14.45.  
+Aanwezig: op dinsdag t/m donderdag. Dinsdag en donderdag tot 14.45.  
 Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/412).
 
 Expertise: Design science, Informatica voornamelijk toegespitst op Apps.  
-Rol: In de minor verantwoordelijk voor de organisatie, app lessen, design science.  
+Rol: app lessen, design science.  
 Consults: Afspraken kan via de [CMD-website](https://www.mijncmd.nl/subscriptions/times/1798/).
 
 Achtergrond: HBO Informatica aan de NHL Hogeschool,  
 Master applied communication science Universiteit Twente.
 
-**Jan-Wessel Hovingh**
-
-Aanwezig: Dinsdag, woensdag en donderdag  
-Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/2920).
-
-Expertise: Vormgeving, omgang met klanten  
-Achtergrond: Academie Minerva Hanze Hogeschool
-
 Afspraken maken via de mijncmd.
+
 **Sjef Smeets**
 
 Aanwezig: Maandag t/m donderdag  
@@ -71,20 +80,27 @@ Rol: Interaction design
 
 **Amarins Schuilenburg**
 
-Aanwezig: maandag t/m vrijdag  
+Aanwezig: maandag t/m donderdag  
 Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/3376)
 
 Afspraken: mondeling aangeven tijdens intervisie.
 
-Expertise: Persoonlijke en Professionele Ontwikkeling, Multidisciplinary Teamwork, Communication, Sharing, Growth & Reflection  
-Achtergrond: Media en Entertainment Management, Managementvaardigheden, eigen bedrijf in (klant)communicatie, commercieel consultant
+Expertise: Projectmanagement, Scrum
+Achtergrond: Media en Entertainment Management, Certified scrum master, Managementvaardigheden, eigen bedrijf in (klant)communicatie, commercieel consultant
+
+**Tjerk Dijkstra**
+
+Expertise: Front/backend development; 
+Achtergrond: CMD Leeuwarden, iWink Groningen
+
+Aanwezig: 
 
 ## Huisregels
 
 * Elke werkdag kan worden gebruikt om lessen/ consults en tutorgesprekken te plannen.
 * Binnen deze dagen ben je inzetbaar.
-* Vakanties/ afwezigheid buiten de daarvoor bestemde periodes overleg je met je groep **en** de minoreigenaar.
-* Je zult een hele goede reden moeten hebben.
+* Afwezigheid buiten de daarvoor bestemde periodes overleg je met je groep **en** de minoreigenaar.
+* Je zult een hele goede reden moeten hebben voor afwezigheid willen we daar rekening mee houden.
 * Lessen starten op de aangegeven tijd, ben je te laat dan kom je niet meer binnen.
 * Je gaat niet eerder weg dan dat de les is afgelopen.
 
@@ -115,7 +131,7 @@ Er zijn communities voor:
 
 * Design research (door Raymond)
 * Design (Jan Wessel)
-* Production 
+* Production (door Raymond)
 * Intervisie projectmanagement (Amarins)
 
 ## Design research
@@ -147,21 +163,14 @@ de sessie die op donderdag worden gegeven zijn bedoeld voor gevorderde programme
 ## Design
 
 Je wilt een mooie site maken. Of een app. Of beide. Hij moet het doen op een Android en een iPhone.
-iPhone 6? Die ook. En met touch-screen functionaliteit.
-Maar hij moet het ook goed doen op een gewone computermonitor.
+iPhone 6? Die ook. En met touch-screen functionaliteit. Maar hij moet het ook goed doen op een gewone computermonitor.
 Dat betekent dat je rekening moet houden met duizenden devices en duizenden resoluties tussen 240x180 en 2560x1600 pixels.
+
 We need a responsive designer.
-Of het nou UX, UI of grafisch ontwerp is, de tijd dat je een Photoshopbestand bij de HTML'er
-of developer over de schutting gooit en terugkomt als het klaar is, ligt achter je.
-Je leert om binnen een team na te denken over functionaliteit, gebruiks-ervaring en esthetiek.
-Een design samenstellen in een agile traject, gebaseerd op Rapid Prototyping.
-Snel demo's opleveren om te kijken of je ideën werken. Testen. Werkt niet? Geeft niet.
-Doen we het nog een keer. Development en design gaan hand in hand.
-Is het dan alleen nerden wat de klok slaat? Nee.
-Een goed ontworpen site of app staat of valt met een ideale mix van functionaliteit en esthetiek.
-Wat wordt als 'mooi' of 'prettig' ervaren, en waarom?
-Je leert designtools gebruiken en weloverwogen keuzes te maken op met van kennis van kleur, beeld en typografie.
-Pittig? Ja. Hard werken? Ja. Maar wel gaaf.
+
+Of het nou UX, UI of grafisch ontwerp is, de tijd dat je een Photoshopbestand bij de HTML'er of developer over de schutting gooit en terugkomt als het klaar is, ligt achter je. Je leert om binnen een team na te denken over functionaliteit, gebruiks-ervaring en esthetiek. Een design samenstellen in een agile traject, gebaseerd op Rapid Prototyping.
+
+Snel demo's opleveren om te kijken of je ideën werken. Testen. Werkt niet? Geeft niet. Doen we het nog een keer. Development en design gaan hand in hand. Is het dan alleen nerden wat de klok slaat? Nee. Een goed ontworpen site of app staat of valt met een ideale mix van functionaliteit en esthetiek. Wat wordt als 'mooi' of 'prettig' ervaren, en waarom? Je leert designtools gebruiken en weloverwogen keuzes te maken op met van kennis van kleur, beeld en typografie. Pittig? Ja. Hard werken? Ja. Maar wel gaaf.
 
 ## Intervisie projectmanagement
 
@@ -262,39 +271,38 @@ Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is on
 
 | Kalender week | Projectweek | Sprint  | Opzet                |
 | ------------- |:-----------:| -------:|----------------------|
-| 36            | -1          | nvt     | Inspiratieweek       |
-| 37            | 0           | nvt     | Kickoff              |
-| 38            | 1           | 0       |                      |
-| 39            | 2           | 0       |                      |
-| 40            | 3           | 1       |                      |
-| 41            | 4           | 1       |                      |
-| 42            | 5           | 2       |  Deadline 1          |
-| 43            |             |         |  Herfstvakantie      |
-| 44            | 6           | 2       |  Peerassessments     |
-| 45            | 7           | 3       | Peerassessments      |
-| 46            | 8           | 3       |                      |
-| 47            | 9           | 4       |                      |
-| 48            | 10          | 4       |                      |
-| 49            | 11          | 5       |                      |
-| 50            | 12          | 5       |                      |
-| 51            | 13          | 6       |                      |
-| 52            |             |         |  Kerstvakantie       |
-| 53            |             |         |  Kerstvakantie       |
-| 1             | 14          | 6       |                      |
-| 2             | 15          |         |Deadline 2, assessment|
-| 3             | 16          |         | Assessment           |
-| 4             | 17          |         | Assessment           |
-| 5             |             |         | Start semester 2     |
+| 5             | -1          | nvt     | Kickoff              |
+| 6             | 0           | 0       | Briefing             |
+| 7             | 1           | 0       |                      |
+| 8             | 2           | 1       |                      |
+| 9             |             |         |   Voorjaarsvakantie  |
+| 10            | 3           | 1       |                      |
+| 11            | 4           | 2       |                      |
+| 12            | 5           | 2       |                      |
+| 13            | 6           | 3       |  Deadline 1          |
+| 14            | 7           | 3       |  Assessments         |
+| 15            | 8           | 4       |  Assessments         |
+| 16            | 9           | 4       |                      |
+| 17            | 10          | 5       |                      |
+| 18            |             |         | Meivakantie          |
+| 19            | 11          | 5       |                      |
+| 20            | 12          | 6       |                      |
+| 21            | 13          | 6       |                      |
+| 22            | 14          | 7       |                      |
+| 23            | 15          | 7       |                      |
+| 24            | 16          |         | Deadline 2           |
+| 25            | 17          |         | Assessment           |
+| 26            |             |         | Assessment           |
 
 
 ## Mijlpalen
 * Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen.
 * Leerdoelen review: Je 
 leerdoelen voor de komende periode worden doorgenomen met een peer. 
-* Deadline 1: Inleveren materiaal donderdag 15 oktober uiterlijk 23.59
+* Deadline 1: Inleveren materiaal dinsdag 29 maart uiterlijk 23.23
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor
   ogen. Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd.
-* Deadline 2:  Inleveren materiaal maandag 11 januari uiterlijk 6.02
+* Deadline 2:  Inleveren materiaal 15 juni uiterlijk 7.59 (ochtend)
 * Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct. 
 
 Je bent vrij in de keuze voor het materiaal dat je aanlevert bij de assessments. Bij het eerste assessment zijn er wel zaken die we graag willen zien.
@@ -330,9 +338,7 @@ Je start met een *plan*, in de context van cmd een pop. Met dit plan ga je aan d
 De beoordeling binnen de minor is gebaseerd op het toetsplan van CMD. 
 
 ## Pop
-Om er voor te zorgen dat je de periode goed plant, maak je een persoonlijk ontwikkelingsplan. Dit pop is je middel om er achter te komen hoe je aan je ec’s gaat komen. Je bespreekt hierin het bewijsmateriaal dat je wilt gaan vergaren voor de competenties waarin je je wilt verbeteren. Bouw door op feedback die je in de vorige jaren van je studie hebt gekregen. 
-Je pop bespreek je met je mentor, doel is om zekerheid over je aanpak te krijgen.  
-Voordat je een assessment in gaat maak je een verantwoordingsdocument voor de competentie die je laat beoordelen. Hierin beschrijf je waarom je nu competent bent. Het pop speelt geen rol in reguliere assessments. 
+Om er voor te zorgen dat je de periode goed plant, maak je een persoonlijk ontwikkelingsplan. Dit pop is je middel om er achter te komen hoe je aan je ec’s gaat komen. Je bespreekt hierin het bewijsmateriaal dat je wilt gaan vergaren voor de competenties waarin je je wilt verbeteren. Bouw door op feedback die je in de vorige jaren van je studie hebt gekregen. Je pop bespreek je met je mentor, doel is om zekerheid over je aanpak te krijgen. Voordat je een assessment in gaat maak je een verantwoordingsdocument voor de competentie die je laat beoordelen. Hierin beschrijf je waarom je nu competent bent. Het pop speelt geen rol in reguliere assessments. 
 
 ## Mentor
 
@@ -341,7 +347,7 @@ Gebruik je mentor om je te adviseren over hetgeen je kunt leren, en vraag feedba
 
 ## BOKS
 
-In de [Body Of Knowledge and Skills](https://www.mijncmd.nl/Algemeen/Body+of+Knowledge+and+Skills) kun je vinden welke literatuur de opleiding aanraad om je een bepaald onderwerp eigen te maken. 
+In de [Body Of Knowledge and Skills](https://www.mijncmd.nl/Algemeen/Body+of+Knowledge+and+Skills) kun je vinden welke literatuur de opleiding aanraad om je een bepaald onderwerp eigen te maken. Daarnaast hebben we binnen de minor de "Toolboks". Dat is een koffer met Minorspecifieke literatuur. Van de meeste boeken hebben de digitale versies zodat niemand zonder hoeft te zitten.
 
 ## Verantwoordingsdocumenten
 Aan het begin van de minor maak je in overleg met je mentor een inventarisatie van welke kennis en vaardigheden je van plan bent om te ontwikkelen. De punten verwerk je in je persoonlijk ontwikkelingsplan (POP). Input voor dit plan is de feedback/ feedforward die je bij vorige assessments hebt gekregen. 
@@ -407,7 +413,6 @@ Het assessment start met het vaststellen van te te beoordelen competenties. Het 
 * Overleg beoordelaars 15 min
 * Toelichting beoordeling + feedback 15 min
 
-
 # Beoordelings-voorwaarden per competentie
 
 ## Teamwork
@@ -422,8 +427,7 @@ Denk bij teamwork aan de volgende zaken:
 
 ## Projectmanagement
 
-Neem je Projectmanagement EC’s op dit semester? Dan ga je aan de hand van de werkmethode scrum operationeel leidinggeven aan een projectteam en contact onderhouden met opdrachtgever en belanghebbenden. Voor projectmanagement op gevorderd niveau is het belangrijk dat je verdieping zoekt en niet meer op basisniveau ‘doet'. Je gaat aan de hand van situaties bewust keuzes maken, middelen inzetten of zaken aanpassen. 
-De tweedeling Leiderschap en Administratieve Organisatie is binnen Projectmanagement erg belangrijk. Je werkt aan een goede relatie tussen Scrum Master en Product Owner. Als laatste zet je het scrumproces bewust in en let hierbij op drie elementen: rollen, middelen, meetings.
+Neem je Projectmanagement EC’s op dit semester? Dan ga je aan de hand van de werkmethode scrum operationeel leidinggeven aan een projectteam en contact onderhouden met opdrachtgever en belanghebbenden. Voor projectmanagement op gevorderd niveau is het belangrijk dat je verdieping zoekt en niet meer op basisniveau ‘doet'. Je gaat aan de hand van situaties bewust keuzes maken, middelen inzetten of zaken aanpassen.  De tweedeling Leiderschap en Administratieve Organisatie is binnen Projectmanagement erg belangrijk. Je werkt aan een goede relatie tussen Scrum Master en Product Owner. Als laatste zet je het scrumproces bewust in en let hierbij op drie elementen: rollen, middelen, meetings.
 Je inzet binnen de intervisiegroep wordt meegenomen in de beoordeling.
 
 ## Sharing
