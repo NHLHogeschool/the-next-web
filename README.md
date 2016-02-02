@@ -160,6 +160,12 @@ De app programmeer sessies zijn bedoeld voor gevorderde programmeurs.
 De web programmeer sessies die op dinsdag worden gegeven zijn bedoeld voor beginnende programmeurs,
 de sessie die op donderdag worden gegeven zijn bedoeld voor gevorderde programmeurs.  
 
+Voor de programmeurs die een stap verder willen is er de software engineering community. In de community of Software Engineering worden software engineering in de breedste zin van het woord behandeld. 
+Principes als UML, Design patterns, frameworks maar ook Data structuren, object oriëntatie, polymorphisme, overerving, recursie en data encapsulatie komen aan bod.
+De community komt twee wekelijks bijelkaar. Contact persoon is Gerben Wiersma. 
+
+
+
 ## Design
 
 Je wilt een mooie site maken. Of een app. Of beide. Hij moet het doen op een Android en een iPhone.
