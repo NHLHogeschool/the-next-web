@@ -24,7 +24,7 @@ Voor deze mailing lijst * moet * je aangemeld zijn. [Meld je hier aan](https://e
 Voor de dagelijkse directe communicatie hebben we een eigen [Slack Team](https://mtnw-cmd.slack.com
 ) Zorg dat je daar lid van bent. Tijdens de introweek kunnen we je helpen om dat voor elkaar te krijgen.
 
-Daarnaast is er de de website van de minor <https://www.thenextweb.eu>.
+Daarnaast is er de de website van de minor <http://www.thenextweb.eu>.
 De website verzamelt de informatie die via andere kanalen is verspreid.
 College materiaal zal hierop verschijnen. 
 
@@ -36,7 +36,7 @@ Je hoeft deze kanalen niet actief te volgen, er zullen geen belangrijke organisa
 
 ## Rooster / Planning
 
-Het rooster van de minor is te vinden op de <https://www.thenextweb.eu>.
+Het rooster van de minor is te vinden op de <http://www.thenextweb.eu>.
 [De complete planning vind je op Google Calendar](https://www.google.com/calendar/embed?src=mo7vph6l2neh6m3bcju1ncon4k@group.calendar.google.com&ctz=Europe/Amsterdam).
 Voeg deze Calendar toe aan je eigen agenda.
 
