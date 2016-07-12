@@ -278,19 +278,19 @@ Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is on
 | 36            | -1          | nvt     | Kickoff              |
 | 37            | 0           | 0       | Briefing             |
 | 38            | 1           | 0       |                      |
-| 39            | 2           |         |                      |
-| 40            | 3           |         |                      |
-| 41            | 4           |         |                      |
+| 39            | 2           | 1       |                      |
+| 40            | 3           | 1       |                      |
+| 41            | 4           | 2       |                      |
 | 42            |             |         | Herfstvakantie       |
-| 43            | 5           |         |                      |
+| 43            | 5           | 2       |                      |
 | 44            | 6           |         | Deadline 1           |
 | 45            | 7           |         | Assessments          |
 | 46            | 8           |         | Assessments          |
 | 47            | 9           |         |                      |
-| 48            | 10          | 5       |                      |
-| 49            | 11          |         |                      |
-| 50            | 12          | 5       |                      |
-| 51            | 13          | 6       |                      |
+| 48            | 10          |         |                      |
+| 49            | 11          |         | Afstemmingsgesprekken|
+| 50            | 12          |         |                      |
+| 51            | 13          |         |                      |
 | 52            |             |         | Kerstvakantie        |
 | 1             |             |         | Kerstvakantie        |
 | 2             | 15          |         |                      |
@@ -303,10 +303,10 @@ Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is on
 * Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen.
 * Leerdoelen review: Je 
 leerdoelen voor de komende periode worden doorgenomen met een peer. 
-* Deadline 1: Inleveren materiaal dinsdag 29 maart uiterlijk 23.23
+* Deadline 1: Inleveren materiaal dinsdag 1 november voor 24.00
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor
   ogen. Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd.
-* Deadline 2:  Inleveren materiaal 15 juni uiterlijk 7.59 (ochtend)
+* Deadline 2:  Inleveren materiaal maandag 16 januari voor 24.00
 * Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct. 
 
 Je bent vrij in de keuze voor het materiaal dat je aanlevert bij de assessments. Bij het eerste assessment zijn er wel zaken die we graag willen zien.
