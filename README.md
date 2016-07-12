@@ -80,7 +80,7 @@ Rol: Interaction design
 
 **Amarins Schuilenburg**
 
-Aanwezig: maandag t/m donderdag  
+Aanwezig: maandag t/m woensdag  
 Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/3376)
 
 Afspraken: mondeling aangeven tijdens intervisie.
@@ -92,6 +92,10 @@ Achtergrond: Media en Entertainment Management, Certified scrum master, Manageme
 
 Expertise: Front/backend development; 
 Achtergrond: CMD Leeuwarden, iWink Groningen
+
+** Marijn de Vries Hoogerwerff
+Expertise: 
+Achtergrond:
 
 Aanwezig: 
 
@@ -271,29 +275,29 @@ Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is on
 
 | Kalender week | Projectweek | Sprint  | Opzet                |
 | ------------- |:-----------:| -------:|----------------------|
-| 5             | -1          | nvt     | Kickoff              |
-| 6             | 0           | 0       | Briefing             |
-| 7             | 1           | 0       |                      |
-| 8             | 2           | 1       |                      |
-| 9             |             |         |   Voorjaarsvakantie  |
-| 10            | 3           | 1       |                      |
-| 11            | 4           | 2       |                      |
-| 12            | 5           | 2       |                      |
-| 13            | 6           | 3       |  Deadline 1          |
-| 14            | 7           | 3       |  Assessments         |
-| 15            | 8           | 4       |  Assessments         |
-| 16            | 9           | 4       |                      |
-| 17            | 10          | 5       |                      |
-| 18            |             |         | Meivakantie          |
-| 19            | 11          | 5       |                      |
-| 20            | 12          | 6       |                      |
-| 21            | 13          | 6       |                      |
-| 22            | 14          | 7       |                      |
-| 23            | 15          | 7       |                      |
-| 24            | 16          |         | Deadline 2           |
-| 25            | 17          |         | Assessment           |
-| 26            |             |         | Assessment           |
-
+| 36            | -1          | nvt     | Kickoff              |
+| 37            | 0           | 0       | Briefing             |
+| 38            | 1           | 0       |                      |
+| 39            | 2           |         |                      |
+| 40            | 3           |         |                      |
+| 41            | 4           |         |                      |
+| 42            |             |         | Herfstvakantie       |
+| 43            | 5           |         |                      |
+| 44            | 6           |         | Deadline 1           |
+| 45            | 7           |         | Assessments          |
+| 46            | 8           |         | Assessments          |
+| 47            | 9           |         |                      |
+| 48            | 10          | 5       |                      |
+| 49            | 11          |         |                      |
+| 50            | 12          | 5       |                      |
+| 51            | 13          | 6       |                      |
+| 52            |             |         | Kerstvakantie        |
+| 1             |             |         | Kerstvakantie        |
+| 2             | 15          |         |                      |
+| 3             | 16          |         | Deadline 2/ assessment|
+| 4             | 17          |         | Assessment           |
+| 5             | 18          |         | Assessment           |
+| 6             | -1          |         | Start semester 2     |
 
 ## Mijlpalen
 * Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen.
