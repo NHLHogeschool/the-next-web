@@ -283,18 +283,18 @@ Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is on
 | 41            | 4           | 2       |                      |
 | 42            |             |         | Herfstvakantie       |
 | 43            | 5           | 2       |                      |
-| 44            | 6           |         | Deadline 1           |
-| 45            | 7           |         | Assessments          |
-| 46            | 8           |         | Assessments          |
-| 47            | 9           |         |                      |
-| 48            | 10          |         |                      |
-| 49            | 11          |         | Afstemmingsgesprekken|
-| 50            | 12          |         |                      |
-| 51            | 13          |         |                      |
+| 44            | 6           | 3       | Deadline 1           |
+| 45            | 7           | 3       | Assessments          |
+| 46            | 8           | 4       | Assessments          |
+| 47            | 9           | 4       |                      |
+| 48            | 10          | 5       |                      |
+| 49            | 11          | 5       | Afstemmingsgesprekken|
+| 50            | 12          | 6       |                      |
+| 51            | 13          | 6       |                      |
 | 52            |             |         | Kerstvakantie        |
 | 1             |             |         | Kerstvakantie        |
-| 2             | 15          |         |                      |
-| 3             | 16          |         | Deadline 2/ assessment|
+| 2             | 15          | 7       |                      |
+| 3             | 16          | 7       | Deadline 2/ assessment|
 | 4             | 17          |         | Assessment           |
 | 5             | 18          |         | Assessment           |
 | 6             | -1          |         | Start semester 2     |
