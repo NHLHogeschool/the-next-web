@@ -248,6 +248,13 @@ De opdrachten zijn vooraf besproken met Raymond en Jan Wessel.
 Tijdens de kick-off worden deze projecten gepresenteerd. Kies zorgvuldig op basis van je leervragen.
 Niet alle opdrachten bieden bijvoorbeeld ruimte voor een onderzoekstraject.
 
+## Afstemmingsgesprekken
+Een maand voor het einde van het semester zullen de afstemmingsgesprekken plaatsvinden, deze worden ingepland door het Kenniscentrum.
+De gesprekken hebben als doel om officieel vast te stellen wat er uiteindelijk opgeleverd zal worden.
+Voor de opdrachtgever is dit het laatste moment om eventuele vragen te stellen, aanpassingen voor te stellen
+ etc. 
+Bij dit gesprek dienen ALLE groepsleden aanwezig te zijn. Ook de betrokken begeleider en de contactpersoon vanuit het Kenniscentrum zullen aanwezig zijn. Ter voorbereiding op dit gesprek vullen jullie als groep het bijgevoegde afstemmingsformulier in. Je bespreekt het formulier voor het gesprek met je tutor. Belangrijk bij het invullen van dit formulier is om zoveel mogelijk details te vermelden, dit om miscommunicatie na afloop van het project te voorkomen. Uiterlijk twee werkdagen voor het afstemmingsgesprek stuurt de projectmanager het ingevulde formulier naar de opdrachtgever te mailen zodat hij/zij ook de gelegenheid heeft om het rustig door te lezen. Het afstemmingsgesprek hoeft door een goede voorbereiding niet langer dan een half uur te duren. Zorg ervoor dat je als projectmanager het formulier digitaal bij je hebt, zodat je tijdens het afstemmingsgesprek direct de aanpassingen kunt verwerken. Na afloop wordt het formulier gedeeld met de betrokken partijen.
+
 ## Eigen opdrachten
 
 Naast de opdrachten die door het kenniscentrum worden aangeboden, kun je een eigen opdracht doen.
