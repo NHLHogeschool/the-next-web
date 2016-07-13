@@ -248,12 +248,7 @@ De opdrachten zijn vooraf besproken met Raymond en Jan Wessel.
 Tijdens de kick-off worden deze projecten gepresenteerd. Kies zorgvuldig op basis van je leervragen.
 Niet alle opdrachten bieden bijvoorbeeld ruimte voor een onderzoekstraject.
 
-## Afstemmingsgesprekken
-Een maand voor het einde van het semester zullen de afstemmingsgesprekken plaatsvinden, deze worden ingepland door het Kenniscentrum.
-De gesprekken hebben als doel om officieel vast te stellen wat er uiteindelijk opgeleverd zal worden.
-Voor de opdrachtgever is dit het laatste moment om eventuele vragen te stellen, aanpassingen voor te stellen
- etc. 
-Bij dit gesprek dienen ALLE groepsleden aanwezig te zijn. Ook de betrokken begeleider en de contactpersoon vanuit het Kenniscentrum zullen aanwezig zijn. Ter voorbereiding op dit gesprek vullen jullie als groep het bijgevoegde afstemmingsformulier in. Je bespreekt het formulier voor het gesprek met je tutor. Belangrijk bij het invullen van dit formulier is om zoveel mogelijk details te vermelden, dit om miscommunicatie na afloop van het project te voorkomen. Uiterlijk twee werkdagen voor het afstemmingsgesprek stuurt de projectmanager het ingevulde formulier naar de opdrachtgever te mailen zodat hij/zij ook de gelegenheid heeft om het rustig door te lezen. Het afstemmingsgesprek hoeft door een goede voorbereiding niet langer dan een half uur te duren. Zorg ervoor dat je als projectmanager het formulier digitaal bij je hebt, zodat je tijdens het afstemmingsgesprek direct de aanpassingen kunt verwerken. Na afloop wordt het formulier gedeeld met de betrokken partijen.
+
 
 ## Eigen opdrachten
 
@@ -261,6 +256,8 @@ Naast de opdrachten die door het kenniscentrum worden aangeboden, kun je een eig
 Als je een eigen opdracht wilt doen, dan moet je dit tijdig bespreken met Raymond.
 In de praktijk betekent dit dat je voor de laatste maand van de minor toestemming moet hebben,
 om de volgende minor een eigen opdracht te mogen doen.
+
+
 
 ## Sollicitatie procedure opdrachten
 Als je in deze periode productowner wilt zijn, dan kun je dit in de eerste week aangeven. 
@@ -277,6 +274,12 @@ Van belang bij de teamsamenstelling zijn:
 
 Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is ondersteunend, de productowners zijn als groep verantwoordelijk voor het samenstellen van de groepen.
 
+## Afstemmingsgesprekken
+Een maand voor het einde van het semester zullen de afstemmingsgesprekken plaatsvinden, deze worden ingepland door het Kenniscentrum.
+De gesprekken hebben als doel om officieel vast te stellen wat er uiteindelijk opgeleverd zal worden.
+Voor de opdrachtgever is dit het laatste moment om eventuele vragen te stellen, aanpassingen voor te stellen
+ etc. 
+Bij dit gesprek dienen ALLE groepsleden aanwezig te zijn. Ook de betrokken begeleider en de contactpersoon vanuit het Kenniscentrum zullen aanwezig zijn. Ter voorbereiding op dit gesprek vullen jullie als groep het [afstemmingsformulier](https://www.dropbox.com/s/lk0xsymzt2x6iy5/Afspraken%20voor%20oplevering.docx?dl=0) in. Je bespreekt het formulier voor het gesprek met je tutor. Belangrijk bij het invullen van dit [formulier](https://www.dropbox.com/s/lk0xsymzt2x6iy5/Afspraken%20voor%20oplevering.docx?dl=0) is om zoveel mogelijk details te vermelden, dit om miscommunicatie na afloop van het project te voorkomen. Uiterlijk twee werkdagen voor het afstemmingsgesprek stuurt de projectmanager het ingevulde formulier naar de opdrachtgever te mailen zodat hij/zij ook de gelegenheid heeft om het rustig door te lezen. Het afstemmingsgesprek hoeft door een goede voorbereiding niet langer dan een half uur te duren. Zorg ervoor dat je als projectmanager het [formulier](https://www.dropbox.com/s/lk0xsymzt2x6iy5/Afspraken%20voor%20oplevering.docx?dl=0) digitaal bij je hebt, zodat je tijdens het afstemmingsgesprek direct de aanpassingen kunt verwerken. Na afloop wordt het formulier gedeeld met de betrokken partijen.
 
 ## Globale planning
 
