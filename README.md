@@ -80,7 +80,7 @@ Rol: Interaction design
 
 **Amarins Schuilenburg**
 
-Aanwezig: maandag t/m donderdag  
+Aanwezig: maandag t/m woensdag  
 Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/3376)
 
 Afspraken: mondeling aangeven tijdens intervisie.
@@ -92,6 +92,10 @@ Achtergrond: Media en Entertainment Management, Certified scrum master, Manageme
 
 Expertise: Front/backend development; 
 Achtergrond: CMD Leeuwarden, iWink Groningen
+
+** Marijn de Vries Hoogerwerff
+Expertise: 
+Achtergrond:
 
 Aanwezig: 
 
@@ -244,12 +248,16 @@ De opdrachten zijn vooraf besproken met Raymond en Jan Wessel.
 Tijdens de kick-off worden deze projecten gepresenteerd. Kies zorgvuldig op basis van je leervragen.
 Niet alle opdrachten bieden bijvoorbeeld ruimte voor een onderzoekstraject.
 
+
+
 ## Eigen opdrachten
 
 Naast de opdrachten die door het kenniscentrum worden aangeboden, kun je een eigen opdracht doen.
 Als je een eigen opdracht wilt doen, dan moet je dit tijdig bespreken met Raymond.
 In de praktijk betekent dit dat je voor de laatste maand van de minor toestemming moet hebben,
 om de volgende minor een eigen opdracht te mogen doen.
+
+
 
 ## Sollicitatie procedure opdrachten
 Als je in deze periode productowner wilt zijn, dan kun je dit in de eerste week aangeven. 
@@ -266,43 +274,49 @@ Van belang bij de teamsamenstelling zijn:
 
 Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is ondersteunend, de productowners zijn als groep verantwoordelijk voor het samenstellen van de groepen.
 
+## Afstemmingsgesprekken
+Een maand voor het einde van het semester zullen de afstemmingsgesprekken plaatsvinden, deze worden ingepland door het Kenniscentrum.
+De gesprekken hebben als doel om officieel vast te stellen wat er uiteindelijk opgeleverd zal worden.
+Voor de opdrachtgever is dit het laatste moment om eventuele vragen te stellen, aanpassingen voor te stellen
+ etc. 
+Bij dit gesprek dienen ALLE groepsleden aanwezig te zijn. Ook de betrokken begeleider en de contactpersoon vanuit het Kenniscentrum zullen aanwezig zijn. Ter voorbereiding op dit gesprek vullen jullie als groep het [afstemmingsformulier](https://www.dropbox.com/s/lk0xsymzt2x6iy5/Afspraken%20voor%20oplevering.docx?dl=0) in. Je bespreekt het formulier voor het gesprek met je tutor. Belangrijk bij het invullen van dit [formulier](https://www.dropbox.com/s/lk0xsymzt2x6iy5/Afspraken%20voor%20oplevering.docx?dl=0) is om zoveel mogelijk details te vermelden, dit om miscommunicatie na afloop van het project te voorkomen. Uiterlijk twee werkdagen voor het afstemmingsgesprek stuurt de projectmanager het ingevulde formulier naar de opdrachtgever te mailen zodat hij/zij ook de gelegenheid heeft om het rustig door te lezen. Het afstemmingsgesprek hoeft door een goede voorbereiding niet langer dan een half uur te duren. Zorg ervoor dat je als projectmanager het [formulier](https://www.dropbox.com/s/lk0xsymzt2x6iy5/Afspraken%20voor%20oplevering.docx?dl=0) digitaal bij je hebt, zodat je tijdens het afstemmingsgesprek direct de aanpassingen kunt verwerken. Na afloop wordt het formulier gedeeld met de betrokken partijen.
 
 ## Globale planning
 
 | Kalender week | Projectweek | Sprint  | Opzet                |
 | ------------- |:-----------:| -------:|----------------------|
-| 5             | -1          | nvt     | Kickoff              |
-| 6             | 0           | 0       | Briefing             |
-| 7             | 1           | 0       |                      |
-| 8             | 2           | 1       |                      |
-| 9             |             |         |   Voorjaarsvakantie  |
-| 10            | 3           | 1       |                      |
-| 11            | 4           | 2       |                      |
-| 12            | 5           | 2       |                      |
-| 13            | 6           | 3       |  Deadline 1          |
-| 14            | 7           | 3       |  Assessments         |
-| 15            | 8           | 4       |  Assessments         |
-| 16            | 9           | 4       |                      |
-| 17            | 10          | 5       |                      |
-| 18            |             |         | Meivakantie          |
-| 19            | 11          | 5       |                      |
-| 20            | 12          | 6       |                      |
-| 21            | 13          | 6       |                      |
-| 22            | 14          | 7       |                      |
-| 23            | 15          | 7       |                      |
-| 24            | 16          |         | Deadline 2           |
-| 25            | 17          |         | Assessment           |
-| 26            |             |         | Assessment           |
-
+| 36            | -1          | nvt     | Kickoff              |
+| 37            | 0           | 0       | Briefing             |
+| 38            | 1           | 0       |                      |
+| 39            | 2           | 1       |                      |
+| 40            | 3           | 1       |                      |
+| 41            | 4           | 2       |                      |
+| 42            |             |         | Herfstvakantie       |
+| 43            | 5           | 2       |                      |
+| 44            | 6           | 3       | Deadline 1           |
+| 45            | 7           | 3       | Assessments          |
+| 46            | 8           | 4       | Assessments          |
+| 47            | 9           | 4       |                      |
+| 48            | 10          | 5       |                      |
+| 49            | 11          | 5       | Afstemmingsgesprekken|
+| 50            | 12          | 6       |                      |
+| 51            | 13          | 6       |                      |
+| 52            |             |         | Kerstvakantie        |
+| 1             |             |         | Kerstvakantie        |
+| 2             | 15          | 7       |                      |
+| 3             | 16          | 7       | Deadline 2/ assessment|
+| 4             | 17          |         | Assessment           |
+| 5             | 18          |         | Assessment           |
+| 6             | -1          |         | Start semester 2     |
 
 ## Mijlpalen
 * Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen.
 * Leerdoelen review: Je 
 leerdoelen voor de komende periode worden doorgenomen met een peer. 
-* Deadline 1: Inleveren materiaal dinsdag 29 maart uiterlijk 23.23
+* Deadline 1: Inleveren materiaal dinsdag 1 november voor 24.00
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor
   ogen. Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd.
-* Deadline 2:  Inleveren materiaal 15 juni uiterlijk 7.59 (ochtend)
+* Deadline 2:  Inleveren materiaal maandag 16 januari voor 24.00
 * Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct. 
 
 Je bent vrij in de keuze voor het materiaal dat je aanlevert bij de assessments. Bij het eerste assessment zijn er wel zaken die we graag willen zien.
