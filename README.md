@@ -24,7 +24,7 @@ Voor deze mailing lijst * moet * je aangemeld zijn. [Meld je hier aan](https://e
 Voor de dagelijkse directe communicatie hebben we een eigen [Slack Team](https://mtnw-cmd.slack.com
 ) Zorg dat je daar lid van bent. Tijdens de introweek kunnen we je helpen om dat voor elkaar te krijgen.
 
-Daarnaast is er de de website van de minor <https://www.thenextweb.eu>.
+Daarnaast is er de de website van de minor <http://www.thenextweb.eu>.
 De website verzamelt de informatie die via andere kanalen is verspreid.
 College materiaal zal hierop verschijnen. 
 
@@ -36,7 +36,7 @@ Je hoeft deze kanalen niet actief te volgen, er zullen geen belangrijke organisa
 
 ## Rooster / Planning
 
-Het rooster van de minor is te vinden op de <https://www.thenextweb.eu>.
+Het rooster van de minor is te vinden op de <http://www.thenextweb.eu>.
 [De complete planning vind je op Google Calendar](https://www.google.com/calendar/embed?src=mo7vph6l2neh6m3bcju1ncon4k@group.calendar.google.com&ctz=Europe/Amsterdam).
 Voeg deze Calendar toe aan je eigen agenda.
 
@@ -163,6 +163,12 @@ De app programmeer sessies zijn bedoeld voor gevorderde programmeurs.
 
 De web programmeer sessies die op dinsdag worden gegeven zijn bedoeld voor beginnende programmeurs,
 de sessie die op donderdag worden gegeven zijn bedoeld voor gevorderde programmeurs.  
+
+Voor de programmeurs die een stap verder willen is er de software engineering community. In de community of Software Engineering worden software engineering in de breedste zin van het woord behandeld. 
+Principes als UML, Design patterns, frameworks maar ook Data structuren, object oriëntatie, polymorphisme, overerving, recursie en data encapsulatie komen aan bod.
+De community komt twee wekelijks bijelkaar. Contact persoon is Gerben Wiersma. 
+
+
 
 ## Design
 
@@ -471,12 +477,12 @@ Dit bestand bevat de volgende indeling:
 
 * Een readme bestand
 * Een link naar een screencast die de mogelijkheden van je eindproduct demonstreert. De screencast heeft een lengte van maximaal 1 minuut. Zet de screencast op vimeo of youtube.
-* Het projectplan
+* Het projectrapport
 * Een competentie-matrix
 * Een map met daarin per groepslid per competentie het bewijsmateriaal. De map bevat het studentennummer en naam.
 * 1234 Jan Jansen, binnen deze map het groeiportfolio 
 * De ingeleverde zip file heeft een grootte van maximaal 100 mb
-* De basistekst van het projectplan exclusief bijlagen is maximaal 50 pagina's
+* De basistekst van het projectrapport exclusief bijlagen is maximaal 50 pagina's
 * Video materiaal altijd op vimeo of youtube
 
 Dit geheel wordt digitaal ingeleverd bij de minor via dongelen@nhl.nl via wetransfer.com
