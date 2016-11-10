@@ -2,8 +2,7 @@
 
 ## Inleiding
 
-Binnen de opleiding Communication & Multimedia Design werken we met een aantal minoren,
-waaronder de minor “The Next Web”.
+Binnen de opleiding Communication & Multimedia Design werken we met een aantal minoren, waaronder de minor “The Next Web”.
 
 In The Next Web staan vernieuwende webprojecten en apps centraal, waarbij we proberen om mens en techniek zo nauw mogelijk op elkaar aan te laten sluiten. We vinden het belangrijk dat multimedia-ontwerpers begrijpen voor wie ze producten maken en waarom.
 Opdrachten komen uit het bedrijfsleven, de nonprofitsector of de overheid en lopen via het Kenniscentrum van CMD. Daarnaast gaan we partnerschappen aan met bedrijven om samen tot nieuwe inzichten en uitwisseling van kennis, ervaring en talent te komen.
@@ -12,25 +11,24 @@ Deze minorwijzer geeft een overzicht van de structuur en inhoud van de minor, va
 
 ## Doel van de minor
 
-Veel afgestudeerde cmd-ers komen in het werkveld terecht als interaction/user experience designer, webvormgever, adviseur of programmeur.
-In deze minor wordt aandacht besteed aan al deze aspecten van het werkgebied. Daarnaast is er veel aandacht voor de aanpak van een opdracht: Hoe werk je vanuit een vaak een onduidelijk probleem, naar een werkende oplossing en hoe hou je rekening met alle belangrijke en relevante variabelen.
+Veel afgestudeerde CMD-ers komen in het werkveld terecht als interaction/user experience designer, webvormgever, adviseur of programmeur. In deze minor wordt aandacht besteed aan al deze aspecten van het werkgebied. Daarnaast is er veel aandacht voor de aanpak van een opdracht: Hoe werk je vanuit een vaak een onduidelijk probleem, naar een werkende oplossing en hoe hou je rekening met alle belangrijke en relevante variabelen.
 
 ## Communicatie
 
 De minor the next web heeft een aantal communicatiekanalen.
-Het belangrijkste kanaal is de mailinglist. Alle grote mededelingen worden hierop gedaan.
+Het belangrijkste kanaal is de mailinglist. Alle belangrijke mededelingen worden hiermee gedaan.
 Voor deze mailing lijst * moet * je aangemeld zijn. [Meld je hier aan](https://eepurl.com/1tImP).
 
 Voor de dagelijkse directe communicatie hebben we een eigen [Slack Team](https://mtnw-cmd.slack.com
 ) Zorg dat je daar lid van bent. Tijdens de introweek kunnen we je helpen om dat voor elkaar te krijgen.
+Belangrijke mededelingen en collegemateriaal zullen hierop verschijnen.
 
 Daarnaast is er de de website van de minor <http://www.thenextweb.eu>.
 De website verzamelt de informatie die via andere kanalen is verspreid.
-College materiaal zal hierop verschijnen. 
 
 Naast deze kanalen is de minor ook actief op twitter en op facebook.
 Op twitter onder het account [@minorthenextweb](https://twitter.com/minorthenextweb),
-facebook als de groep [mtnwcmd](https://www.facebook.com/groups/mtwncmd/).
+Facebook als de groep [mtnwcmd](https://www.facebook.com/groups/mtwncmd/).
 De informatie op deze kanalen is bedoeld als achtergrondmateriaal.
 Je hoeft deze kanalen niet actief te volgen, er zullen geen belangrijke organisatorische mededelingen worden gedaan.
 
@@ -44,7 +42,7 @@ Voeg deze Calendar toe aan je eigen agenda.
 
 **Jan-Wessel Hovingh**
 
-Aanwezig: Maandag t/m Donderdag  
+Aanwezig: Maandag t/m Woensdag, Donderdag studiedag.  
 Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/2920).
 
 Expertise: Interactieontwerp, User Experience Design, Grafische Vormgeving, Design Research, Klanten
@@ -101,7 +99,7 @@ Aanwezig:
 
 ## Huisregels
 
-* Elke werkdag kan worden gebruikt om lessen/ consults en tutorgesprekken te plannen.
+* Elke werkdag (ma t/m vr) kan worden gebruikt om lessen/ consults en tutorgesprekken te plannen.
 * Binnen deze dagen ben je inzetbaar.
 * Afwezigheid buiten de daarvoor bestemde periodes overleg je met je groep **en** de minoreigenaar.
 * Je zult een hele goede reden moeten hebben voor afwezigheid willen we daar rekening mee houden.
@@ -112,7 +110,7 @@ Aanwezig:
 
 ## Inleiding
 
-In dit hoofstuk vind je meer informatie over de inhoud van de minor.
+In dit hoofdstuk vind je meer informatie over de inhoud van de minor.
 
 ## Vaste lessen
 
@@ -168,8 +166,6 @@ Voor de programmeurs die een stap verder willen is er de software engineering co
 Principes als UML, Design patterns, frameworks maar ook Data structuren, object oriëntatie, polymorphisme, overerving, recursie en data encapsulatie komen aan bod.
 De community komt twee wekelijks bijelkaar. Contact persoon is Gerben Wiersma. 
 
-
-
 ## Design
 
 Je wilt een mooie site maken. Of een app. Of beide. Hij moet het doen op een Android en een iPhone.
@@ -203,8 +199,7 @@ Het teamproces heeft ook een harde kant: wordt er gestructureerd gepland,
 wat staat er allemaal in product backlog, hoe is de werkverdeling geweest,
 wordt er gereflecteerd op het handelen, wordt er iets met de reflectie gedaan?
 
-
-## Peerreview
+## Peer review
 
 Je team wordt bij de start van het semester gekoppeld aan een ander team. Dit andere team kun je inzetten om tussentijds feedback te krijgen op je werk. De feedback die je gegeven hebt neem je schriftelijk mee, en kun je inzetten voor de competentie sharing. 
 
@@ -248,12 +243,11 @@ Deze vormen worden in detail beschreven in het toetsplan CMD.
 
 ## Aanbod
 
-Vanuit het Kenniscentrum Multimedia worden er een aantal projecten aangeboden.
+Vanuit het Kenniscentrum Multimedia wordt er een aantal projecten aangeboden.
 De opdrachten zijn vooraf besproken met Raymond en Jan Wessel. 
 
-Tijdens de kick-off worden deze projecten gepresenteerd. Kies zorgvuldig op basis van je leervragen.
-Niet alle opdrachten bieden bijvoorbeeld ruimte voor een onderzoekstraject.
-
+Tijdens de kick-off worden deze projecten gepresenteerd. Kies zorgvuldig op basis van je interesse en leervragen.
+Niet alle opdrachten bieden bijvoorbeeld ruimte voor een uitgebreid onderzoekstraject.
 
 
 ## Eigen opdrachten
@@ -264,14 +258,14 @@ In de praktijk betekent dit dat je voor de laatste maand van de minor toestemmin
 om de volgende minor een eigen opdracht te mogen doen.
 
 
-
 ## Sollicitatie procedure opdrachten
+
 Als je in deze periode productowner wilt zijn, dan kun je dit in de eerste week aangeven. 
 In de tweede week komen de productowners bijeen, en worden de opdrachten verdeeld. 
 
-Wie geen productowner wil zijn selecteert uit de verschillende opdrachten zijn top drie. Per opdracht geef je een motivatie aan.
+Wie geen productowner wil zijn, selecteert uit de verschillende opdrachten zijn top drie. Per opdracht geef je een motivatie aan.
 
-De motivaties worden door de productowners doorgenomen, en zij kiezen met wie ze het gesprek willen aangaan. De sollicitatie gesprekken hebben een lengte van maximaal 10 minuten.
+De motivaties worden door de productowners doorgenomen, en zij kiezen met wie ze het gesprek willen aangaan. De sollicitatiegesprekken hebben een lengte van maximaal 10 minuten.
 Van belang bij de teamsamenstelling zijn:
 
 * Goede mix ervaren en onervaren studenten
@@ -283,8 +277,8 @@ Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is on
 ## Afstemmingsgesprekken
 Een maand voor het einde van het semester zullen de afstemmingsgesprekken plaatsvinden, deze worden ingepland door het Kenniscentrum.
 De gesprekken hebben als doel om officieel vast te stellen wat er uiteindelijk opgeleverd zal worden.
-Voor de opdrachtgever is dit het laatste moment om eventuele vragen te stellen, aanpassingen voor te stellen
- etc. 
+Voor de opdrachtgever is dit het laatste moment om eventuele vragen te stellen, aanpassingen voor te stellen, etc.
+
 Bij dit gesprek dienen ALLE groepsleden aanwezig te zijn. Ook de betrokken begeleider en de contactpersoon vanuit het Kenniscentrum zullen aanwezig zijn. Ter voorbereiding op dit gesprek vullen jullie als groep het [afstemmingsformulier](https://www.dropbox.com/s/lk0xsymzt2x6iy5/Afspraken%20voor%20oplevering.docx?dl=0) in. Je bespreekt het formulier voor het gesprek met je tutor. Belangrijk bij het invullen van dit [formulier](https://www.dropbox.com/s/lk0xsymzt2x6iy5/Afspraken%20voor%20oplevering.docx?dl=0) is om zoveel mogelijk details te vermelden, dit om miscommunicatie na afloop van het project te voorkomen. Uiterlijk twee werkdagen voor het afstemmingsgesprek stuurt de projectmanager het ingevulde formulier naar de opdrachtgever te mailen zodat hij/zij ook de gelegenheid heeft om het rustig door te lezen. Het afstemmingsgesprek hoeft door een goede voorbereiding niet langer dan een half uur te duren. Zorg ervoor dat je als projectmanager het [formulier](https://www.dropbox.com/s/lk0xsymzt2x6iy5/Afspraken%20voor%20oplevering.docx?dl=0) digitaal bij je hebt, zodat je tijdens het afstemmingsgesprek direct de aanpassingen kunt verwerken. Na afloop wordt het formulier gedeeld met de betrokken partijen.
 
 ## Globale planning
@@ -316,29 +310,27 @@ Bij dit gesprek dienen ALLE groepsleden aanwezig te zijn. Ook de betrokken begel
 | 6             | -1          |         | Start semester 2     |
 
 ## Mijlpalen
-* Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen.
-* Leerdoelen review: Je 
-leerdoelen voor de komende periode worden doorgenomen met een peer. 
-* Deadline 1: Inleveren materiaal dinsdag 1 november voor 24.00
-* Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor
-  ogen. Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd.
-* Deadline 2:  Inleveren materiaal maandag 16 januari voor 24.00
-* Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct. 
+* Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen;
+* Leerdoelen review: Je leerdoelen voor de komende periode worden doorgenomen met een peer; 
+* Deadline 1: Inleveren materiaal dinsdag 1 november voor 24.00;
+* Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor;
+  ogen. Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd;
+* Deadline 2: Inleveren materiaal maandag 16 januari voor 24.00;
+* Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct.
 
 Je bent vrij in de keuze voor het materiaal dat je aanlevert bij de assessments. Bij het eerste assessment zijn er wel zaken die we graag willen zien.
 
 Design gap:
 
-* Huidige situatie 
-* Gewenste (middelen vrije) situatie
+* Huidige situatie;
+* Gewenste (middelen vrije) situatie;
 * Meerdere iteraties die meer inzicht geven over probleem en oplossing.
 
 Een professionele organisatie:
 
-* Duidelijk zichtbaar dat er goed gepland wordt.
-* Inzichtelijk dat er gestructureerd gereflecteerd en geleerd wordt
+* Duidelijk zichtbaar dat er goed gepland wordt;
+* Inzichtelijk dat er gestructureerd gereflecteerd en geleerd wordt;
 * Inzichtelijk dat bekend is welk werk en nog ligt.
-
 
 Presentaties: Beide presentaties zijn verplicht. Bij afwezigheid wordt het assessment geannuleerd.
 
@@ -381,30 +373,30 @@ Dit vormt weer de basis voor je plannen voor de volgende periode.
 
 Het groeiportfolio:
 
-* Relevante feedback op de competenties waarop je je op wilt ontwikkelen
-* De timeline
-* Reflectie 
-* De rekening
+* Relevante feedback op de competenties waarop je je op wilt ontwikkelen;
+* De timeline;
+* Reflectie;
+* De rekening.
 
 Reflectie:
 
-* Een reflectie op de afgelopen periode
+* Een reflectie op de afgelopen periode.
 
 De rekening bestaat uit de volgende zaken:
 
-* De competentie waaraan je hebt gewerkt
-* Aantal ec + niveau
-* Een indicatie van de tijdsinvestering
-* Leerdoelen + behaviours waar je aan gewerkt hebt
-* Per leerdoel een zakelijk uitleg waarom je het leerdoel behaald/ niet behaald hebt. Dit kan een verwijzing naar een specifiek stuk documentatie zijn, een verwijzing naar een specifieke functie in je code. 
+* De competentie waaraan je hebt gewerkt;
+* Aantal ec + niveau;
+* Een indicatie van de tijdsinvestering;
+* Leerdoelen + behaviours waar je aan gewerkt hebt;
+* Per leerdoel een zakelijk uitleg waarom je het leerdoel behaald/ niet behaald hebt. Dit kan een verwijzing naar een specifiek stuk documentatie zijn, een verwijzing naar een specifieke functie in je code;
 * Voor programmeerdoelen is het zeer verstandig om gebruik te maken van versiebeheer (zoals github). Geef de beoordelende docenten toegang. 
 
 ## Voorbeeld
 Stel je wilt beter worden in het doen van literatuuronderzoek. In het begin van de periode kun je hier een aantal doelen bij bedenken:
 
-* Ik wil minimaal 10 externe bronnen doornemen
-* Ik vat deze stukken samen
-* Ik selecteer de bronnen op basis van een onderzoeksvraag
+* Ik wil minimaal 10 externe bronnen doornemen;
+* Ik vat deze stukken samen;
+* Ik selecteer de bronnen op basis van een onderzoeksvraag.
 
 Deze doelen staan in je pop, en bespreek je met je mentor. Met hem bespreek je ook het niveau en het aantal ec dat je hiervoor kunt opnemen.
 
