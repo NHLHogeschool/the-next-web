@@ -5,7 +5,7 @@
 Binnen de opleiding Communication & Multimedia Design werken we met een aantal minoren, waaronder de minor “The Next Web”.
 
 In The Next Web staan vernieuwende webprojecten en apps centraal, waarbij we proberen om mens en techniek zo nauw mogelijk op elkaar aan te laten sluiten. We vinden het belangrijk dat multimedia-ontwerpers begrijpen voor wie ze producten maken en waarom.
-Opdrachten komen uit het bedrijfsleven, de nonprofitsector of de overheid en lopen via het Kenniscentrum van CMD. Daarnaast gaan we partnerschappen aan met bedrijven om samen tot nieuwe inzichten en uitwisseling van kennis, ervaring en talent te komen.
+Opdrachten komen uit het bedrijfsleven, de non-profitsector of de overheid en lopen via het Kenniscentrum van CMD. Daarnaast gaan we partnerschappen aan met bedrijven om samen tot nieuwe inzichten en uitwisseling van kennis, ervaring en talent te komen.
 
 Deze minorwijzer geeft een overzicht van de structuur en inhoud van de minor, van de deadlines en de oplevervoorwaarden.
 
@@ -15,7 +15,7 @@ Veel afgestudeerde CMD-ers komen in het werkveld terecht als interaction/user ex
 
 ## Communicatie
 
-De minor the next web heeft een aantal communicatiekanalen.
+De minor The Next Web heeft een aantal communicatiekanalen.
 Het belangrijkste kanaal is de mailinglist. Alle belangrijke mededelingen worden hiermee gedaan.
 Voor deze mailing lijst * moet * je aangemeld zijn. [Meld je hier aan](https://eepurl.com/1tImP).
 
@@ -23,7 +23,7 @@ Voor de dagelijkse directe communicatie hebben we een eigen [Slack Team](https:/
 ) Zorg dat je daar lid van bent. Tijdens de introweek kunnen we je helpen om dat voor elkaar te krijgen.
 Belangrijke mededelingen en collegemateriaal zullen hierop verschijnen.
 
-Daarnaast is er de de website van de minor <http://www.thenextweb.eu>.
+Daarnaast is er de website van de minor <http://www.thenextweb.eu>.
 De website verzamelt de informatie die via andere kanalen is verspreid.
 
 Naast deze kanalen is de minor ook actief op twitter en op facebook.
@@ -57,21 +57,21 @@ Afspraken via MijnCMD
 **Raymond van Dongelen**
 
 Aanwezig: op dinsdag t/m donderdag. Dinsdag en donderdag tot 14.45.  
-Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/412).
+Plaatje + verhaaltje: [CMD site](https://www.mijncmd.nl/users/412).
 
 Expertise: Design science, Informatica voornamelijk toegespitst op Apps.  
 Rol: app lessen, design science.  
-Consults: Afspraken kan via de [CMD-website](https://www.mijncmd.nl/subscriptions/times/1798/).
+Consults: Afspraken kan via de [CMD website](https://www.mijncmd.nl/subscriptions/times/1798/).
 
 Achtergrond: HBO Informatica aan de NHL Hogeschool,  
-Master applied communication science Universiteit Twente.
+Master Applied Communication Science Universiteit Twente.
 
 Afspraken maken via de mijncmd.
 
 **Sjef Smeets**
 
 Aanwezig: Maandag t/m donderdag  
-Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/549).
+Plaatje + verhaaltje: [CMD site](https://www.mijncmd.nl/users/549).
 
 Expertise: Interaction Design, Research, Functional Design, Usability, Experience Design  
 Rol: Interaction design
@@ -79,12 +79,12 @@ Rol: Interaction design
 **Amarins Schuilenburg**
 
 Aanwezig: maandag t/m woensdag  
-Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/3376)
+Plaatje + verhaaltje: [CMD site](https://www.mijncmd.nl/users/3376)
 
 Afspraken: mondeling aangeven tijdens intervisie.
 
 Expertise: Projectmanagement, Scrum
-Achtergrond: Media en Entertainment Management, Certified scrum master, Managementvaardigheden, eigen bedrijf in (klant)communicatie, commercieel consultant
+Achtergrond: Media en Entertainment Management, Certified Scrum Master, Managementvaardigheden, eigen bedrijf in (klant)communicatie, commercieel consultant
 
 **Tjerk Dijkstra**
 
@@ -99,7 +99,7 @@ Aanwezig:
 
 ## Huisregels
 
-* Elke werkdag (ma t/m vr) kan worden gebruikt om lessen/ consults en tutorgesprekken te plannen.
+* Elke werkdag (ma t/m vr) kan worden gebruikt om lessen/consulten en tutorgesprekken te plannen.
 * Binnen deze dagen ben je inzetbaar.
 * Afwezigheid buiten de daarvoor bestemde periodes overleg je met je groep **en** de minoreigenaar.
 * Je zult een hele goede reden moeten hebben voor afwezigheid willen we daar rekening mee houden.
@@ -114,8 +114,8 @@ In dit hoofdstuk vind je meer informatie over de inhoud van de minor.
 
 ## Vaste lessen
 
-**Productowner overleg**
-De productowners van alle teams komen op maandagochtend bijeen om te overleggen over de dagelijkse gang van zaken in de minor. Hierbij is de minorcoördinator aanwezig.
+**Product Owner overleg**
+De Product Owners van alle teams komen op maandagochtend bijeen om te overleggen over de dagelijkse gang van zaken in de minor. Hierbij is de minorcoördinator aanwezig.
 
 **Weekopening** 
 
@@ -151,7 +151,7 @@ Voor de sessie wordt gebruik gemaakt van het boek „Design thinking” van „R
 
 Interaction design binnen de minor sluit naadloos aan bij design research.
 Je zult veel moeten ontwerpen, veel moeten prototypen en dit voorleggen aan de eindgebruikers.
-Begrijpen ze wat je gemaakt hebt en levert het het gewenste resultaat op? 
+Begrijpen ze wat je gemaakt hebt en levert dit het gewenste resultaat op? 
 
 ## Programmeren
 
@@ -163,20 +163,20 @@ De web programmeer sessies die op dinsdag worden gegeven zijn bedoeld voor begin
 de sessie die op donderdag worden gegeven zijn bedoeld voor gevorderde programmeurs.  
 
 Voor de programmeurs die een stap verder willen is er de software engineering community. In de community of Software Engineering worden software engineering in de breedste zin van het woord behandeld. 
-Principes als UML, Design patterns, frameworks maar ook Data structuren, object oriëntatie, polymorphisme, overerving, recursie en data encapsulatie komen aan bod.
-De community komt twee wekelijks bijelkaar. Contact persoon is Gerben Wiersma. 
+Principes als UML, Design patterns, frameworks maar ook Data-structuren, object-oriëntatie, polymorphisme, overerving, recursie en data encapsulatie komen aan bod.
+De community komt twee wekelijks bijelkaar. Contactpersoon is Gerben Wiersma. 
 
 ## Design
 
 Je wilt een mooie site maken. Of een app. Of beide. Hij moet het doen op een Android en een iPhone.
-iPhone 6? Die ook. En met touch-screen functionaliteit. Maar hij moet het ook goed doen op een gewone computermonitor.
+iPhone 7? Die ook. En met touchscreen functionaliteit. Maar hij moet het ook goed doen op een gewone computermonitor.
 Dat betekent dat je rekening moet houden met duizenden devices en duizenden resoluties tussen 240x180 en 2560x1600 pixels.
 
 We need a responsive designer.
 
 Of het nou UX, UI of grafisch ontwerp is, de tijd dat je een Photoshopbestand bij de HTML'er of developer over de schutting gooit en terugkomt als het klaar is, ligt achter je. Je leert om binnen een team na te denken over functionaliteit, gebruiks-ervaring en esthetiek. Een design samenstellen in een agile traject, gebaseerd op Rapid Prototyping.
 
-Snel demo's opleveren om te kijken of je ideën werken. Testen. Werkt niet? Geeft niet. Doen we het nog een keer. Development en design gaan hand in hand. Is het dan alleen nerden wat de klok slaat? Nee. Een goed ontworpen site of app staat of valt met een ideale mix van functionaliteit en esthetiek. Wat wordt als 'mooi' of 'prettig' ervaren, en waarom? Je leert designtools gebruiken en weloverwogen keuzes te maken op met van kennis van kleur, beeld en typografie. Pittig? Ja. Hard werken? Ja. Maar wel gaaf.
+Snel demo's opleveren om te kijken of je ideeën werken. Testen. Werkt niet? Geeft niet. Doen we het nog een keer. Development en design gaan hand in hand. Is het dan alleen nerden wat de klok slaat? Nee. Een goed ontworpen site of app staat of valt met een ideale mix van functionaliteit en esthetiek. Wat wordt als 'mooi' of 'prettig' ervaren, en waarom? Je leert designtools gebruiken en weloverwogen keuzes te maken op met van kennis van kleur, beeld en typografie. Pittig? Ja. Hard werken? Ja. Maar wel gaaf.
 
 ## Intervisie projectmanagement
 
@@ -192,16 +192,13 @@ Het aanpakken van een project is moeilijk. Je team is nieuw, de opdrachtgever is
 Je pakt de opdracht aan met je team. Hiervoor heb je een goed team nodig.
 Bij alle teams zullen we letten op het teamproces.
 
-Dit teamproces heeft een *zachte* kant: hoe zijn de expertises verdeeld,
-worden problemen besproken, wat is er gedaan om een team te formeren.
+Dit teamproces heeft een *zachte* kant: hoe zijn de expertises verdeeld, worden problemen besproken, wat is er gedaan om een team te formeren.
 
-Het teamproces heeft ook een harde kant: wordt er gestructureerd gepland,
-wat staat er allemaal in product backlog, hoe is de werkverdeling geweest,
-wordt er gereflecteerd op het handelen, wordt er iets met de reflectie gedaan?
+Het teamproces heeft ook een harde kant: wordt er gestructureerd gepland, wat staat er allemaal in product backlog, hoe is de werkverdeling geweest, wordt er gereflecteerd op het handelen, wordt er iets met de reflectie gedaan?
 
 ## Peer review
 
-Je team wordt bij de start van het semester gekoppeld aan een ander team. Dit andere team kun je inzetten om tussentijds feedback te krijgen op je werk. De feedback die je gegeven hebt neem je schriftelijk mee, en kun je inzetten voor de competentie sharing. 
+Je team wordt bij de start van het semester gekoppeld aan een ander team. Dit andere team kun je inzetten om tussentijds feedback te krijgen op je werk. De feedback die je gegeven hebt neem je schriftelijk mee, en kun je inzetten voor de competentie "Sharing". 
 
 ## Beoordeling
 
@@ -210,14 +207,12 @@ Bij elke competentie die je wilt laten beoordelen maak je een *verantwoording*.
 In deze verantwoording geef je puntsgewijs aan waarom je de competentie hebt behaald.
 Hierbij maak je gebruik van de behaviours van de competentie. 
 
-Gebruik hiervoor de aanwijzingen op de cmd website: [Het profiel is hier te vinden](https://www.mijncmd.nl/Algemeen/Competentieprofiel).
+Gebruik hiervoor de aanwijzingen op de CMD website: [Het profiel is hier te vinden](https://www.mijncmd.nl/Algemeen/Competentieprofiel).
 Gebruik ook de niveaubeschrijvingen, [die vind je hier](https://www.mijncmd.nl/Algemeen/CMD+documenten?folderid=1092).
 
-Belangrijk bij de beoordeling zijn twee zaken.
-Ten eerste moet is het belangrijk om dat je laat zien dat je een goed *proces* hebt gevolgd.
-Laat zien dat je geëxperimenteerd hebt, laat tussenproducten zien e.d. Ten tweede is het eindniveau van belang. Je zult ook een minimaal eindniveau moet halen voor een competentie. 
+Belangrijk bij de beoordeling zijn twee zaken: Ten eerste moet is het belangrijk om dat je laat zien dat je een goed *proces* hebt gevolgd. Laat zien dat je geëxperimenteerd hebt, laat tussenproducten zien e.d. Ten tweede is het eindniveau van belang. Je zult ook een minimaal eindniveau moet halen voor een competentie. 
 
-## Randvoorwaaden beoordeling
+## Randvoorwaarden beoordeling
 
 * Zorg ervoor dat er overeenstemming is met de beoordelende docent(en) over de criteria van de beoordeling, leg deze criteria helder vast in je pop
 * Het gaat hier minimaal om het gedeelte van je pop waarin de competentie staat beschreven +
@@ -260,19 +255,19 @@ om de volgende minor een eigen opdracht te mogen doen.
 
 ## Sollicitatie procedure opdrachten
 
-Als je in deze periode productowner wilt zijn, dan kun je dit in de eerste week aangeven. 
+Als je in deze periode Product Owner wilt zijn, dan kun je dit in de eerste week aangeven. 
 In de tweede week komen de productowners bijeen, en worden de opdrachten verdeeld. 
 
-Wie geen productowner wil zijn, selecteert uit de verschillende opdrachten zijn top drie. Per opdracht geef je een motivatie aan.
+Wie geen Product Owner wil zijn, selecteert uit de verschillende opdrachten zijn top drie. Per opdracht geef je een motivatie aan.
 
-De motivaties worden door de productowners doorgenomen, en zij kiezen met wie ze het gesprek willen aangaan. De sollicitatiegesprekken hebben een lengte van maximaal 10 minuten.
+De motivaties worden door de Product Owners doorgenomen, en zij kiezen met wie ze het gesprek willen aangaan. De sollicitatiegesprekken hebben een lengte van maximaal 10 minuten.
 Van belang bij de teamsamenstelling zijn:
 
 * Goede mix ervaren en onervaren studenten
 * De aangegeven voorkeuren moeten zoveel mogelijk worden gehanteerd
 * Max 6 mensen per team
 
-Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is ondersteunend, de productowners zijn als groep verantwoordelijk voor het samenstellen van de groepen.
+Tijdens dit hele traject zijn er docenten aanwezig. De rol van de docenten is ondersteunend, de Product Owners zijn als groep verantwoordelijk voor het samenstellen van de groepen.
 
 ## Afstemmingsgesprekken
 Een maand voor het einde van het semester zullen de afstemmingsgesprekken plaatsvinden, deze worden ingepland door het Kenniscentrum.
@@ -313,8 +308,7 @@ Bij dit gesprek dienen ALLE groepsleden aanwezig te zijn. Ook de betrokken begel
 * Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen;
 * Leerdoelen review: Je leerdoelen voor de komende periode worden doorgenomen met een peer; 
 * Deadline 1: Inleveren materiaal dinsdag 1 november voor 24.00;
-* Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor;
-  ogen. Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd;
+* Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor ogen. (Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd);
 * Deadline 2: Inleveren materiaal maandag 16 januari voor 24.00;
 * Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct.
 
@@ -335,22 +329,22 @@ Een professionele organisatie:
 Presentaties: Beide presentaties zijn verplicht. Bij afwezigheid wordt het assessment geannuleerd.
 
 ## Wijze van aanleveren
-Het materiaal lever je als groep aan in een zip bestand. Dit zip bestand verstuur je naar Raymond van Dongelen via wetransfer. In het hoofdstuk inlevervoorwaarden wordt de structuur van de zip file besproken. 
+Het materiaal lever je als groep aan in een zip bestand. Dit zip bestand verstuur je naar Raymond van Dongelen via Wetransfer. In het hoofdstuk inlevervoorwaarden wordt de structuur van de Zip-file besproken. 
 
 # Je leertraject
 
-CMD is een vraaggestuurde, competentiegerichte opleiding. Je leert (binnen grenzen) wat jij wilt leren. Dit geeft veel vrijheid, maar ook veel verantwoordelijkheid.
+CMD is een vraag-gestuurde, competentiegerichte opleiding. Je leert (binnen grenzen) wat jij wilt leren. Dit geeft veel vrijheid, maar ook veel verantwoordelijkheid.
 Hoe weet je of hetgeen waar je mee bezig bent van voldoende niveau is?  
 In de beoordeling wordt gekeken naar het bewijsmateriaal dat *jij* geeft voor *jouw leerdoelen* in *jouw* situatie. 
 
 ## PDCA
-Het leertraject is vormgeven rondom de PDCA cyclus. 
-Je start met een *plan*, in de context van cmd een pop. Met dit plan ga je aan de slag "*do*". gedurende dit traject stel je je pop bij, en maak je concreet wat je geleerd hebt "*check*". Aan het eind van het traject reflecteer je, en stel je je handelen bij "*act*".	
+Het leertraject is vormgeven rondom de PDCA-cyclus. 
+Je start met een *plan*, in de context van cmd een pop. Met dit plan ga je aan de slag "*do*". Gedurende dit traject stel je je pop bij, en maak je concreet wat je geleerd hebt "*check*". Aan het eind van het traject reflecteer je, en stel je je handelen bij "*act*".	
 
 De beoordeling binnen de minor is gebaseerd op het toetsplan van CMD. 
 
 ## Pop
-Om er voor te zorgen dat je de periode goed plant, maak je een persoonlijk ontwikkelingsplan. Dit pop is je middel om er achter te komen hoe je aan je ec’s gaat komen. Je bespreekt hierin het bewijsmateriaal dat je wilt gaan vergaren voor de competenties waarin je je wilt verbeteren. Bouw door op feedback die je in de vorige jaren van je studie hebt gekregen. Je pop bespreek je met je mentor, doel is om zekerheid over je aanpak te krijgen. Voordat je een assessment in gaat maak je een verantwoordingsdocument voor de competentie die je laat beoordelen. Hierin beschrijf je waarom je nu competent bent. Het pop speelt geen rol in reguliere assessments. 
+Om ervoor te zorgen dat je de periode goed plant, maak je een persoonlijk ontwikkelingsplan. Dit pop is je middel om erachter te komen hoe je aan je EC’s gaat komen. Je bespreekt hierin het bewijsmateriaal dat je wilt gaan vergaren voor de competenties waarin je je wilt verbeteren. Bouw door op feedback die je in de vorige jaren van je studie hebt gekregen. Je pop bespreek je met je mentor, doel is om zekerheid over je aanpak te krijgen. Voordat je een assessment in gaat maak je een verantwoordingsdocument voor de competentie die je laat beoordelen. Hierin beschrijf je waarom je nu competent bent. Het pop speelt geen rol in reguliere assessments. 
 
 ## Mentor
 
@@ -359,14 +353,14 @@ Gebruik je mentor om je te adviseren over hetgeen je kunt leren, en vraag feedba
 
 ## BOKS
 
-In de [Body Of Knowledge and Skills](https://www.mijncmd.nl/Algemeen/Body+of+Knowledge+and+Skills) kun je vinden welke literatuur de opleiding aanraad om je een bepaald onderwerp eigen te maken. Daarnaast hebben we binnen de minor de "Toolboks". Dat is een koffer met Minorspecifieke literatuur. Van de meeste boeken hebben de digitale versies zodat niemand zonder hoeft te zitten.
+In de [Body Of Knowledge and Skills](https://www.mijncmd.nl/Algemeen/Body+of+Knowledge+and+Skills) kun je vinden welke literatuur de opleiding aanraad om je een bepaald onderwerp eigen te maken. Daarnaast hebben we binnen de minor de "Toolboks". Dat is een koffer met Minor-specifieke literatuur. Van de meeste boeken hebben de digitale versies zodat niemand zonder hoeft te zitten.
 
 ## Verantwoordingsdocumenten
-Aan het begin van de minor maak je in overleg met je mentor een inventarisatie van welke kennis en vaardigheden je van plan bent om te ontwikkelen. De punten verwerk je in je persoonlijk ontwikkelingsplan (POP). Input voor dit plan is de feedback/ feedforward die je bij vorige assessments hebt gekregen. 
+Aan het begin van de minor maak je in overleg met je mentor een inventarisatie van welke kennis en vaardigheden je van plan bent om te ontwikkelen. De punten verwerk je in je persoonlijk ontwikkelingsplan (POP). Input voor dit plan is de feedback/feed forward die je bij vorige assessments hebt gekregen. 
 Hoe verder je komt in de minor, hoe concreter je kunt zijn over wat de leeropbrengst van de minor is geweest.  Aan het einde van de minor kun je daardoor een heldere rekening presenteren aan je beoordelaars waaruit blijkt op welke gebieden je welke kennis hebt verworven en waaraan dit te zien is. 
 Om een heldere *rekening* te maken is het verstandig om tijdens de minor te werken aan een timeline. De timeline bevat de stappen die je gezet hebt om iets te leren. De timeline maakt onderdeel uit van het groeiportfolio, de rekening bestaat uit een heldere koppeling tussen de behaviours/ leerdoelen en bewijsmateriaal. 
  
-Aan de hand van de rekening krijg je feedback en feedforward van je beoordelaars.
+Aan de hand van de rekening krijg je feedback en feed forward van je beoordelaars.
 Dit vormt weer de basis voor je plannen voor de volgende periode.
 
 ## Documenten
@@ -385,11 +379,11 @@ Reflectie:
 De rekening bestaat uit de volgende zaken:
 
 * De competentie waaraan je hebt gewerkt;
-* Aantal ec + niveau;
+* Aantal EC's + niveau;
 * Een indicatie van de tijdsinvestering;
 * Leerdoelen + behaviours waar je aan gewerkt hebt;
 * Per leerdoel een zakelijk uitleg waarom je het leerdoel behaald/ niet behaald hebt. Dit kan een verwijzing naar een specifiek stuk documentatie zijn, een verwijzing naar een specifieke functie in je code;
-* Voor programmeerdoelen is het zeer verstandig om gebruik te maken van versiebeheer (zoals github). Geef de beoordelende docenten toegang. 
+* Voor programmeerdoelen is het zeer verstandig om gebruik te maken van versiebeheer (zoals Github). Geef de beoordelende docenten toegang. 
 
 ## Voorbeeld
 Stel je wilt beter worden in het doen van literatuuronderzoek. In het begin van de periode kun je hier een aantal doelen bij bedenken:
@@ -398,9 +392,9 @@ Stel je wilt beter worden in het doen van literatuuronderzoek. In het begin van 
 * Ik vat deze stukken samen;
 * Ik selecteer de bronnen op basis van een onderzoeksvraag.
 
-Deze doelen staan in je pop, en bespreek je met je mentor. Met hem bespreek je ook het niveau en het aantal ec dat je hiervoor kunt opnemen.
+Deze doelen staan in je pop, en bespreek je met je mentor. Met hem bespreek je ook het niveau en het aantal EC dat je hiervoor kunt opnemen.
 
-In je timeline beschrijf je hoe je hier aangewerkt hebt. Bijvoorbeeld welke websites je hebt gelezen, welke boeken je hebt geraadpleegd en wanneer. 
+In je timeline beschrijf je hoe je hier aan gewerkt hebt. Bijvoorbeeld welke websites je hebt gelezen, welke boeken je hebt geraadpleegd en wanneer. 
 
 In de rekening beschrijf je de resultaten. Dit doe je heel concreet: 
 
@@ -412,12 +406,12 @@ Bij code kun je verwijzen naar specifieke commits die aantonen dat je iets gelee
 
 ## Assessment dag
 Bij elk assessment wordt je beoordeeld aan de hand van je eigen leerdoelen. Bij het assessment zijn drie docenten betrokken. De rekeningen vormen de belangrijkste input voor het assessment.
-Een assessment heeft een doorlooptijd van twee uur. Aansluitend aan het assessment krijg je feedback van je beoordelaars. Deze feedback ontvang je binnen twee weken ook schriftelijk via de cmd website. De ec's die zijn verkregen worden binnen twee weken verwerkt in Educator.  
+Een assessment heeft een doorlooptijd van twee uur. Aansluitend aan het assessment krijg je feedback van je beoordelaars. Deze feedback ontvang je binnen twee weken ook schriftelijk via de CMD website. De EC's die zijn verkregen worden binnen twee weken verwerkt in Educator.  
 
-De schriftelijke feedback en feedforward gebruik je in het volgende semester voor je nieuwe leerdoelen. 
+De schriftelijke feedback en feed forward gebruik je in het volgende semester voor je nieuwe leerdoelen. 
 
 ## Procedure
-Het assessment start met het vaststellen van te te beoordelen competenties. Het te beoordeelen team neemt de leiding om uit te leggen waarom teamleden competent zijn. Centraal staat het geven van een toelichting van het competent zijn op de opgenomen competenties. 
+Het assessment start met het vaststellen van te te beoordelen competenties. Het te beoordelen team neemt de leiding om uit te leggen waarom teamleden competent zijn. Centraal staat het geven van een toelichting van het competent zijn op de opgenomen competenties. 
 
 * Presentatie door je team van de aanpak van het project 30 min
 * Individueel assessment ronde 1 (30 min)
@@ -454,7 +448,7 @@ Er zijn een aantal manieren om binnen de minor te werken aan de competentie shar
 Growth & Reflection wordt aan het eind van het semester beoordeeld door je mentor.
 Hierin spelen een aantal zaken een rol:
 
-* Gemaakte plannen (pops)
+* Gemaakte plannen (POP's)
 * Reflectieverslag
 
 De beoordeling vindt plaats in de vorm van een assessment. 
@@ -462,7 +456,7 @@ Expert niveau wordt niet binnen de minor beoordeeld.
 
 # Inlevervoorwaarden
 
-Dit document beschrijft de inlevervoorwaarden van "the next web", materiaal aangeleverd bij peer- en eindassessment dient aan deze eisen te voldoen. Voldoet het materiaal niet aan de voorwaarden, dan wordt het niet beoordeeld.
+Dit document beschrijft de inlevervoorwaarden van "The Next Web", materiaal aangeleverd bij peer- en eindassessment dient aan deze eisen te voldoen. Voldoet het materiaal niet aan de voorwaarden, dan wordt het niet beoordeeld.
 Het materiaal wordt ingeleverd in een zip bestand. Het zipbestand bevat de groepsnaam inclusief code. Dus bijvoorbeeld "NW1 mijn groepsnaam.zip"
 
 Dit bestand bevat de volgende indeling:
@@ -473,22 +467,22 @@ Dit bestand bevat de volgende indeling:
 * Een competentie-matrix
 * Een map met daarin per groepslid per competentie het bewijsmateriaal. De map bevat het studentennummer en naam.
 * 1234 Jan Jansen, binnen deze map het groeiportfolio 
-* De ingeleverde zip file heeft een grootte van maximaal 100 mb
+* De ingeleverde zipfile heeft een grootte van maximaal 100 mb
 * De basistekst van het projectrapport exclusief bijlagen is maximaal 50 pagina's
-* Video materiaal altijd op vimeo of youtube
+* Videomateriaal altijd op vimeo of youtube
 
 Dit geheel wordt digitaal ingeleverd bij de minor via dongelen@nhl.nl via wetransfer.com
 Documenten bevat in ieder geval:
 
 * Een voorblad met daarop de namen van de groepsleden, groepsnaam, groepscode en
-tutor
+Tutor
 * Een schutblad
 * Samenvatting
 * Voorwoord
 * Inhoudsopgave met hoofdstukindeling en paginanummers
 * Inleiding
 * Bronnenlijst volgens de APA-norm
-* Het taalgebruik is op HBO niveau
+* Het taalgebruik is op HBO-niveau
 
 Aandachtspunten: 
-Het rapport is volgens de APA norm geschreven. In de teksten een verwijzing naar de bron, in de voetnoot van de pagina de uitgebreide bron en achterin het rapport een volledige bronnenlijst. De verschillende onderdelen van het projectrapport dienen een heldere samenhang te hebben. Zorg dat de conclusies van de research als kader dienen voor de conceptingsfase, en de conceptuele uitwerkingen weer aansluiten bij de Designfase.
+Het rapport is volgens de APA-norm geschreven. In de teksten een verwijzing naar de bron, in de voetnoot van de pagina de uitgebreide bron en achterin het rapport een volledige bronnenlijst. De verschillende onderdelen van het projectrapport dienen een heldere samenhang te hebben. Zorg dat de conclusies van de research als kader dienen voor de conceptingsfase, en de conceptuele uitwerkingen weer aansluiten bij de Designfase.
