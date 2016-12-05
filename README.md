@@ -10,7 +10,6 @@ Opdrachten komen uit het bedrijfsleven, de non-profitsector of de overheid en lo
 Deze minorwijzer geeft een overzicht van de structuur en inhoud van de minor, van de deadlines en de oplevervoorwaarden.
 
 ## Doel van de minor
-
 Veel afgestudeerde CMD-ers komen in het werkveld terecht als interaction/user experience designer, webvormgever, adviseur of programmeur. In deze minor wordt aandacht besteed aan al deze aspecten van het werkgebied. Daarnaast is er veel aandacht voor de aanpak van een opdracht: Hoe werk je vanuit een vaak een onduidelijk probleem, naar een werkende oplossing en hoe hou je rekening met alle belangrijke en relevante variabelen.
 
 ## Communicatie
@@ -66,7 +65,7 @@ Consults: Afspraken kan via de [CMD website](https://www.mijncmd.nl/subscription
 Achtergrond: HBO Informatica aan de NHL Hogeschool,  
 Master Applied Communication Science Universiteit Twente.
 
-Afspraken maken via de mijncmd.
+Afspraken maken via de [CMD website](http://raymond.frl/consult).
 
 **Sjef Smeets**
 
@@ -91,8 +90,10 @@ Achtergrond: Media en Entertainment Management, Certified Scrum Master, Manageme
 Expertise: Front/backend development; 
 Achtergrond: CMD Leeuwarden, iWink Groningen
 
-** Marijn de Vries Hoogerwerff
+**Marijn de Vries Hoogerwerff**
+
 Expertise: 
+
 Achtergrond:
 
 Aanwezig: 
@@ -194,7 +195,7 @@ Bij alle teams zullen we letten op het teamproces.
 
 Dit teamproces heeft een *zachte* kant: hoe zijn de expertises verdeeld, worden problemen besproken, wat is er gedaan om een team te formeren.
 
-Het teamproces heeft ook een harde kant: wordt er gestructureerd gepland, wat staat er allemaal in product backlog, hoe is de werkverdeling geweest, wordt er gereflecteerd op het handelen, wordt er iets met de reflectie gedaan?
+Het teamproces heeft ook een *harde* kant: wordt er gestructureerd gepland, wat staat er allemaal in product backlog, hoe is de werkverdeling geweest, wordt er gereflecteerd op het handelen, wordt er iets met de reflectie gedaan?
 
 ## Peer review
 
@@ -226,7 +227,7 @@ Belangrijk bij de beoordeling zijn twee zaken: Ten eerste moet is het belangrijk
 ## Toetsvormen
 Binnen de minor worden de volgende toetsvormen toegepast: 
 
-* Integrale assessment
+* Integraal assessment
 * Individueel assessment
 * Reflectie (zelf assessment)
 * Peer assessment
@@ -280,36 +281,36 @@ Bij dit gesprek dienen ALLE groepsleden aanwezig te zijn. Ook de betrokken begel
 
 | Kalender week | Projectweek | Sprint  | Opzet                |
 | ------------- |:-----------:| -------:|----------------------|
-| 36            | -1          | nvt     | Kickoff              |
-| 37            | 0           | 0       | Briefing             |
-| 38            | 1           | 0       |                      |
-| 39            | 2           | 1       |                      |
-| 40            | 3           | 1       |                      |
-| 41            | 4           | 2       |                      |
-| 42            |             |         | Herfstvakantie       |
-| 43            | 5           | 2       |                      |
-| 44            | 6           | 3       | Deadline 1           |
-| 45            | 7           | 3       | Assessments          |
-| 46            | 8           | 4       | Assessments          |
-| 47            | 9           | 4       |                      |
-| 48            | 10          | 5       |                      |
-| 49            | 11          | 5       | Afstemmingsgesprekken|
-| 50            | 12          | 6       |                      |
-| 51            | 13          | 6       |                      |
-| 52            |             |         | Kerstvakantie        |
-| 1             |             |         | Kerstvakantie        |
-| 2             | 15          | 7       |                      |
-| 3             | 16          | 7       | Deadline 2/ assessment|
-| 4             | 17          |         | Assessment           |
-| 5             | 18          |         | Assessment           |
-| 6             | -1          |         | Start semester 2     |
+| 6             | -1          | nvt     | Kickoff              |
+| 7             | 0           | 0       | Briefing             |
+| 8             |             |         | Voorjaarsvakantie    |
+| 9             | 1           | 1       |                      |
+| 10            | 3           | 1       |                      |
+| 11            | 4           | 2       |                      |
+| 12            | 5           | 2       |                      |
+| 13            | 6           | 3       | Deadline 1, 28 maart |
+| 14            | 7           | 3       | Peerassessment       |
+| 15            | 8           | 4       | Peerassessment       |
+| 16            | 9           | 4       | (Paasmaandag)        |
+| 17            |             |         | Meivakantie          |
+| 18            | 10          | 5       |                      |
+| 19            | 11          | 5       | Afstemmingsgesprekken|
+| 20            | 12          | 6       |                      |
+| 21            | 13          | 6       |                      |
+| 22            | 14          | 7       |                      |
+| 23            | 15          | 7       |                      |
+| 24            | 16          |         |                      |
+| 25            | 17          |         | Deadline 2/ assessment|
+| 26            | 18          |         | Assessment           |
+| 27            | 19          |         | Assessment           |
+| 30            |             |         | Vakantie |
 
 ## Mijlpalen
 * Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen;
 * Leerdoelen review: Je leerdoelen voor de komende periode worden doorgenomen met een peer; 
-* Deadline 1: Inleveren materiaal dinsdag 1 november voor 24.00;
+* Deadline 1: Inleveren materiaal dinsdag 28 maart voor 24.00;
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor ogen. (Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd);
-* Deadline 2: Inleveren materiaal maandag 16 januari voor 24.00;
+* Deadline 2: Inleveren materiaal maandag 18 juni voor 24.00;
 * Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct.
 
 Je bent vrij in de keuze voor het materiaal dat je aanlevert bij de assessments. Bij het eerste assessment zijn er wel zaken die we graag willen zien.
