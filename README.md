@@ -285,24 +285,24 @@ Bij dit gesprek dienen ALLE groepsleden aanwezig te zijn. Ook de betrokken begel
 | 7             | 0           | 0       | Briefing             |
 | 8             |             |         | Voorjaarsvakantie    |
 | 9             | 1           | 1       |                      |
-| 10            | 3           | 1       |                      |
-| 11            | 4           | 2       |                      |
-| 12            | 5           | 2       |                      |
-| 13            | 6           | 3       | Deadline 1, 28 maart |
-| 14            | 7           | 3       | Peerassessment       |
-| 15            | 8           | 4       | Peerassessment       |
-| 16            | 9           | 4       | (Paasmaandag)        |
+| 10            | 2           | 1       |                      |
+| 11            | 3           | 2       |                      |
+| 12            | 4           | 2       |                      |
+| 13            | 5           | 3       | Deadline 1, 28 maart |
+| 14            | 6           | 3       | Peerassessment       |
+| 15            | 7           | 4       | Peerassessment       |
+| 16            | 8           | 4       | (Paasmaandag)        |
 | 17            |             |         | Meivakantie          |
-| 18            | 10          | 5       |                      |
-| 19            | 11          | 5       | Afstemmingsgesprekken|
-| 20            | 12          | 6       |                      |
-| 21            | 13          | 6       |                      |
-| 22            | 14          | 7       |                      |
-| 23            | 15          | 7       |                      |
-| 24            | 16          |         |                      |
-| 25            | 17          |         | Deadline 2/ assessment|
-| 26            | 18          |         | Assessment           |
-| 27            | 19          |         | Assessment           |
+| 18            | 9           | 5       |                      |
+| 19            | 10          | 5       | Afstemmingsgesprekken|
+| 20            | 11          | 6       |                      |
+| 21            | 12          | 6       |                      |
+| 22            | 13          | 7       |                      |
+| 23            | 14          | 7       |                      |
+| 24            | 15          |         |                      |
+| 25            | 16          |         | Deadline 2/ assessment|
+| 26            |             |         | Assessment           |
+| 27            |             |         | Assessment           |
 | 30            |             |         | Vakantie |
 
 ## Mijlpalen
