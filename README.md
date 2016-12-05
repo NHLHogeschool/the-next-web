@@ -44,8 +44,10 @@ Voeg deze Calendar toe aan je eigen agenda.
 Aanwezig: Maandag t/m Woensdag, Donderdag studiedag.  
 Plaatje + verhaaltje: [cmd site](https://www.mijncmd.nl/users/2920).
 
-Expertise: Interactieontwerp, User Experience Design, Grafische Vormgeving, Design Research, Klanten
+Expertise: Interactieontwerp, User Experience Design, Grafische Vormgeving, Design Research, Klanten.
+
 Rol: Minorcoördinatie, regelneef, flapdrol, docent design & user experience
+
 Achtergrond: Communicatie Vormgeving Academie Minerva Groningen, Master Design Willem de Kooning Academy Rotterdam.
 18 jaar ervaring als (interactie) ontwerper & vormgever, zowel freelance als in dienstverband.
 
@@ -83,11 +85,13 @@ Plaatje + verhaaltje: [CMD site](https://www.mijncmd.nl/users/3376)
 Afspraken: mondeling aangeven tijdens intervisie.
 
 Expertise: Projectmanagement, Scrum
+
 Achtergrond: Media en Entertainment Management, Certified Scrum Master, Managementvaardigheden, eigen bedrijf in (klant)communicatie, commercieel consultant
 
 **Tjerk Dijkstra**
 
-Expertise: Front/backend development; 
+Expertise: Front/backend development;
+
 Achtergrond: CMD Leeuwarden, iWink Groningen
 
 **Marijn de Vries Hoogerwerff**
