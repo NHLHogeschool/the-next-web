@@ -94,13 +94,6 @@ Expertise: Front/backend development;
 
 Achtergrond: CMD Leeuwarden, iWink Groningen
 
-**Marijn de Vries Hoogerwerff**
-
-Expertise: 
-
-Achtergrond:
-
-Aanwezig: 
 
 ## Huisregels
 
