@@ -227,7 +227,6 @@ Binnen de minor worden de volgende toetsvormen toegepast:
 * Integraal assessment
 * Individueel assessment
 * Reflectie (zelf assessment)
-* Peer assessment
 * Groeiportfolio
 
 Deze vormen worden in detail beschreven in het toetsplan CMD.
@@ -285,10 +284,10 @@ Bij dit gesprek dienen ALLE groepsleden aanwezig te zijn. Ook de betrokken begel
 | 10            | 2           | 1       |                      |
 | 11            | 3           | 2       |                      |
 | 12            | 4           | 2       |                      |
-| 13            | 5           | 3       | Deadline 1, 28 maart |
-| 14            | 6           | 3       | Peerassessment       |
-| 15            | 7           | 4       | Peerassessment       |
-| 16            | 8           | 4       | (Paasmaandag)        |
+| 13            | 5           | 3       |                      |
+| 14            | 6           | 3       | Deadline 1, 6 april  |
+| 15            | 7           | 4       | Assessment           |
+| 16            | 8           | 4       | Paasmaandag/ Assessment       |
 | 17            |             |         | Meivakantie          |
 | 18            | 9           | 5       |                      |
 | 19            | 10          | 5       | Afstemmingsgesprekken|
@@ -305,12 +304,12 @@ Bij dit gesprek dienen ALLE groepsleden aanwezig te zijn. Ook de betrokken begel
 ## Mijlpalen
 * Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen;
 * Leerdoelen review: Je leerdoelen voor de komende periode worden doorgenomen met een peer; 
-* Deadline 1: Inleveren materiaal dinsdag 28 maart voor 24.00;
+* Deadline 1: Inleveren materiaal donderdag 6 april voor 24.00;
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor ogen. (Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd);
 * Deadline 2: Inleveren materiaal maandag 18 juni voor 24.00;
 * Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct.
 
-Je bent vrij in de keuze voor het materiaal dat je aanlevert bij de assessments. Bij het eerste assessment zijn er wel zaken die we graag willen zien.
+Je bent vrij in de keuze voor het materiaal dat je aanlevert bij de assessments. Bij het eerste assessment zijn er wel zaken die we graag zouden willen zien.
 
 Design gap:
 
