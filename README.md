@@ -277,36 +277,36 @@ Bij dit gesprek dienen ALLE groepsleden aanwezig te zijn. Ook de betrokken begel
 
 | Kalender week | Projectweek | Sprint  | Opzet                |
 | ------------- |:-----------:| -------:|----------------------|
-| 36            | -2          | nvt     | Kickoff              |
-| 37            | -1          |        | Briefing / teamsamenstelling             |
-| 38            | 1           | 0        |    |
-| 39            | 2           | 0       |                      |
-| 40            | 3           | 1       |   Talk nerdy to me   |
-| 41            | 4           | 1       |                      |
-| 42            | 5           |         | Peerfeedback + deadline 19-10 |
-| 43            |             |         | Herfstvakantie       |
-| 44            | 6           | 2       | Assessment           |
-| 45            | 7           | 2       | Assessment           |
-| 46            | 8           | 3       |                      |
-| 47            | 9           | 3       |                      |
-| 48            | 10          | 4       |                      |
-| 49            | 11          | 4       |                      |
-| 50            | 12          | 5       |                      |
-| 51            | 13          | 5       |  Kerstontbijt        |
-| 52            |             |         |  Kerstvakantie       |
-| 1             |             |         |  Kerstvakantie       |
-| 2             |             | 6       |                      |
-| 3             |             | 6       | Deadline + Eindpresentatie|
-| 4             |             |         | Assessment           |
-| 5             |             |         | Assessment           |
-| 6             |             |         | Start semester 2     |
+| 6             | -2          | nvt     | Kickoff              |
+| 7             | -1          |         | Briefing / teamsamenstelling             |
+| 8             | 1           | 0       |                      |
+| 9             |             |         |  Voorjaarsvakantie   |
+| 10            | 3           | 1       |                      |
+| 11            | 4           | 1       |                      |
+| 12            | 5           | 2       |                      |
+| 13            | 6           | 2       |  Deadline 1          |
+| 14            | 7           | 3       |                      |
+| 15            | 8           | 3       | Assessment           |
+| 16            | 9           | 4       | Assessment           |
+| 17            | 10          | 5       |                      |
+| 18            |             | 5       | Meivakantie          |
+| 19            | 11          | 6       |                      |
+| 20            | 12          | 6       |                      |
+| 21            | 13          | 7       |                      |
+| 22            | 14          | 7       |                      |
+| 23            | 15          | 8       |                      |
+| 24            | 16          | 8       |                      |
+| 25            | 17          | 9       | Deadline 2           |
+| 26            |             |         | Assessment           |
+| 27            |             |         | Assessment           |
+| 28            |             |         |                      |
 
 ## Mijlpalen
 * Scrum bootcamp: In twee dagen worden de belangrijkste zaken van scrum doorgenomen;
 * Leerdoelen review: Je leerdoelen voor de komende periode worden doorgenomen met een peer; 
-* Deadline 1: Inleveren materiaal donderdag 19 oktober voor 18.00;
+* Deadline 1: Inleveren materiaal donderdag 5 april voor 18.00;
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor ogen. (Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd);
-* Deadline 2: Inleveren materiaal woensdag 18 januari voor 18.00;
+* Deadline 2: Inleveren materiaal donderdag 21 juni voor 18.00;
 * Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct.
 
 Je bent vrij in de keuze voor het materiaal dat je aanlevert bij de assessments. Bij het eerste assessment zijn er wel zaken die we graag zouden willen zien.
