@@ -69,13 +69,6 @@ Master Applied Communication Science Universiteit Twente.
 
 Afspraken maken via de [CMD website](http://raymond.frl/consult).
 
-**Sjef Smeets**
-
-Aanwezig: Maandag t/m donderdag  
-Plaatje + verhaaltje: [CMD site](https://www.mijncmd.nl/users/549).
-
-Expertise: Interaction Design, Research, Functional Design, Usability, Experience Design  
-Rol: Interaction design
 
 **Amarins Schuilenburg**
 
@@ -167,7 +160,7 @@ De community komt twee wekelijks bijelkaar. Contactpersoon is Gerben Wiersma.
 ## Design
 
 Je wilt een mooie site maken. Of een app. Of beide. Hij moet het doen op een Android en een iPhone.
-iPhone 7? Die ook. En met touchscreen functionaliteit. Maar hij moet het ook goed doen op een gewone computermonitor.
+iPhone X? Die ook. En met touchscreen functionaliteit. Maar hij moet het ook goed doen op een gewone computermonitor.
 Dat betekent dat je rekening moet houden met duizenden devices en duizenden resoluties tussen 240x180 en 2560x1600 pixels.
 
 We need a responsive designer.
@@ -281,22 +274,22 @@ Bij dit gesprek dienen ALLE groepsleden aanwezig te zijn. Ook de betrokken begel
 | 7             | -1          |         | Briefing / teamsamenstelling             |
 | 8             | 1           | 0       |                      |
 | 9             |             |         |  Voorjaarsvakantie   |
-| 10            | 3           | 1       |                      |
-| 11            | 4           | 1       |                      |
-| 12            | 5           | 2       |                      |
-| 13            | 6           | 2       |  Deadline 1          |
-| 14            | 7           | 3       |                      |
-| 15            | 8           | 3       | Assessment           |
-| 16            | 9           | 4       | Assessment           |
-| 17            | 10          | 5       |                      |
-| 18            |             | 5       | Meivakantie          |
-| 19            | 11          | 6       |                      |
-| 20            | 12          | 6       |                      |
-| 21            | 13          | 7       |                      |
-| 22            | 14          | 7       |                      |
-| 23            | 15          | 8       |                      |
-| 24            | 16          | 8       |                      |
-| 25            | 17          | 9       | Deadline 2           |
+| 10            | 2           | 1       |                      |
+| 11            | 3           | 1       |                      |
+| 12            | 4           | 2       |                      |
+| 13            | 5           | 2       | Deadline 1           |
+| 14            | 6           | 3       |                      |
+| 15            | 7           | 3       | Assessment           |
+| 16            | 8           | 4       | Assessment           |
+| 17            | 9           | 4       |                      |
+| 18            |             |         | Meivakantie          |
+| 19            | 11          | 5       |                      |
+| 20            | 12          | 5       |                      |
+| 21            | 13          | 6       |                      |
+| 22            | 14          | 6       |                      |
+| 23            | 15          | 7       |                      |
+| 24            | 16          | 7       |                      |
+| 25            | 17          | 7s      | Deadline 2           |
 | 26            |             |         | Assessment           |
 | 27            |             |         | Assessment           |
 | 28            |             |         |                      |
@@ -307,7 +300,8 @@ Bij dit gesprek dienen ALLE groepsleden aanwezig te zijn. Ook de betrokken begel
 * Deadline 1: Inleveren materiaal donderdag 5 april voor 18.00;
 * Conceptpresentatie: In vijf minuten geef je weer hoe jullie team het probleem gaat aanpakken, welk concept hebben jullie voor ogen. (Bij de conceptpresentatie kan de opdrachtgever worden uitgenodigd);
 * Deadline 2: Inleveren materiaal donderdag 21 juni voor 18.00;
-* Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct.
+* Presentatie: Eindpresentatie. Je geeft een duidelijk beeld van het eindproduct;
+* Playtests: gedurende het hele semester zijn er playtests. Je team laat hier werkende producten zien. Je team levert korte reflecties op de playtests in bij de assessments.
 
 Je bent vrij in de keuze voor het materiaal dat je aanlevert bij de assessments. Bij het eerste assessment zijn er wel zaken die we graag zouden willen zien.
 
@@ -324,6 +318,23 @@ Een professionele organisatie:
 * Inzichtelijk dat bekend is welk werk en nog ligt.
 
 Presentaties: Beide presentaties zijn verplicht. Bij afwezigheid wordt het assessment geannuleerd.
+
+## Pitches en playtests
+
+Gedurende het semester zijn verschillende momenten gepland waarin je je voortgang laat zien. Elk moment heeft zijn eigen karakter. 
+
+
+| Eind Spint| Soort | 
+| ------------- |-----------|
+| 0             | Presentatie: **The end of the beginning**<br/> Elke groep houdt een korte presentatie max 7m. Wat is het voorlopige design gap? 
+| 1             | **Playtest 1**<br/> Je team heeft de eerste hypotheses getest. In de playtest laten jullie onze "spelen" met een prototype dat gemaakt is. Dit prototype mag van karton zijn, van bits, wat je maar helpt om je hypotheses te onderzoeken|
+| 2             | Presentatie: **Paas ons the knowledge!**<br/> Aan het eind van sprint 2 houd je groep een kort pitch (max 7m) over de voortgang van je project.|
+| 3             | **Playtest 2**<br/> Tjdens deze tweede playtest laat je een concreet speelbaar prototype zien.|            
+| 4             | Presentatie: **King for a day**<br/> Je team pitched jullie product (max 7m). Houd een aalgladde spijkerharde commerciele presentatie over jullie product. Wat krijgen we aan het eind van het semester?|
+| 5             | **Playtest 3**<br/> Na je aalgladde pitch laat je bij dit moment zien dat de beloftes ingelost worden. Het prototype dat je laat zien is hoogstwaarschijnlijk een voorloper van het eindproduct dat je gaat opleveren.|
+| 6             | Presentatie: **Voortgangspresentatie**<br/> Een eerlijk verhaal over de voortgang van je product: richt je op de moeilijkheden, leerpunten in het proces. Laat ons huilen|
+| 7             | **Playtest 4: all work no play**<br/> Een playtest waarbij externen worden uitgenodigd. Deze externen gaan aan de slag met je prototype. Een goed moment om te bekijken of alles werkt. Of je concept over komt.|
+
 
 ## Wijze van aanleveren
 Het materiaal lever je als groep aan in een zip bestand. Dit zip bestand verstuur je naar Raymond van Dongelen via Wetransfer. In het hoofdstuk inlevervoorwaarden wordt de structuur van de Zip-file besproken. 
