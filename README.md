@@ -393,6 +393,8 @@ De rekening bestaat uit de volgende zaken:
 * Per leerdoel een zakelijk uitleg waarom je het leerdoel behaald/ niet behaald hebt. Dit kan een verwijzing naar een specifiek stuk documentatie zijn, een verwijzing naar een specifieke functie in je code;
 * Voor programmeerdoelen is het zeer verstandig om gebruik te maken van versiebeheer (zoals Github). Geef de beoordelende docenten toegang. 
 
+Let op: Om de kwaliteit van een assessment te waarborgen mag je maximaal 18 ec opnemen. 
+
 ## Voorbeeld
 Stel je wilt beter worden in het doen van literatuuronderzoek. In het begin van de periode kun je hier een aantal doelen bij bedenken:
 
